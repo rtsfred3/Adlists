@@ -13,6 +13,8 @@ jobs:
         name: "Generate Adlists"
         steps:
             - uses: actions/checkout@v3
+              with:
+                ref: main
             - name: Update Adlists - Fetching & Combining Hagezi's Native Tracker Blocklists
               run: |
                 bash scripts/generateHageziNativeAdblockCombined.sh
