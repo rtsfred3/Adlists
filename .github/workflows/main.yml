@@ -3,6 +3,9 @@ name: GenerateAdlists
 on:
     schedule:
         - cron: "17 */8 * * *"
+    push:
+        tags:
+            - 'v[0-9]+\.[0-9]+\.[0-9]+'
 
 jobs:
     release:
