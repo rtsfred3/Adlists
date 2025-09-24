@@ -2,7 +2,7 @@ name: GenerateAdlists
 
 on:
     schedule:
-        - cron: "0 * * * *"
+        - cron: "*/30 * * * *"
 
 jobs:
     release:
@@ -10,9 +10,7 @@ jobs:
         name: "Generate Adlists"
         steps:
             - uses: actions/checkout@v3
-              with:
-                fetch-depth: 0
-            - name: Update Adlists
+            - name: Update Adlists - Fetching & Combining Hagezi's Native Tracker Blocklists
               run: |
                 bash scripts/generateHageziNativeAdblockCombined.sh
             - name: Commit Changes
@@ -20,4 +18,5 @@ jobs:
                 git config --global user.name 'Ryan Fredrickson'
                 git config --global user.email '2818162+rtsfred3@users.noreply.github.com'
                 git commit -am "Updated Adlists"
+                git tag "v$(date +'%Y%m%d.%H%M00')"
                 git push
