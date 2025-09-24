@@ -2,7 +2,7 @@ name: GenerateAdlists
 
 on:
     schedule:
-        - cron: "17,43 * * * *"
+        - cron: "17 */8 * * *"
 
 jobs:
     release:
@@ -15,6 +15,7 @@ jobs:
                 bash scripts/generateHageziNativeAdblockCombined.sh
             - name: Update Adlists - Combining Several Adblock Pro Blocklists
               run: |
+                bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
                 bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
             - name: Update Adlists - Converting Host files to Adblock Pro files
               run: |
