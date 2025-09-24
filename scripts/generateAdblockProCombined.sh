@@ -1,6 +1,5 @@
 clear && clear
 
-
 DIR="abp"
 GIST_URL="$2"
 
