@@ -3,6 +3,7 @@ clear && clear
 DIR="abp"
 
 HOST_LISTS=("https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt" "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt")
+# HOST_LISTS=("native.amazon.txt" "native.apple.txt" "native.huawei.txt" "native.lgwebos.txt" "native.oppo-realme.txt" "native.roku.txt" "native.samsung.txt" "native.tiktok.extended.txt" "native.tiktok.txt" "native.vivo.txt" "native.winoffice.txt" "native.xiaomi.txt")
 
 FILE="hagezi.native.adblock.txt"
 DEDUPED_FILE="tmp_${FILE}"
