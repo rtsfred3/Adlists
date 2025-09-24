@@ -1,0 +1,23 @@
+name: GenerateAdlists
+
+on:
+    schedule:
+        - cron: "0 * * * *"
+
+jobs:
+    release:
+        runs-on: ubuntu-latest
+        name: "Generate Adlists"
+        steps:
+            - uses: actions/checkout@v3
+              with:
+                fetch-depth: 0
+            - name: Update Adlists
+              run: |
+                bash scripts/generateHageziNativeAdblockCombined.sh
+            - name: Commit Changes
+              run: |
+                git config --global user.name 'Ryan Fredrickson'
+                git config --global user.email '2818162+rtsfred3@users.noreply.github.com'
+                git commit -am "Updated Adlists"
+                git push
