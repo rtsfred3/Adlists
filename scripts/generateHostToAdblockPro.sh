@@ -31,7 +31,7 @@ echo "[Adblock Plus]
 
 curl "$HOST_LIST" --silent | sed '/^#/d' | sed -E 's/^[^ #]+[ ]+(.+)$/\1/g' | sort >> $DIR/$FILE
 
-echo "$(cat $DIR/$FILE | sort | sed -E '/^[ 	]+#/d' | sed -E 's/^(.+) #.*$/\1/g' | sed '/^$/d' | sed '/^0\.0\.0\.0$/d' | sort -u)" > $DIR/$FILE
+echo "$(cat $DIR/$FILE | sort | sed -E '/^[ 	]+#/d' | sed -E 's/^(.+) #.*$/\1/g' | sed '/^$/d' | sed '/^(0|127)\.0\.0\.(0|1)$/d' | sort -u)" > $DIR/$FILE
 echo "$(cat $DIR/$FILE | sort | sed -E 's/^(.+)$/||\1^/g')" >> $DIR/$DEDUPED_FILE
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE

@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Generated at 2025-09-25T03:19:35Z
+! Generated at 2025-09-24T20:46:54Z
 ! 
 ! Sources:
 ! https://small.oisd.nl
 ! https://v.firebog.net/hosts/AdguardDNS.txt
-! https://adlists-rtf.b-cdn.net/adlist/domains/frellwits.swedish.domains.txt
+! https://raw.githubusercontent.com/rtsfred3/PiHoleAdlists/main/abp/frellwits.swedish.adblock.txt
 
 ||0-02.net^
 ||0.myikas.com^
@@ -2455,7 +2455,6 @@
 ||9xob25oszs.com^
 ||9xxy.icu^
 ||9ywl0cwf7e37m5yi.tapin.gg^
-||Free-4paid.com^
 ||a-ads.com^
 ||a-affiliate.net^
 ||a-api.skz.dev^
@@ -45650,6 +45649,7 @@
 ||freckledoutsiderundaunted.com^
 ||fredlx.skinnypig.xyz^
 ||fredmoresco.com^
+||Free-4paid.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free-counter.co.uk^
 ||free-counter.com^
@@ -53078,8 +53078,8 @@
 ||gwpkpiodcnobu.online^
 ||gwqtum.philips.de^
 ||gwropn.soelu.com^
-||gwrtdp-tn690BFAdt.tclclouds.com^
 ||gwrtdp-tn690bfadt.tclclouds.com^
+||gwrtdp-tn690BFAdt.tclclouds.com^
 ||gwsmvqwyvkzfg.website^
 ||gwt.3dzlatnictvo.sk^
 ||gwt.amonis.v-b.site^
@@ -141592,7 +141592,6 @@
 ||wuyvamwe.com^
 ||wuzbhjpvsf.com^
 ||wuzzledfjelds.rest^
-||wvOntgd.pqmg.bid^
 ||wvbcoi.tui.ch^
 ||wvbzvwllkylyz.top^
 ||wvcnmte.top^
@@ -141607,6 +141606,7 @@
 ||wvlwtsgbperzr.space^
 ||wvmvpjlguwapy.online^
 ||wvomzgawkwvyn.top^
+||wvOntgd.pqmg.bid^
 ||wvoudw.magaseek.com^
 ||wvqljkowybfxe.space^
 ||wvrqxorubkj.com^
@@ -145019,7 +145019,6 @@
 ||z929.fuelfix.com^
 ||z953.marinij.com^
 ||z9k7.icu^
-||zSmhlV.zgbv.tech^
 ||za-ads.de^
 ||za-go.experian.com^
 ||za.agiay.vn^
@@ -145882,6 +145881,7 @@
 ||zskni.saucepizzaandwine.com^
 ||zslhmw.com^
 ||zslmueggcjatn.website^
+||zSmhlV.zgbv.tech^
 ||zsmsuwmifkrqv.online^
 ||zsozgqchlueqp.world^
 ||zspza.snapsupplements.com^

@@ -25,12 +25,13 @@ jobs:
             - name: Update Adlists - Converting Host files to Adblock Pro files
               run: |
                 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+                bash scripts/generateHostToAdblockPro.sh adaway.adblock.txt https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
             - name: Commit Changes
               run: |
                 git config user.name "github-actions[bot]"
                 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                 git add .
                 git commit -m "Updated Adlists"
-                git tag "v$(date +'%Y%m%d.%H%M00')"
+                git tag "$(date +'%Y%m%d.%H%M00')"
                 git push
                 git push --tags
