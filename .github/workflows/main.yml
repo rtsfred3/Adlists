@@ -12,7 +12,7 @@ jobs:
         runs-on: ubuntu-latest
         name: "Generate Adlists"
         steps:
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v4
               with:
                 ref: main
             - name: Update Adlists - Fetching & Combining Hagezi's Native Tracker Blocklists
@@ -27,8 +27,8 @@ jobs:
                 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.abp.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
             - name: Commit Changes
               run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
+                git config user.name "github-actions[bot]"
+                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                 git add .
                 git commit -m "Updated Adlists"
                 git tag "v$(date +'%Y%m%d.%H%M00')"
