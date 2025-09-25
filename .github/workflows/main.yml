@@ -1,8 +1,8 @@
-name: GenerateAdlists
+name: GenerateAdlistsDaily
 
 on:
     schedule:
-        - cron: "17 1 * * *"
+        - cron: "17 7 * * *"
     push:
         tags:
             - 'v[0-9]+\.[0-9]+\.[0-9]+'
@@ -17,15 +17,15 @@ jobs:
                 ref: main
             - name: Update Adlists - Fetching & Combining Hagezi's Native Tracker Blocklists
               run: |
-                bash scripts/generateHageziNativeAdblockCombined.sh
-            - name: Update Adlists - Combining Several Adblock Pro Blocklists
-              run: |
-                bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
-                bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
+                bash scripts/generateAdblockProCombined.sh hagezi.native.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/hagezi.native.abp
             - name: Update Adlists - Converting Host files to Adblock Pro files
               run: |
                 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
                 bash scripts/generateHostToAdblockPro.sh adaway.adblock.txt https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+            - name: Update Adlists - Combining Several Adblock Pro Blocklists
+              run: |
+                bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
+                bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
             - name: Commit Changes
               run: |
                 git config user.name "github-actions[bot]"
