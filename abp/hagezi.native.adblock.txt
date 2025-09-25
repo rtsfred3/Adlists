@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-25T05:09:16Z
+! Generated at 2025-09-25T05:25:50Z
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt

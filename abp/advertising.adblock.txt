@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-25T05:09:18Z
+! Generated at 2025-09-25T05:25:51Z
 ! 
 ! Sources:
 ! https://small.oisd.nl
@@ -45281,7 +45281,6 @@
 ||forscprts.com^
 ||forsookmurexes.world^
 ||forsphealan.com^
-||forstarlyor.com^
 ||fortaillowon.com^
 ||forter.com^
 ||forthbootyintricate.com^
@@ -53613,7 +53612,6 @@
 ||hasidagamian.click^
 ||haskardbeman.rest^
 ||haslocktyphia.com^
-||hasnegtiny.live^
 ||hasqg.swarm.com^
 ||hasselcleft.click^
 ||hasslefree.redwingshoes.com^
@@ -65407,7 +65405,6 @@
 ||lenpmh.francoisesaget.com^
 ||lenpnkeahydle.site^
 ||lensmandazed.help^
-||lenstasbih.top^
 ||lenta.sparrow.ru^
 ||lentainform.com^
 ||lentaopz.xyz^
@@ -93797,7 +93794,6 @@
 ||ranchsatin.com^
 ||rancidmorsel.com^
 ||rancorousswallow.com^
-||randeriridium.com^
 ||randiespacks.help^
 ||randisphotos.com^
 ||randiul.com^
