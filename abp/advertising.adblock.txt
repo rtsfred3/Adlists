@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-25T03:50:41Z
+! Generated at 2025-09-25T05:09:18Z
 ! 
 ! Sources:
 ! https://small.oisd.nl
@@ -70573,7 +70573,6 @@
 ||loversyorfinder.cfd^
 ||lovescontactthemeetup.com^
 ||loveseashore.com^
-||lovierthorax.com^
 ||lovingassociate.com^
 ||lovingboulevard.com^
 ||lovingdrop.pro^
@@ -74136,7 +74135,6 @@
 ||mathatuning.rest^
 ||mathematicsefficiencyburnt.com^
 ||matheranalytics.com^
-||mathertaped.life^
 ||mathilde-ads.com^
 ||mathtag.com^
 ||maticooads.com^
@@ -127487,7 +127485,6 @@
 ||tolt.io^
 ||toluidsonca.digital^
 ||tomagumby.com^
-||tomandligula.com^
 ||tomarnamki.shop^
 ||tomatobarrel.com^
 ||tomatoqqamber.click^
@@ -131661,7 +131658,6 @@
 ||transportation.external.xerox.com^
 ||trantalkes.top^
 ||traoquatangshopee.com^
-||traorphean.cfd^
 ||traosvocjo.com^
 ||traothuongxe37.com^
 ||traothuongxe7.com^
