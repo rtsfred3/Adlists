@@ -27,8 +27,8 @@ jobs:
                 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.abp.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
             - name: Commit Changes
               run: |
-                git config user.name "github-actions[bot]"
-                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                git config user.name "rtsfred3"
+                git config user.email "2818162+rtsfred3@users.noreply.github.com"
                 git add .
                 git commit -m "Updated Adlists"
                 git tag "v$(date +'%Y%m%d.%H%M00')"
