@@ -29,10 +29,14 @@ echo "[Adblock Plus]
 ! Sources:" > $DIR/$DEDUPED_FILE
 
 while IFS= read -r line; do
+    echo "! $line" >> $DIR/$DEDUPED_FILE
+
 	curl "$line" --silent | sed '/^!/d' | sed '/^\[/d' | sed '/^#/d' | sort >> $DIR/$FILE
 done <<< "$SOURCE_URL"
 
-cat $DIR/$FILE | sort -u >> $DIR/$DEDUPED_FILE
+# echo $(sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' $DIR/$FILE) >  $DIR/$FILE
+
+cat $DIR/$FILE | sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' | sort -u >> $DIR/$DEDUPED_FILE
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 

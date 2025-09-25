@@ -26,11 +26,10 @@ echo "" > $DIR/$FILE
 echo "[Adblock Plus]
 ! Generated at $(date +'%Y-%m-%dT%H:%M:%SZ')
 ! 
-! Sources: $HOST_LIST" > $DIR/$DEDUPED_FILE
+! Sources: $HOST_LIST
+! " > $DIR/$DEDUPED_FILE
 
 curl "$HOST_LIST" --silent | sed '/^#/d' | sed -E 's/^[^ #]+[ ]+(.+)$/\1/g' | sort >> $DIR/$FILE
-
-echo "! " >> $DIR/$DEDUPED_FILE
 
 echo "$(cat $DIR/$FILE | sort | sed -E '/^[ 	]+#/d' | sed -E 's/^(.+) #.*$/\1/g' | sed '/^$/d' | sed '/^0\.0\.0\.0$/d' | sort -u)" > $DIR/$FILE
 echo "$(cat $DIR/$FILE | sort | sed -E 's/^(.+)$/||\1^/g')" >> $DIR/$DEDUPED_FILE
@@ -38,4 +37,3 @@ echo "$(cat $DIR/$FILE | sort | sed -E 's/^(.+)$/||\1^/g')" >> $DIR/$DEDUPED_FIL
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 
 gzip -k -9 -f $DIR/$FILE
-# gzip -k -9 -f $DIR/$DEDUPED_FILE

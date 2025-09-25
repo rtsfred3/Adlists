@@ -2,7 +2,7 @@ name: GenerateAdlists
 
 on:
     schedule:
-        - cron: "17 */12 * * *"
+        - cron: "17 1 * * *"
     push:
         tags:
             - 'v[0-9]+\.[0-9]+\.[0-9]+'
@@ -20,10 +20,11 @@ jobs:
                 bash scripts/generateHageziNativeAdblockCombined.sh
             - name: Update Adlists - Combining Several Adblock Pro Blocklists
               run: |
+                bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
                 bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
             - name: Update Adlists - Converting Host files to Adblock Pro files
               run: |
-                bash scripts/generateHostToAdblockPro.sh frellwits.swedish.abp.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+                bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
             - name: Commit Changes
               run: |
                 git config user.name "github-actions[bot]"
@@ -32,3 +33,4 @@ jobs:
                 git commit -m "Updated Adlists"
                 git tag "v$(date +'%Y%m%d.%H%M00')"
                 git push
+                git push --tags
