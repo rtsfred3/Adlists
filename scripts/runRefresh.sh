@@ -30,11 +30,17 @@ bash scripts/generateAdblockProCombined.sh hagezi.native.adblock.txt https://gis
 bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
 # bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
 
+echo "Pushing to GitHub"
+
 git add .
 git commit -m "Updated Adlists @ $DATE"
 git tag "$DATE"
 git push
-git push --tags
+git push origin "$DATE"
+# git push --tags
+
+echo "Pushed to GitHub"
+echo "Uploading to BunnyCDN"
 
 FILES=$(find $DIR -type f | sed '1d' | sort -u)
 
@@ -48,3 +54,7 @@ for FILE in ${FILES[@]}; do
         -H 'accept: application/json'  \
         --data-binary @$DIR/$FILE_NAME &
 done
+
+wait
+
+echo "Uploaded to BunnyCDN"
