@@ -24,7 +24,7 @@ fi
 echo "" > $DIR/$FILE
 
 echo "[Adblock Plus]
-! Generated at $(date +'%Y-%m-%dT%H:%M:%SZ')
+! Generated at $(date -u +'%Y-%m-%d %H:%M:%S UTC')
 ! 
 ! Sources: $HOST_LIST
 ! " > $DIR/$DEDUPED_FILE

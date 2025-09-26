@@ -24,7 +24,7 @@ fi
 
 echo "" > $DIR/$FILE
 echo "[Adblock Plus]
-! Generated at $(date +'%Y-%m-%dT%H:%M:%SZ')
+! Generated at $(date -u +'%Y-%m-%d %H:%M:%S UTC')
 ! 
 ! Sources:" > $DIR/$DEDUPED_FILE
 
@@ -34,9 +34,11 @@ while IFS= read -r line; do
     curl "$line" --silent | sed '/^!/d' | sed '/^\[/d' | sed '/^#/d' | sort >> $DIR/$FILE
 done <<< "$SOURCE_URL"
 
-# echo $(sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' $DIR/$FILE) >  $DIR/$FILE
+for run in {1..2}; do
+    echo "! " >> $DIR/$DEDUPED_FILE
+done
 
-cat $DIR/$FILE | sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' | sort -u >> $DIR/$DEDUPED_FILE
+cat $DIR/$FILE | sed '1d' | sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' | sort -u >> $DIR/$DEDUPED_FILE
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 
