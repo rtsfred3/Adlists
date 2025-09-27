@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-26 07:00:15 UTC
+! Generated at 2025-09-27 07:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -90,6 +90,7 @@
 ||aax-us-pdx.amazon-adsystem.com^
 ||aax-us-pdx-rtb-adx.amazon-adsystem.com^
 ||aax-us-pdx-rtb.amazon-adsystem.com^
+||aax-us-west-2-ott.amazon-adsystem.amazon.com^
 ||aax-us-west-dtb-mobile.amazon-adsystem.com^
 ||aax-us-west-dtb-mobile-events.amazon-adsystem.com^
 ||aax-us-west-ott.amazon-adsystem.com^
@@ -611,6 +612,7 @@
 ||c.fr.msn.com^
 ||c.gr.msn.com^
 ||channelusa.samsung.com^
+||ch-asimov-leafs-events-data.trafficmanager.net^
 ||chc-visio-telemetry.officeapps.live.com^
 ||chem4wordtelemetry.servicebus.windows.net^
 ||child.sec.miui.com^
@@ -661,7 +663,9 @@
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-asia-stsdk09.vivoglobal.com^
 ||cname-de-stsdk.vivoglobal.com^
+||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
+||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
 ||cn-api.mcsvc.samsung.com.cn^
 ||cnbj1.fds.api.xiaomi.com^
