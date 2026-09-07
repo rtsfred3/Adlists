@@ -1,25 +1,22 @@
-# Generated at 2026-09-04 07:00:16 UTC
+# Generated at 2026-09-07 07:00:11 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
 0022a601.pphost.net
 0following.com
+0rder-ver1f2345.com
 123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
 1h.xeteloi4.ru
-31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
-3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
-999.34c9f78b4ef541baac4a6e84d4f832a7.lol
 abonent-app.ru
 acc.jiangsujiaxue.com
 acms.saleseos.com
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
-aetherone.su
 aftelecom.com.br
 aidlifempowerment.com
 airtickts.com
@@ -39,7 +36,6 @@ awarenessexhibition.com
 b2b.jewmailer.net
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-benotrobot.online
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
@@ -47,9 +43,9 @@ blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
+booking.captcha-message-extranet.com
 book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
-brightroseax.blog
 brightworks.cz
 bserail.com
 bvaco.com
@@ -62,9 +58,9 @@ cat.xiaoshabi.nl
 cdaonline.com.ar
 celebratingseniors.net
 chat-server.maverickpreviews.com
-cheatclients.com
 checkfivem.com
 chiptune.com
+chiroartist.com
 chuguadventures.co.tz
 cloud.pearlpeel.com
 cl.ssouy.com
@@ -72,7 +68,6 @@ clubdetiroelpicarcho.com
 cn.unionlever.com
 coconutoficial.com.br
 co-emas.com
-communication-hub.vg
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
@@ -81,7 +76,7 @@ cpc188.day
 cpofficial.com
 crystalpvp.ru
 cs.go.kg
-cyclograph.xyz
+curlservice.com
 d.14yaa.com
 damiancollier.com
 data.yhydl.com
@@ -96,6 +91,7 @@ dfd.zhzy999.net
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
+dl1.claudflare-gateway.net
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -119,17 +115,16 @@ dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
-emeraldstonegc.blog
 endpoint.project0.cc
 en.taichuan.com
+envs.sh
 epanpano.com
 fakers.co.jp
 farschid.de
-fdstat.vip
 fd.v2downf.shop
-fern-plume.com
 file.blackint3.com
 filerit.com
+file.uhsea.com
 first-security-verden.de
 flyingmutts.com
 fmrio.com
@@ -142,11 +137,9 @@ galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
 globalbank.us
-gobiotechpestcontrol.com
 grantexx.com
 grupomcperu.com
 gutando.com
-haiiiihello.top
 harmeetmotors.com
 hasalltalent.com
 hitman-pro.ru
@@ -160,7 +153,6 @@ igra123.com
 ikincielesyaciankara.com.tr
 impectorinternational.com
 indusenterprises.co
-infocardphoto.info
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -169,12 +161,12 @@ jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 joyeriatauro.com
+jswen.com
 kavacanada.ca
 kenwillzltd.com
 khavar.com
 kimyen.net
 kits.frog.tw
-kokorostore.it
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
@@ -185,26 +177,23 @@ luizmatoso.com.br
 lumacrea.com
 luminouspower.com.pk
 maidforyou1985.com
-mail.brightroseax.blog
-mail.emeraldstonegc.blog
 miriamgualda.com.br
 mitreart.com
-m.jkoa.co.kr
 mkconstructions.net
 m.meta-dm.com
 mnurlogistics.az
 mogimall.com
 mrsweaterltd.com
 muaklekcoop.com
+muledo.com
+multiplay.at
 munihuacho.gob.pe
 mx9x.com
 mysura.it
 ncxps.com
-node-slate.com
 noithaticon.vn
 n.vs108.com
 ny.lshdw.cc
-odinclient.dev
 ojang.pe.kr
 oknoplastik.sk
 one-graup.com
@@ -214,10 +203,11 @@ p3.zbjimg.com
 palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
+pdf-editore.com
+pdfmun.software
 PEDIANOW.ORG
 pfatrivandrum.org
 pic.li
-pingu.business
 pingu.ltd
 planetariumobil.ro
 plutotvshow.biz
@@ -228,7 +218,6 @@ profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
-qv.co.ke
 rabbitfuns.su
 ramirex.ro
 rcf.co.mz
@@ -246,7 +235,7 @@ riderspin.com
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
-safeuploadz.com
+sablayan.seasonshotelmindoro.com
 sales.ifree.page
 samiksha.com.sg
 scainseto.com.br
@@ -263,7 +252,6 @@ separadordecc.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
-shreesaiseva.org
 siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
@@ -285,11 +273,10 @@ swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-tarkioweb.com
-taskerempresascol.co
 taunahi.st
 tecunonline.com
 tehnomag.rs
+teleabonent.ru
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
@@ -300,7 +287,6 @@ theoremaoliveoil.com
 theservice4u.com
 thtp2.volamngayxua.net
 tiacreation.club
-togethers.tv
 toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
@@ -308,7 +294,6 @@ tpp.om-stock.com
 transparenciacanaa.com.br
 trtmyanmar.com
 tr.zhzy999.net
-tuiskr.com
 twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
@@ -316,7 +301,6 @@ upchemicals.co.in
 update.cg100iii.com
 us.wind0ws.net
 vcc-library.uk
-verification-process.com
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -325,6 +309,7 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+waveplus.mediabyte.be
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -360,6 +345,7 @@ www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
+www.oringosmod.com
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
@@ -386,4 +372,5 @@ xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
+zhigao5191.com
 zycdjz.com
