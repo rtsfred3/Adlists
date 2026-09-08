@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-07 07:00:11 UTC
+! Generated at 2026-09-08 07:00:15 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -11,13 +11,15 @@
 ||198348.gl^
 ||1h.vuregyy1.ru^
 ||1h.xeteloi4.ru^
+||31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^
+||3.zhzy999.net^
 ||3.zhzy999.net3.zhzy999.net^
-||abonent-app.ru^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
 ||addurltogoogle.com^
 ||admin.byte.in.ua^
 ||admin.gestroom.it^
+||adps.pro^
 ||aftelecom.com.br^
 ||aidlifempowerment.com^
 ||airtickts.com^
@@ -27,16 +29,19 @@
 ||alphapicaficagency.com^
 ||alphasaling.site^
 ||alternativas.ru^
+||api.cdn22.net^
 ||app.appzcvb.com^
 ||archivoscrosoft.com^
 ||areyouready.co.za^
 ||atasapka.com.tr^
 ||atom.freehosting.dev^
 ||audicontadores.com^
-||awarenessexhibition.com^
+||aura.tcplegit.space^
+||authgen.deals^
 ||b2b.jewmailer.net^
 ||backupso.com^
 ||balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
+||beak.in^
 ||bito.com.pk^
 ||blankeyeo.com^
 ||blessdayservices.org^
@@ -49,7 +54,7 @@
 ||bridgeroad.maverickpreviews.com^
 ||brightworks.cz^
 ||bserail.com^
-||bvaco.com^
+||c2.mc-live.online^
 ||cambodiatouristservice.com^
 ||casasmediterraneas.com^
 ||catbaparadisehotel.com.vn^
@@ -57,6 +62,7 @@
 ||cat.xiaojiji.nl^
 ||cat.xiaoshabi.nl^
 ||cdaonline.com.ar^
+||cdn.file6.goodid.com^
 ||celebratingseniors.net^
 ||chat-server.maverickpreviews.com^
 ||checkfivem.com^
@@ -74,10 +80,10 @@
 ||coolairesgroup.com^
 ||coralasargetia.ro^
 ||cpc188.day^
-||cpofficial.com^
 ||crystalpvp.ru^
 ||cs.go.kg^
 ||curlservice.com^
+||cu.srijanajha.com.np^
 ||d.14yaa.com^
 ||damiancollier.com^
 ||data.yhydl.com^
@@ -89,7 +95,7 @@
 ||dexios.co.za^
 ||dezcom.com^
 ||dfd.zhzy999.net^
-||disk.accord1key.cn^
+||dinamikakargo.com^
 ||divvanews.com^
 ||dl.1003b.56a.com^
 ||dl1.claudflare-gateway.net^
@@ -115,7 +121,6 @@
 ||dynga.pl^
 ||electri.billregulator.com^
 ||elisans.novayonetim.com^
-||embedone.com^
 ||endpoint.project0.cc^
 ||en.taichuan.com^
 ||envs.sh^
@@ -126,12 +131,12 @@
 ||file.blackint3.com^
 ||filerit.com^
 ||file.uhsea.com^
+||filmchill.net^
 ||first-security-verden.de^
 ||flyingmutts.com^
 ||fmrio.com^
 ||fukt.link^
 ||fullstacknir.com^
-||funneldiy.com^
 ||fz.tiansys.cn^
 ||gaiadeqi.com^
 ||galerisenimutiara.com^
@@ -152,16 +157,15 @@
 ||ignetwork.us^
 ||igra123.com^
 ||ikincielesyaciankara.com.tr^
+||iloveboats.st^
 ||impectorinternational.com^
 ||indusenterprises.co^
 ||ircftp.net^
-||isiore.com.co^
 ||itssprout.com^
 ||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jessespridecharters.com^
 ||jlwz.cn^
-||joyeriatauro.com^
 ||jswen.com^
 ||kavacanada.ca^
 ||kenwillzltd.com^
@@ -171,15 +175,17 @@
 ||konsor.ru^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
-||lindnerelektroanlagen.de^
+||leanmaestro.com^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||luizmatoso.com.br^
-||lumacrea.com^
 ||luminouspower.com.pk^
 ||maidforyou1985.com^
+||mail.quietsurfwi.help^
+||malupieng.com.br^
 ||miriamgualda.com.br^
 ||mitreart.com^
+||m.jkoa.co.kr^
 ||mkconstructions.net^
 ||m.meta-dm.com^
 ||mnurlogistics.az^
@@ -189,16 +195,17 @@
 ||muledo.com^
 ||multiplay.at^
 ||munihuacho.gob.pe^
-||mx9x.com^
 ||mysura.it^
 ||ncxps.com^
 ||noithaticon.vn^
+||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
+||oim.doganltd.com.tr^
 ||ojang.pe.kr^
 ||oknoplastik.sk^
-||one-graup.com^
 ||onfiltre.com.tr^
+||opalcraftsmp.com^
 ||outpost.co.ke^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
@@ -219,9 +226,10 @@
 ||public.demo.securecloudsandbox.com^
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
+||quietsurfwi.help^
+||qv.co.ke^
 ||rabbitfuns.su^
 ||ramirex.ro^
-||rcf.co.mz^
 ||rdm.91yunma.cn^
 ||reauthenticator.com^
 ||records.dennisign.se^
@@ -237,6 +245,7 @@
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
 ||sablayan.seasonshotelmindoro.com^
+||safeifm.com^
 ||sales.ifree.page^
 ||samiksha.com.sg^
 ||scainseto.com.br^
@@ -244,6 +253,7 @@
 ||scoala1gherla.ro^
 ||screenconnect.pro^
 ||scrroeder.com^
+||sdufkghdfshds.cfd^
 ||sec.dashabi.in^
 ||sec.xiaojiji.nl^
 ||sec.xiaoshabi.nl^
@@ -255,11 +265,12 @@
 ||shqdown.ggzuhao.com^
 ||siaasesoria.com.mx^
 ||signageinsignia.co.za^
+||signaturenib.rest^
 ||sk-comtel.com^
 ||smartermail.host^
+||snowproject.lol^
 ||sochibeer.ru^
 ||soft.110route.com^
-||solar-sanat.net^
 ||spgint.com^
 ||static.ilclock.com^
 ||static.topxgun.com^
@@ -270,7 +281,6 @@
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
-||swiftfusion.tech^
 ||tangentwaves.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
@@ -294,9 +304,9 @@
 ||tpp.om-stock.com^
 ||transparenciacanaa.com.br^
 ||trtmyanmar.com^
-||tr.zhzy999.net^
 ||twitch.tj^
 ||twu-hwt.org^
+||universami.ge^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
@@ -334,6 +344,7 @@
 ||www.hostingcloud.science^
 ||www.hqsblog.com^
 ||www.hseda.com^
+||www.iloveboats.st^
 ||www.intelligradeeducation.vicentecisnerospub.com^
 ||www.jozefinskiatelje.si^
 ||www.kenwillzltd.com^
