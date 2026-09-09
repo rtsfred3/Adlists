@@ -1,19 +1,14 @@
 [Adblock Plus]
-! Generated at 2026-09-08 07:00:15 UTC
+! Generated at 2026-09-09 07:00:19 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
-||0022a601.pphost.net^
 ||0following.com^
-||0rder-ver1f2345.com^
 ||123.ywxww.net^
 ||1717.1000uc.com^
 ||198348.gl^
 ||1h.vuregyy1.ru^
 ||1h.xeteloi4.ru^
-||31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^
-||3.zhzy999.net^
-||3.zhzy999.net3.zhzy999.net^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
 ||addurltogoogle.com^
@@ -30,8 +25,8 @@
 ||alphasaling.site^
 ||alternativas.ru^
 ||api.cdn22.net^
-||app.appzcvb.com^
 ||archivoscrosoft.com^
+||archway.cozyvistany.com^
 ||areyouready.co.za^
 ||atasapka.com.tr^
 ||atom.freehosting.dev^
@@ -45,6 +40,7 @@
 ||bito.com.pk^
 ||blankeyeo.com^
 ||blessdayservices.org^
+||blit.co.za^
 ||blogs.sokun.jp^
 ||bmdcompany.com^
 ||bnet-api.playm8ru.win^
@@ -54,15 +50,14 @@
 ||bridgeroad.maverickpreviews.com^
 ||brightworks.cz^
 ||bserail.com^
-||c2.mc-live.online^
 ||cambodiatouristservice.com^
 ||casasmediterraneas.com^
 ||catbaparadisehotel.com.vn^
 ||cat.dashabi.in^
 ||cat.xiaojiji.nl^
 ||cat.xiaoshabi.nl^
+||ccleaner.gl^
 ||cdaonline.com.ar^
-||cdn.file6.goodid.com^
 ||celebratingseniors.net^
 ||chat-server.maverickpreviews.com^
 ||checkfivem.com^
@@ -71,7 +66,6 @@
 ||chuguadventures.co.tz^
 ||cloud.pearlpeel.com^
 ||cl.ssouy.com^
-||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
 ||coconutoficial.com.br^
 ||co-emas.com^
@@ -82,7 +76,6 @@
 ||cpc188.day^
 ||crystalpvp.ru^
 ||cs.go.kg^
-||curlservice.com^
 ||cu.srijanajha.com.np^
 ||d.14yaa.com^
 ||damiancollier.com^
@@ -94,11 +87,10 @@
 ||delp-heizungsbau.de^
 ||dexios.co.za^
 ||dezcom.com^
-||dfd.zhzy999.net^
 ||dinamikakargo.com^
+||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
-||dl1.claudflare-gateway.net^
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||doc.e-statements.app^
@@ -113,9 +105,7 @@
 ||download.pdf00.com^
 ||download.suxiazai.com^
 ||down.pcclear.com^
-||down.qqfarmer.com.cn^
 ||dreamwatchevent.com^
-||dreemix.com^
 ||duct-master.com^
 ||d.wanyouxi7.com^
 ||dynga.pl^
@@ -137,9 +127,7 @@
 ||fmrio.com^
 ||fukt.link^
 ||fullstacknir.com^
-||fz.tiansys.cn^
 ||gaiadeqi.com^
-||galerisenimutiara.com^
 ||geoxsecurity.ro^
 ||gestionycobranzas.com^
 ||globalbank.us^
@@ -161,6 +149,7 @@
 ||impectorinternational.com^
 ||indusenterprises.co^
 ||ircftp.net^
+||isiore.com.co^
 ||itssprout.com^
 ||jawaratekno.com^
 ||jenniferloeffler.com^
@@ -175,14 +164,17 @@
 ||konsor.ru^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
-||leanmaestro.com^
+||liikepalvelu.com^
+||lindnerelektroanlagen.de^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||luizmatoso.com.br^
+||lumacrea.com^
 ||luminouspower.com.pk^
 ||maidforyou1985.com^
 ||mail.quietsurfwi.help^
 ||malupieng.com.br^
+||metrics.gocloudmaps.com^
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
@@ -201,8 +193,8 @@
 ||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
-||oim.doganltd.com.tr^
 ||ojang.pe.kr^
+||okhan.net^
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||opalcraftsmp.com^
@@ -218,7 +210,6 @@
 ||pic.li^
 ||pingu.ltd^
 ||planetariumobil.ro^
-||plutotvshow.biz^
 ||postelnini.mk^
 ||practisingcertificateprotection.com^
 ||preciosasjoyitas.com.mx^
@@ -230,6 +221,7 @@
 ||qv.co.ke^
 ||rabbitfuns.su^
 ||ramirex.ro^
+||rcf.co.mz^
 ||rdm.91yunma.cn^
 ||reauthenticator.com^
 ||records.dennisign.se^
@@ -240,9 +232,9 @@
 ||reservphotoinstay.one^
 ||reutilizemais.co.mz^
 ||rheddh.com^
-||riderspin.com^
 ||robertrowe.com^
 ||royalindiancurryclub.com^
+||rubburizee.es^
 ||rxquickpay.com^
 ||sablayan.seasonshotelmindoro.com^
 ||safeifm.com^
@@ -251,7 +243,7 @@
 ||scainseto.com.br^
 ||scanbot.me^
 ||scoala1gherla.ro^
-||screenconnect.pro^
+||scooter.cozyvistany.com^
 ||scrroeder.com^
 ||sdufkghdfshds.cfd^
 ||sec.dashabi.in^
@@ -261,6 +253,7 @@
 ||semencepourlavie.org^
 ||separadordecc.com^
 ||seputartuban.com^
+||sex.gemlogin.space^
 ||sg123.net^
 ||shqdown.ggzuhao.com^
 ||siaasesoria.com.mx^
@@ -269,8 +262,8 @@
 ||sk-comtel.com^
 ||smartermail.host^
 ||snowproject.lol^
-||sochibeer.ru^
 ||soft.110route.com^
+||spa-com.com^
 ||spgint.com^
 ||static.ilclock.com^
 ||static.topxgun.com^
@@ -281,6 +274,7 @@
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
+||swiftfusion.tech^
 ||tangentwaves.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
@@ -295,23 +289,21 @@
 ||themaintechnician.us^
 ||thementordirectory.com^
 ||theoremaoliveoil.com^
-||theservice4u.com^
 ||thtp2.volamngayxua.net^
 ||tiacreation.club^
 ||toolshare.com.tr^
 ||top8onlinegame.com^
 ||topmark-tuitioncentre.co.uk^
 ||tpp.om-stock.com^
+||traderhype.com^
 ||transparenciacanaa.com.br^
 ||trtmyanmar.com^
 ||twitch.tj^
 ||twu-hwt.org^
-||universami.ge^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||us.wind0ws.net^
-||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -320,7 +312,6 @@
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
 ||vrajras.com^
-||waveplus.mediabyte.be^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
@@ -335,7 +326,6 @@
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.chenwangqiao.com^
 ||www-connect-secure-wellcfargo.sekolahkejarpaket.com^
-||www.controliumbt.com^
 ||www.crazywickedaddiction.com^
 ||www.cutting-edge.in^
 ||www.drgenov.com^
@@ -356,12 +346,11 @@
 ||www.nccommunication.be^
 ||www.newkey.co.kr^
 ||www.notbak.com^
-||www.ojang.pe.kr^
+||www.okhan.net^
 ||www.oringosmod.com^
 ||www.pingu.surf^
 ||www.pointtohealth.com^
 ||www.reifenquick.de^
-||www.ryzhe.com^
 ||www.saf-oil.ru^
 ||www.salonmarketing.ca^
 ||www.sgeseducation.com^
@@ -377,7 +366,6 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.zamilgroups.com^
 ||www.zhikey.com^
-||w.zhzy999.net^
 ||xenon.studio^
 ||xn--yh4bx88a.com^
 ||xshop.com.tr^
