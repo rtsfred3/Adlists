@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-11 07:00:55 UTC
+! Generated at 2026-09-12 07:00:57 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8038,6 +8038,7 @@
 ||bebpon.zetronix.com^
 ||becanium.com^
 ||becomemummy.com^
+||beddingdownbaby.com^
 ||bedsberry.com^
 ||beeline.beeline-tire.co.jp^
 ||beelinecolor.com^
@@ -8146,12 +8147,14 @@
 ||bigfishapparel.com^
 ||biggerbling.com^
 ||bighornbasin.net^
+||bigpicframing.com^
 ||bigwetbrush.com^
 ||bigworldfashion.com^
 ||b.iheart.southwest.com^
 ||bi.heyloyalty.com^
 ||bi.irisdating.com^
 ||bijkep.hotelesestelar.com^
+||bijouxbee.com^
 ||bikeexerciser.com^
 ||bikepaws.com^
 ||bikesboard.com^
@@ -8176,6 +8179,7 @@
 ||bio.chups.co^
 ||biologylog.com^
 ||biophysicsgroup.actonservice.com^
+||biotechnologysciences.com^
 ||bi.pst.tech^
 ||birthdaybelief.com^
 ||biscuitbox.net^
@@ -39060,6 +39064,7 @@
 ||text.mitarbeiterangebote.at^
 ||text.mitarbeiterangebote.de^
 ||text.rahmenvereinbarungen.de^
+||texturehunt.com^
 ||texturetrick.com^
 ||te.yomonda.de^
 ||te.your-look-for-less.nl^
@@ -39673,6 +39678,7 @@
 ||top.elec.ru^
 ||top-fwz1.mail.ru^
 ||topicalcartel.com^
+||topicjungle.com^
 ||topsecretapp.net^
 ||top.skyzone.ro^
 ||topspin.npo.nl^
@@ -42675,6 +42681,7 @@
 ||t.usctrojans.com^
 ||t.utahstateaggies.com^
 ||tutbc1.www.tapmyback.com^
+||tutorshelf.com^
 ||t.utrockets.com^
 ||tuvevx.agent-sana.com^
 ||t.valcyte.com^
@@ -42722,6 +42729,7 @@
 ||twochihuahuas.com^
 ||two.cm.com^
 ||twoeej.carrefour.fr^
+||twofishweb.com^
 ||two.tio.nl^
 ||tw.reppublika.com^
 ||twsdne.petenkoiratarvike.com^
@@ -43053,6 +43061,7 @@
 ||uqhpej.wiberrentacar.com^
 ||urbanairship.com^
 ||urbanlaurel.com^
+||urbanopus.net^
 ||ur.b.inhaabit.com^
 ||ureca.samsungapps.com^
 ||urehgr.halekulani.com^
