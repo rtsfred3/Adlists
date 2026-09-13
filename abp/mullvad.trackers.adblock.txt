@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-12 07:00:57 UTC
+! Generated at 2026-09-13 07:01:01 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4561,6 +4561,7 @@
 ||adex.predear.com^
 ||ad-format16-normal-useastred.tiktokv.eu^
 ||ad-format-sg.tiktokv.com^
+||ad-format.tiktokv.us^
 ||ad-format-ttp2.tiktokv.eu^
 ||adfox.yandex.ru^
 ||ad.gogox.com^
@@ -4966,6 +4967,7 @@
 ||aeotgu.asi-reisen.de^
 ||aep-target.credit-suisse.com^
 ||aepxlg.adobe.com^
+||ae-rdx2-lgtvsdp-com.aws-prd.net^
 ||aerezb.nepamall.com^
 ||aerialapps.com^
 ||aeromark.actonservice.com^
@@ -5192,6 +5194,7 @@
 ||alicat.actonservice.com^
 ||a.lifehacker.ru^
 ||alikeaddition.com^
+||al-info-lgsmartad-com.aws-prd.net^
 ||alinks.outcomes4me.com^
 ||a.linkz.ai^
 ||ali-pro-origin-pull.kwai.net.iberostar.com^
@@ -5237,6 +5240,7 @@
 ||alpineactor.com^
 ||alquiler.aldflex.es^
 ||alquiler.carflex.es^
+||al-rdx2-lgtvsdp-com.aws-prd.net^
 ||alrhry.cjthemarket.com^
 ||alsgaj.chosun.com^
 ||al-smetrics.vizio.com^
@@ -6253,6 +6257,7 @@
 ||api.launcher.intl.miui.com^
 ||apilog-web.acfun.cn^
 ||api-metric.gosweb.gosuslugi.ru^
+||api.metrics.eu-central-1.iris.apx.amazon.dev^
 ||api.metrics.us-west-2.iris.apx.amazon.dev^
 ||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
@@ -7510,6 +7515,7 @@
 ||athl.lsusports.net^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||aticti.actonservice.com^
+||at-info-lgsmartad-com.aws-prd.net^
 ||ati.sazka.cz^
 ||atiteasexam.quantresear.ch^
 ||atlantablackstar.black.news^
@@ -7529,6 +7535,7 @@
 ||at.pagesjaunes.fr^
 ||at.postbank.de^
 ||a.transportgruppen.se^
+||at-rdx2-lgtvsdp-com.aws-prd.net^
 ||a.trivita.com^
 ||ats.alot.com^
 ||at.sharpmarketing.eu^
@@ -7571,6 +7578,7 @@
 ||au.ff.avast.sec.miui.com^
 ||au-go.experian.com^
 ||auhdzd.paprika-shopping.de^
+||au-info-lgsmartad-com.aws-prd.net^
 ||au.interface.com^
 ||aullwp.sportisimo.sk^
 ||aumarketing.sedgwick.com^
@@ -7579,6 +7587,7 @@
 ||a.union.xiaomi.com^
 ||auoehd.liebscher-bracht.com^
 ||au-partners.ingrammicro.com^
+||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||aurelianlending.actonservice.com^
 ||aurora-d3.herokuapp.com^
 ||aurum.tirto.id^
@@ -8048,6 +8057,7 @@
 ||beginnerpancake.com^
 ||be-go.experian.com^
 ||behave.sn.at^
+||be-info-lgsmartad-com.aws-prd.net^
 ||belong.curtin.edu.au^
 ||benchlamp.com^
 ||beneficios.davivienda.hn^
@@ -8112,8 +8122,8 @@
 ||bgfmvc.amandalindroth.com^
 ||bg-go.experian.com^
 ||bgiamericas.actonservice.com^
+||bg-info-lgsmartad-com.aws-prd.net^
 ||bgp.fe01.c3.xiaomi.com^
-||bgp.tv.pandora.xiaomi.com^
 ||bgtfr-test.mno.link^
 ||bgupcq.westfalia.de^
 ||bh-ad-lgsmartad-com.aws-prd.net^
@@ -8600,6 +8610,7 @@
 ||brickworks.viessmann.sg^
 ||briefing.actonservice.com^
 ||brighttoe.com^
+||br-info-lgsmartad-com.aws-prd.net^
 ||b-ring-fallback.msedge.net^
 ||bringg.actonservice.com^
 ||bringmethehats.com^
@@ -8669,6 +8680,7 @@
 ||brqory.notino.sk^
 ||brquazzar.eccocar.com^
 ||brquikly.eccocar.com^
+||br-rdx2-lgtvsdp-com.aws-prd.net^
 ||brrecordgo.eccocar.com^
 ||brrentalservicefinland.eccocar.com^
 ||brrhgrocarsharing.eccocar.com^
@@ -8850,11 +8862,13 @@
 ||by-ad-lgsmartad-com.aws-prd.net^
 ||bydst.com^
 ||byhqrw.gopeople.co.kr^
+||by-info-lgsmartad-com.aws-prd.net^
 ||byjpsr.bobags.com.br^
 ||bykwtf.victoriassecret.ae^
 ||by.mywd.com^
 ||b.your.rewardsemail.dominos.ca^
 ||byqdtp.interpark.com^
+||by-rdx2-lgtvsdp-com.aws-prd.net^
 ||bysfnu.bodeboca.com^
 ||b.ysh.io^
 ||byxcbk.ipekevi.com^
@@ -8902,6 +8916,7 @@
 ||cafescampfires.com^
 ||cafirebreather.com^
 ||cagkpu.suitdirect.co.uk^
+||ca-info-lgsmartad-com.aws-prd.net^
 ||cakeagenda.com^
 ||cakesdrum.com^
 ||cakmzz.schwab.de^
@@ -9026,6 +9041,7 @@
 ||cardmethod.com^
 ||card.pingpro.com^
 ||cardproducer.com^
+||ca-rdx2-lgtvsdp-com.aws-prd.net^
 ||careerconnect.epoise.com^
 ||careers.coniferhealth.com^
 ||care.excellence.kaweahhealth.org^
@@ -9292,6 +9308,7 @@
 ||childlikeform.com^
 ||child.sec.miui.com^
 ||chillingtofu.com^
+||ch-info-lgsmartad-com.aws-prd.net^
 ||chingovernment.com^
 ||chipcardice.com^
 ||chipperisle.com^
@@ -9305,6 +9322,7 @@
 ||choymp.pooldawg.com^
 ||chpspb.bubbleroom.fi^
 ||chrczt.vite-envogue.de^
+||ch-rdx2-lgtvsdp-com.aws-prd.net^
 ||christian.lifeway.com^
 ||christians.lifeway.com^
 ||chronicle.medal.tv^
@@ -11916,6 +11934,7 @@
 ||de-go.experian.com^
 ||degreechariot.com^
 ||degree.insead.edu^
+||de-info-lgsmartad-com.aws-prd.net^
 ||dejavu.mercadolivre.com.br^
 ||dejpog.sunstar-shop.jp^
 ||delete.atea.fi^
@@ -11949,6 +11968,7 @@
 ||dep.hmgroup.com^
 ||deployinput.com^
 ||derbypops.com^
+||de-rdx2-lgtvsdp-com.aws-prd.net^
 ||descargar.billeteramango.com^
 ||descargar.telocompro.com.bo^
 ||descarga.veikul.com^
@@ -13132,8 +13152,10 @@
 ||eeco-net.actonservice.com^
 ||eedijm.bakeca.it^
 ||ee.impactextend.dk^
+||ee-info-lgsmartad-com.aws-prd.net^
 ||eel.transistor.fm^
 ||eennme.vidaxl.sk^
+||ee-rdx2-lgtvsdp-com.aws-prd.net^
 ||eesexz.butyraj.pl^
 ||e.e.themighty.com^
 ||eetzod.bemol.com.br^
@@ -13175,6 +13197,7 @@
 ||eggexperts.com^
 ||eggrecipe.com^
 ||eghrbf.immowelt.at^
+||eg-info-lgsmartad-com.aws-prd.net^
 ||egoi.site^
 ||egvemw.aboutyou.ee^
 ||ehauzf.jewlr.ca^
@@ -14058,6 +14081,7 @@
 ||etx.indiatimes.com^
 ||etznkn.ec-store.net^
 ||eu-1-id5-sync.com^
+||eu7-info-lgsmartad-com.aws-prd.net^
 ||eu-album-api.vivoglobal.com^
 ||euapp.levi.com^
 ||eu.business.samsung.com^
@@ -14146,6 +14170,7 @@
 ||eusdbk.philosophyofficial.com^
 ||e.usesneakpeek.com^
 ||eu.sharpmarketing.eu^
+||eu-st-exappupgrade.vivoglobal.com^
 ||eu-stsdk.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
@@ -14687,7 +14712,6 @@
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
-||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||ff.pdf.ac^
 ||ffr.actonservice.com^
 ||ffrmel.gerryweber.com^
@@ -14718,6 +14742,7 @@
 ||figsprotein.com^
 ||figurehunter.net^
 ||fiimox.lebenskraftpur.de^
+||fi-info-lgsmartad-com.aws-prd.net^
 ||filament-stats.herokuapp.com^
 ||filbrandtco.actonservice.com^
 ||file.cdn.mvideo.xiaomi.com^
@@ -14754,6 +14779,7 @@
 ||fipsta.urbanara.at^
 ||fipsta.urbanara.co.uk^
 ||fipsta.worldfitness.de^
+||fi-rdx2-lgtvsdp-com.aws-prd.net^
 ||fireanalytics.firestream.to^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
@@ -15132,6 +15158,7 @@
 ||friendlycrayon.com^
 ||friendlyfold.com^
 ||friends.hyll.com^
+||fr-info-lgsmartad-com.aws-prd.net^
 ||fr.lucanet.com^
 ||frogator.com^
 ||frog.editorx.com^
@@ -15169,6 +15196,7 @@
 ||frostnsullivan.advancedtech.com^
 ||frozekitchen.com^
 ||frqbff.hedleyandbennett.com^
+||fr-rdx2-lgtvsdp-com.aws-prd.net^
 ||fr-register.xmpush.global.xiaomi.com^
 ||fr.sharpmarketing.eu^
 ||frugalfiestas.com^
@@ -15359,6 +15387,7 @@
 ||gba.kwm.com^
 ||gb-asymbo.m-shop.me^
 ||gb.click.finning.com^
+||gb-info-lgsmartad-com.aws-prd.net^
 ||g.bing.com^
 ||g.bitmag.com.br^
 ||g.bit.pt^
@@ -15368,6 +15397,7 @@
 ||gbncqh.koneko-breeder.com^
 ||gbqofs.com^
 ||g-br-cdn.kwai.net.iberostar.com^
+||gb-rdx2-lgtvsdp-com.aws-prd.net^
 ||gbtracking.cubiq.com^
 ||gbtracking.finning.com^
 ||gbvrgf.hibarai.com^
@@ -16405,6 +16435,7 @@
 ||gr-go.experian.com^
 ||gridbelow.com^
 ||gridoffers.com^
+||gr-info-lgsmartad-com.aws-prd.net^
 ||gripcorn.com^
 ||grnext.crockpot-romania.ro^
 ||grn.openapp.link^
@@ -16423,6 +16454,7 @@
 ||growth-channel.net^
 ||growthmodemarketing.actonservice.com^
 ||grow.urbandictionary.network^
+||gr-rdx2-lgtvsdp-com.aws-prd.net^
 ||grs.dbankcloud.asia^
 ||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
@@ -17101,6 +17133,8 @@
 ||ibkups.rci.com^
 ||i.blinds.ca^
 ||ibmtechnology.arrow.com^
+||ibs.nextlgsdp.com^
+||ibsstat.nextlgsdp.com^
 ||ibtmla.discovery-expedition.com^
 ||icahealth.actonservice.com^
 ||i.carry.bible^
@@ -17130,7 +17164,6 @@
 ||icosa-service-sg-03.allawnos.com^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
-||icosa-sg.coloros.com^
 ||icota-eu.coloros.com^
 ||icota-service-eu.allawnos.com^
 ||icota-service-in.allawnos.com^
@@ -18704,6 +18737,7 @@
 ||ingredients.firmenich.com^
 ||ingress.linktr.ee^
 ||ingress.trendii.com^
+||in-info-lgsmartad-com.aws-prd.net^
 ||in.invitd.us^
 ||inkcoupon.com^
 ||inkubate.actonservice.com^
@@ -19020,6 +19054,7 @@
 ||ir-fr.amazon-adsystem.com^
 ||iridescentdusk.com^
 ||ir-in.amazon-adsystem.com^
+||ir-info-lgsmartad-com.aws-prd.net^
 ||ir-it.amazon-adsystem.com^
 ||ir-jp.amazon-adsystem.com^
 ||irmsolutions.choicepoint.com^
@@ -19029,6 +19064,7 @@
 ||iro.iperceptions.com^
 ||irqewz.vilebrequin.com^
 ||irqoqr.industrywest.com^
+||ir-rdx2-lgtvsdp-com.aws-prd.net^
 ||irreverselookuptm.trafficmanager.net^
 ||irs01.com^
 ||irs.iperceptions.com^
@@ -19072,11 +19108,13 @@
 ||i.test.airtel.in^
 ||it-go.experian.com^
 ||i-th.browser.heytapmobile.com^
+||it-info-lgsmartad-com.aws-prd.net^
 ||itkdlu.equideow.com^
 ||i.toywords.games^
 ||itpebis03.recella3d.com^
 ||itp.phoebebeautyup.com^
 ||itp.yaku-job.com^
+||it-rdx2-lgtvsdp-com.aws-prd.net^
 ||itsdonelist.com^
 ||itservices.ricoh.ch^
 ||itservices.ricoh.co.uk^
@@ -19711,6 +19749,7 @@
 ||kyszhn.qvc.jp^
 ||kyvpze.vidaxl.co.uk^
 ||kz-ad-lgsmartad-com.aws-prd.net^
+||kz-album-api.vivoglobal.com^
 ||kz-cname-sin01-bigdata.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
 ||kzhesi.corcoran.com^
@@ -19720,6 +19759,7 @@
 ||kz-ort-stsdk.vivoglobal.com^
 ||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-prt-stsdk.vivoglobal.com^
+||kz-p.vivoglobal.com^
 ||kzsicw.chip.de^
 ||kzsicw.cinema.de^
 ||kzsicw.fitforfun.de^
@@ -19731,6 +19771,7 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-timesync.vivoglobal.com^
 ||kzutbh.takeappeal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
@@ -21032,6 +21073,7 @@
 ||location.live.net^
 ||location.microsoft.com^
 ||location-microsoft-com.b-0005.b-msedge.net^
+||location-ru.tiktokv.com^
 ||location-sg.tiktokv.com^
 ||location.tiktok.com^
 ||location.tiktokv.com^
@@ -21119,7 +21161,6 @@
 ||log32-normal-zr.tiktokv.com^
 ||log3-normal-c-alisg.tiktokv.com^
 ||log3-normal-c-useast1a.tiktokv.com^
-||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal-alisg.tiktokv.com^
 ||log58-normal-c-alisg.tiktokv.com^
 ||log58-normal-c-useast1a.tiktokv.com^
@@ -24404,7 +24445,6 @@
 ||metrics.etihad.com^
 ||metrics.etihadengineering.com^
 ||metrics.etihadguest.com^
-||metrics.eu-central-1.iris.apx.amazon.dev^
 ||metrics.eu.playstation.com^
 ||metrics.eurobet.it^
 ||metrics.eu-south-2.iris.apx.amazon.dev^
@@ -25968,6 +26008,7 @@
 ||mssdk-quic-sg.tiktokv.com^
 ||mssdk-quic-va.tiktokv.com^
 ||mssdk-ru.tiktokv.com^
+||mssdk-ru.tiktokv.com.www.digmawifi.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
 ||mssdk-sg.capcutapi.com^
@@ -26382,7 +26423,6 @@
 ||news.verimatrix.com^
 ||newtest.wunderman-email.cjm.adobe.com^
 ||nex.163.com^
-||nextlgsdp.com^
 ||nexttopchef.com^
 ||nexus.officeapps.live.com^
 ||nexusrules.live.com^
@@ -26456,10 +26496,12 @@
 ||nlf6.vente-unique.pl^
 ||nl-go.experian.com^
 ||nlgzhd.yoox.com^
+||nl-info-lgsmartad-com.aws-prd.net^
 ||nljjem.honeys-onlineshop.com^
 ||nl-nl.coloplastcare.com^
 ||nlp-japan.life-and-mind.com^
 ||nl.rcd.ptqy.gitv.tv^
+||nl-rdx2-lgtvsdp-com.aws-prd.net^
 ||nltcs.idfnet.net^
 ||nltihf.fashiondays.ro^
 ||nltzqx.autodoc.co.uk^
@@ -26496,6 +26538,7 @@
 ||noflake-aggregator-http.narvar.com^
 ||nogxjk.dackonline.se^
 ||nohaxn.damattween.com^
+||no-info-lgsmartad-com.aws-prd.net^
 ||noiselessplough.com^
 ||nol.yahoo.com^
 ||nom.familysearch.org^
@@ -26511,6 +26554,7 @@
 ||nordics.atradius.com^
 ||nordicsbtaenrolment.americanexpress.co.uk^
 ||nordics.sharpmarketing.eu^
+||no-rdx2-lgtvsdp-com.aws-prd.net^
 ||norex-app.paihealth.no^
 ||northplains.actonservice.com^
 ||northsidemediagroup.actonservice.com^
@@ -27871,6 +27915,7 @@
 ||phgnxd.nike.com.br^
 ||phhjak.frame-store.com^
 ||philadelphia-content.cresa.com^
+||ph-info-lgsmartad-com.aws-prd.net^
 ||phinnk.airtrip.jp^
 ||phionline.actonservice.com^
 ||phlebotomyexam.quantresear.ch^
@@ -28230,6 +28275,7 @@
 ||pl-go.experian.com^
 ||pl.hackathon-makers.com^
 ||pl.hitthefrontpage.com^
+||pl-info-lgsmartad-com.aws-prd.net^
 ||pljuin.lensmode.com^
 ||pl.kanbanmail.app^
 ||pl.kis-nagy.art^
@@ -28243,6 +28289,7 @@
 ||plotparent.com^
 ||plotrabbit.com^
 ||plotzn.apmex.com^
+||pl-rdx2-lgtvsdp-com.aws-prd.net^
 ||pls.ambue.com^
 ||plsbl.edison.se^
 ||plsbl-staging.edison.se^
@@ -29131,6 +29178,8 @@
 ||rdfine.camelbrown.com^
 ||rdlrbm.studying.jp^
 ||rdvxxx.crushj.com^
+||rdx2.lgtvsdp.com^
+||rdx2.nextlgsdp.com^
 ||reachhumans.com^
 ||reach-id.orbit.tm-awx.com^
 ||reach.ironmountain.com^
@@ -29643,6 +29692,7 @@
 ||roedwy.imidapeptide.com^
 ||ro-go.experian.com^
 ||roibest-report-sdk.qiliangjia.com^
+||ro-info-lgsmartad-com.aws-prd.net^
 ||roinjg.mkluzkoviny.cz^
 ||roiscs.actonservice.com^
 ||roku.adsmeasurement.com^
@@ -29740,6 +29790,7 @@
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
@@ -31480,6 +31531,7 @@
 ||segra.actonservice.com^
 ||seg.sharethis.com^
 ||s.eick.it^
+||se-info-lgsmartad-com.aws-prd.net^
 ||sejdfu.coeur.de^
 ||sekaopi.nocre.jp^
 ||selectivesummer.com^
@@ -31600,6 +31652,7 @@
 ||sepvbm.fromyouflowers.com^
 ||seraphichorizon.com^
 ||seraphicjubilee.com^
+||se-rdx2-lgtvsdp-com.aws-prd.net^
 ||serendipityecho.com^
 ||serenecascade.com^
 ||serenepebble.com^
@@ -31919,6 +31972,7 @@
 ||signup.vovici.com^
 ||sign.use-neo.com^
 ||sihoqd.sheridan.com.au^
+||si-info-lgsmartad-com.aws-prd.net^
 ||silentcredit.com^
 ||silentjackal.com^
 ||silentsingle.com^
@@ -31977,6 +32031,7 @@
 ||s.inspectelement.co^
 ||si.ptqy.gitv.tv^
 ||sipulo.katies.com.au^
+||si-rdx2-lgtvsdp-com.aws-prd.net^
 ||sis8.premieremoisson.com^
 ||sisdtb.climatempo.com.br^
 ||site24x7rum.eu^
@@ -41464,6 +41519,7 @@
 ||tr.info.lettre.cci.fr^
 ||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.infolettres.groupama.com^
+||tr-info-lgsmartad-com.aws-prd.net^
 ||tr.info.linnc.com^
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilitesbyaprr.fr^
@@ -43136,6 +43192,7 @@
 ||user.userguiding.com^
 ||us-go.experian.com^
 ||usgzei.vidaxl.ch^
+||us-info-lgsmartad-com.aws-prd.net^
 ||usingyourcard.americanexpress.co.uk^
 ||us.lucanet.com^
 ||us-marketing.roxtec.com^
@@ -43148,6 +43205,8 @@
 ||usnvuj.skillfactory.ru^
 ||us.onkyo.actonservice.com^
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
+||us-rdx2-lgtvsdp-com.aws-prd.net^
+||us-report.gras.samsungdm.com^
 ||us.ricoh-usa.com^
 ||usr.interactiveone.com^
 ||usrkrz.zdravcity.ru^

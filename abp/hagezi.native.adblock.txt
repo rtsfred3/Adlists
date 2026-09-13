@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-12 07:00:23 UTC
+! Generated at 2026-09-13 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -142,6 +142,7 @@
 ||adevents.msn.com^
 ||ad-format16-normal-useastred.tiktokv.eu^
 ||ad-format-sg.tiktokv.com^
+||ad-format.tiktokv.us^
 ||ad-format-ttp2.tiktokv.eu^
 ||ad-growth-in.heytapmobile.com^
 ||ad-growth-ru.heytapmobile.com^
@@ -308,6 +309,7 @@
 ||adxu-bigo-sg.heytapmobile.com^
 ||adx-u-sg.heytapmobile.com^
 ||ae-ad-lgsmartad-com.aws-prd.net^
+||ae-rdx2-lgtvsdp-com.aws-prd.net^
 ||aes-beta.axp.amazon-adsystem.com^
 ||aes.eu-south.ono.axp.amazon-adsystem.com^
 ||aes.eu-west.ono.axp.amazon-adsystem.com^
@@ -322,8 +324,10 @@
 ||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com^
+||al-info-lgsmartad-com.aws-prd.net^
 ||alliance-adreq-asia.vivoglobal.com^
 ||alphonso.tv^
+||al-rdx2-lgtvsdp-com.aws-prd.net^
 ||alt1-3ps.amazon-adsystem.com^
 ||am-ad-lgsmartad-com.aws-prd.net^
 ||a.market.xiaomi.com^
@@ -440,6 +444,7 @@
 ||api.installer.xiaomi.com^
 ||api.jr.mi.com^
 ||api.launcher.intl.miui.com^
+||api.metrics.eu-central-1.iris.apx.amazon.dev^
 ||api.metrics.us-west-2.iris.apx.amazon.dev^
 ||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
@@ -539,13 +544,17 @@
 ||at-beta.amazon-adsystem.com^
 ||atfe.amazon-adsystem.com^
 ||at-gamma-us-east.amazon-adsystem.com^
+||at-info-lgsmartad-com.aws-prd.net^
+||at-rdx2-lgtvsdp-com.aws-prd.net^
 ||atue.amazon-adsystem.com^
 ||at-us-east.amazon-adsystem.com^
 ||au-ad-lgsmartad-com.aws-prd.net^
 ||auc-visio-telemetry.officeapps.live.com^
 ||au.ff.avast.sec.miui.com^
+||au-info-lgsmartad-com.aws-prd.net^
 ||a.union.mi.com^
 ||a.union.xiaomi.com^
+||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||auth.api.gitv.tv^
 ||authbe.sec.intl.miui.com^
 ||auth.be.sec.miui.com^
@@ -573,10 +582,11 @@
 ||beacons.trafficmanager.net^
 ||beacons.xboxlive.com^
 ||be-ad-lgsmartad-com.aws-prd.net^
+||be-info-lgsmartad-com.aws-prd.net^
 ||bf-ad-lgsmartad-com.aws-prd.net^
 ||bg-ad-lgsmartad-com.aws-prd.net^
+||bg-info-lgsmartad-com.aws-prd.net^
 ||bgp.fe01.c3.xiaomi.com^
-||bgp.tv.pandora.xiaomi.com^
 ||bh-ad-lgsmartad-com.aws-prd.net^
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
 ||bigdata.ssp.samsung.com^
@@ -597,6 +607,7 @@
 ||bpu.samsungelectronics.com^
 ||br-ad-lgsmartad-com.aws-prd.net^
 ||brc-visio-telemetry.officeapps.live.com^
+||br-info-lgsmartad-com.aws-prd.net^
 ||b-ring-fallback.msedge.net^
 ||b-ring.msedge.net^
 ||browser-api-br.heytapmobile.com^
@@ -618,6 +629,7 @@
 ||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
 ||br-p.vivoglobal.com^
+||br-rdx2-lgtvsdp-com.aws-prd.net^
 ||bs-ad-lgsmartad-com.aws-prd.net^
 ||bsf.sc.heytapmobile.com^
 ||bsp-di-in.heytapmobile.com^
@@ -633,6 +645,8 @@
 ||business.samsungusa.com^
 ||bw-ad-lgsmartad-com.aws-prd.net^
 ||by-ad-lgsmartad-com.aws-prd.net^
+||by-info-lgsmartad-com.aws-prd.net^
+||by-rdx2-lgtvsdp-com.aws-prd.net^
 ||bz-ad-lgsmartad-com.aws-prd.net^
 ||c1.microsoft.com^
 ||c3-bgp.pandora.xiaomi.com^
@@ -640,8 +654,10 @@
 ||ca-ad-lgsmartad-com.aws-prd.net^
 ||cache.datamart.windows.com^
 ||cac-visio-telemetry.officeapps.live.com^
+||ca-info-lgsmartad-com.aws-prd.net^
 ||callback.xmpush.xiaomi.com^
 ||c.amazon-adsystem.com^
+||ca-rdx2-lgtvsdp-com.aws-prd.net^
 ||c.ar.msn.com^
 ||c.at.msn.com^
 ||c.be.msn.com^
@@ -680,8 +696,10 @@
 ||ch-asimov-leafs-events-data.trafficmanager.net^
 ||chc-visio-telemetry.officeapps.live.com^
 ||child.sec.miui.com^
+||ch-info-lgsmartad-com.aws-prd.net^
 ||c.hk.msn.com^
 ||chong.sec.miui.com^
+||ch-rdx2-lgtvsdp-com.aws-prd.net^
 ||ci-ad-lgsmartad-com.aws-prd.net^
 ||c.id.msn.com^
 ||c.ie.msn.com^
@@ -953,7 +971,9 @@
 ||de-ad-lgsmartad-com.aws-prd.net^
 ||dec-visio-telemetry.officeapps.live.com^
 ||de-gdpr-err-up.vivoglobal.com^
+||de-info-lgsmartad-com.aws-prd.net^
 ||de.pandora.xiaomi.com^
+||de-rdx2-lgtvsdp-com.aws-prd.net^
 ||dev-apigw.samsungdmroute.com^
 ||devicelog.samsungcloudsolution.net^
 ||device-metrics-us-2.amazon.com^
@@ -1018,7 +1038,10 @@
 ||eaus2watcab02.blob.core.windows.net^
 ||ec-ad-lgsmartad-com.aws-prd.net^
 ||ee-ad-lgsmartad-com.aws-prd.net^
+||ee-info-lgsmartad-com.aws-prd.net^
+||ee-rdx2-lgtvsdp-com.aws-prd.net^
 ||eg-ad-lgsmartad-com.aws-prd.net^
+||eg-info-lgsmartad-com.aws-prd.net^
 ||ehg-samsungusa.hitbox.com^
 ||ehtelemetrystaging-alias.servicebus.windows.net^
 ||e.mi.com^
@@ -1028,6 +1051,7 @@
 ||err.up.vivoglobal.com^
 ||es-ad-lgsmartad-com.aws-prd.net^
 ||et-ad-lgsmartad-com.aws-prd.net^
+||eu7-info-lgsmartad-com.aws-prd.net^
 ||eu-album-api.vivoglobal.com^
 ||euc-excel-telemetry.officeapps.live.com^
 ||euc-excel-telemetry.wac.trafficmanager.net^
@@ -1050,6 +1074,7 @@
 ||eurppc-excel-telemetry.officeapps.live.com^
 ||eurppc-powerpoint-telemetry.officeapps.live.com^
 ||eurppc-word-telemetry.officeapps.live.com^
+||eu-st-exappupgrade.vivoglobal.com^
 ||eu-stsdk.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
@@ -1119,13 +1144,14 @@
 ||fe.us-west.ono.axp.amazon-adsystem.com^
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
-||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||fgteu1-word-telemetry-vip.officeapps.live.com^
 ||fi-ad-lgsmartad-com.aws-prd.net^
+||fi-info-lgsmartad-com.aws-prd.net^
 ||file.cdn.mvideo.xiaomi.com^
 ||file-intl-push.heytapdl.com^
 ||findapi.micloud.xiaomi.net^
 ||finosfin.com^
+||fi-rdx2-lgtvsdp-com.aws-prd.net^
 ||fj-ad-lgsmartad-com.aws-prd.net^
 ||flash.sec.intl.miui.com^
 ||flash.sec.miui.com^
@@ -1172,6 +1198,7 @@
 ||fr-api.xmpush.global.xiaomi.com^
 ||frc-visio-telemetry.officeapps.live.com^
 ||fr.feedback.xmpush.global.xiaomi.com^
+||fr-info-lgsmartad-com.aws-prd.net^
 ||frontier100-normal-alisg.tiktokv.com^
 ||frontier100-normal-useast1a.tiktokv.com^
 ||frontier16-normal-no1a.tiktokv.eu^
@@ -1197,6 +1224,7 @@
 ||frontier-ttp2.tiktokv.us^
 ||frontier-ttp2.tiktokv.us.edgesuite.net^
 ||frontier-va.tiktokv.com^
+||fr-rdx2-lgtvsdp-com.aws-prd.net^
 ||fr-register.xmpush.global.xiaomi.com^
 ||g00.msn.com^
 ||ga-ad-lgsmartad-com.aws-prd.net^
@@ -1205,7 +1233,9 @@
 ||gamebox.sec.miui.com^
 ||gateway.bingviz.microsoftapp.net^
 ||gb-ad-lgsmartad-com.aws-prd.net^
+||gb-info-lgsmartad-com.aws-prd.net^
 ||g.bing.com^
+||gb-rdx2-lgtvsdp-com.aws-prd.net^
 ||gd-ad-lgsmartad-com.aws-prd.net^
 ||ge-ad-lgsmartad-com.aws-prd.net^
 ||geofence.sys.miui.com^
@@ -1231,6 +1261,8 @@
 ||gq-ad-lgsmartad-com.aws-prd.net^
 ||gr-ad-lgsmartad-com.aws-prd.net^
 ||graffiti-tags.apple.com^
+||gr-info-lgsmartad-com.aws-prd.net^
+||gr-rdx2-lgtvsdp-com.aws-prd.net^
 ||grs.dbankcloud.asia^
 ||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
@@ -1311,6 +1343,8 @@
 ||iadsdk.apple.com.akadns.net^
 ||iadsdk.apple.com.edgekey.net^
 ||iadworkbench.apple.com^
+||ibs.nextlgsdp.com^
+||ibsstat.nextlgsdp.com^
 ||i-cn01a.ocloud.heytapmobi.com^
 ||icosa-service-eu.allawnos.com^
 ||icosa-service-fr-01.allawnos.com^
@@ -1325,7 +1359,6 @@
 ||icosa-service-sg-03.allawnos.com^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
-||icosa-sg.coloros.com^
 ||icota-eu.coloros.com^
 ||icota-service-eu.allawnos.com^
 ||icota-service-in.allawnos.com^
@@ -1393,6 +1426,7 @@
 ||inference-location-livenet.trafficmanager.net^
 ||inf.miui.com^
 ||ingest.appcenter.ms^
+||in-info-lgsmartad-com.aws-prd.net^
 ||in-miuilog.sms.intl.xiaomi.com^
 ||in-monitor-stsdk.vivoglobal.com^
 ||in-news-abroad-backstage-interface.vivoglobal.com^
@@ -1433,11 +1467,13 @@
 ||ir-es.amazon-adsystem.com^
 ||ir-fr.amazon-adsystem.com^
 ||ir-in.amazon-adsystem.com^
+||ir-info-lgsmartad-com.aws-prd.net^
 ||ir-it.amazon-adsystem.com^
 ||ir-jp.amazon-adsystem.com^
 ||ir-mx.amazon-adsystem.com^
 ||ir-na.amazon-adsystem.com^
 ||ir-nl.amazon-adsystem.com^
+||ir-rdx2-lgtvsdp-com.aws-prd.net^
 ||irreverselookuptm.trafficmanager.net^
 ||ir-tracking.trafficmanager.net^
 ||ir-uk.amazon-adsystem.com^
@@ -1449,6 +1485,8 @@
 ||it-ad-lgsmartad-com.aws-prd.net^
 ||item-tracking.dev.sr.roku.com^
 ||i-th.browser.heytapmobile.com^
+||it-info-lgsmartad-com.aws-prd.net^
+||it-rdx2-lgtvsdp-com.aws-prd.net^
 ||i-vn.browser.heytapmobile.com^
 ||i.xiaomi.com^
 ||jm-ad-lgsmartad-com.aws-prd.net^
@@ -1477,6 +1515,7 @@
 ||kuyun.com^
 ||kw-ad-lgsmartad-com.aws-prd.net^
 ||kz-ad-lgsmartad-com.aws-prd.net^
+||kz-album-api.vivoglobal.com^
 ||kz-cname-sin01-bigdata.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
 ||kz-monitor-stsdk.vivoglobal.com^
@@ -1484,10 +1523,12 @@
 ||kz-ort-stsdk.vivoglobal.com^
 ||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-prt-stsdk.vivoglobal.com^
+||kz-p.vivoglobal.com^
 ||kz-st-exappupgrade.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-timesync.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||launch.apple.com^
@@ -1511,6 +1552,7 @@
 ||location.live.net^
 ||location.microsoft.com^
 ||location-microsoft-com.b-0005.b-msedge.net^
+||location-ru.tiktokv.com^
 ||location-sg.tiktokv.com^
 ||location.tiktok.com^
 ||location.tiktokv.com^
@@ -1590,7 +1632,6 @@
 ||log32-normal-zr.tiktokv.com^
 ||log3-normal-c-alisg.tiktokv.com^
 ||log3-normal-c-useast1a.tiktokv.com^
-||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal-alisg.tiktokv.com^
 ||log58-normal-c-alisg.tiktokv.com^
 ||log58-normal-c-useast1a.tiktokv.com^
@@ -1863,7 +1904,6 @@
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.cn^
-||metrics.eu-central-1.iris.apx.amazon.dev^
 ||metrics.eu-south-2.iris.apx.amazon.dev^
 ||metrics.eu-west-1.iris.apx.amazon.dev^
 ||metrics.icloud.com^
@@ -2050,6 +2090,7 @@
 ||mssdk-quic-sg.tiktokv.com^
 ||mssdk-quic-va.tiktokv.com^
 ||mssdk-ru.tiktokv.com^
+||mssdk-ru.tiktokv.com.www.digmawifi.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
 ||mssdk-sg.capcutapi.com^
@@ -2095,7 +2136,6 @@
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
 ||news-sports-events.apple.com^
-||nextlgsdp.com^
 ||nexus.officeapps.live.com^
 ||nexusrules.live.com^
 ||nexusrules.officeapps.live.com^
@@ -2104,11 +2144,15 @@
 ||nginx.34.sec.miui.com^
 ||ni-ad-lgsmartad-com.aws-prd.net^
 ||nl-ad-lgsmartad-com.aws-prd.net^
+||nl-info-lgsmartad-com.aws-prd.net^
 ||nl.rcd.ptqy.gitv.tv^
+||nl-rdx2-lgtvsdp-com.aws-prd.net^
 ||nmetrics.samsung.com^
 ||nmetrics.samsungmobile.com^
 ||no-ad-lgsmartad-com.aws-prd.net^
 ||noc-visio-telemetry.officeapps.live.com^
+||no-info-lgsmartad-com.aws-prd.net^
+||no-rdx2-lgtvsdp-com.aws-prd.net^
 ||notes-analytics-events.apple.com^
 ||notes-analytics-events.news.apple-dns.net^
 ||notice.game.xiaomi.com^
@@ -2270,6 +2314,7 @@
 ||pgtus6-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus6-word-telemetry-vip.officeapps.live.com^
 ||ph-ad-lgsmartad-com.aws-prd.net^
+||ph-info-lgsmartad-com.aws-prd.net^
 ||phonesubmissions.apple.com^
 ||pi.ias.xiaomi.com^
 ||pipe.aria.microsoft.com^
@@ -2279,6 +2324,8 @@
 ||pk-ad-lgsmartad-com.aws-prd.net^
 ||pl-ad-lgsmartad-com.aws-prd.net^
 ||plbusiness.samsung.com^
+||pl-info-lgsmartad-com.aws-prd.net^
+||pl-rdx2-lgtvsdp-com.aws-prd.net^
 ||pmir.sec.miui.com^
 ||pnrt-stsdk.vivoglobal.com^
 ||podcasts-analytics-events.apple.com^
@@ -2360,6 +2407,8 @@
 ||rcm-jp.amazon.co.jp^
 ||rcm-na.amazon-adsystem.com^
 ||rcm-uk.amazon.co.uk^
+||rdx2.lgtvsdp.com^
+||rdx2.nextlgsdp.com^
 ||re-ad-lgsmartad-com.aws-prd.net^
 ||redirect.pandora.xiaomi.com^
 ||redir.metaservices.microsoft.com^
@@ -2380,6 +2429,7 @@
 ||rmads.msn.com^
 ||rnd-cbgpas01.huawei.com^
 ||ro-ad-lgsmartad-com.aws-prd.net^
+||ro-info-lgsmartad-com.aws-prd.net^
 ||roku.adsmeasurement.com^
 ||ro-up.vivoglobal.com^
 ||rs-ad-lgsmartad-com.aws-prd.net^
@@ -2390,6 +2440,7 @@
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
@@ -2629,10 +2680,12 @@
 ||securemvt.apple.com^
 ||securemvt.v.aaplimg.com^
 ||secure.report.iss.xiaomi.com^
+||se-info-lgsmartad-com.aws-prd.net^
 ||self-events-data.trafficmanager.net^
 ||sentry.be.xiaomi.com^
 ||sentry.pay.xiaomi.com^
 ||sentry.sec.miui.com^
+||se-rdx2-lgtvsdp-com.aws-prd.net^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf16-ads-format-sign.tiktokcdn.com.edgesuite.net^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
@@ -2658,7 +2711,9 @@
 ||sidebar-apps-eu.allawnos.com^
 ||sidebar-apps-in.allawnos.com^
 ||sidebar-apps-sg.allawnos.com^
+||si-info-lgsmartad-com.aws-prd.net^
 ||si.ptqy.gitv.tv^
+||si-rdx2-lgtvsdp-com.aws-prd.net^
 ||sk-ad-lgsmartad-com.aws-prd.net^
 ||sl-ad-lgsmartad-com.aws-prd.net^
 ||slb-apisnd-in.heytapmobile.com^
@@ -2893,6 +2948,7 @@
 ||tr-domaincfg.vivoglobal.com^
 ||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
+||tr-info-lgsmartad-com.aws-prd.net^
 ||t-ring-fallback.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
 ||t-ring-fallback-s2.msedge.net^
@@ -2979,7 +3035,10 @@
 ||userdata.sr.roku.com^
 ||userid.xiaomi.com^
 ||userprofile.push.heytapmobi.com^
+||us-info-lgsmartad-com.aws-prd.net^
 ||us-mesh-events-data-leafs.trafficmanager.net^
+||us-rdx2-lgtvsdp-com.aws-prd.net^
+||us-report.gras.samsungdm.com^
 ||utm.sankei.jp.msn.com^
 ||uy-ad-lgsmartad-com.aws-prd.net^
 ||uz-ad-lgsmartad-com.aws-prd.net^

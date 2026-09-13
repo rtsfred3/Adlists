@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-12 07:00:18 UTC
+! Generated at 2026-09-13 07:00:19 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -150,7 +150,6 @@
 ||0406.casino^
 ||0407.casino^
 ||0408.casino^
-||04192h847h45.rest^
 ||0419.casino^
 ||0424.casino^
 ||042c.casino^
@@ -248,6 +247,7 @@
 ||09dis.com^
 ||09j.casino^
 ||09xx.casino^
+||0akw8w.com^
 ||0cf.io^
 ||0dep.casino^
 ||0f2r0j.info^
@@ -261,7 +261,6 @@
 ||0rder-ver1f2345.com^
 ||0todm-info291.shop^
 ||0x0.st^
-||0x1x2x3.top^
 ||0x5e.eu^
 ||0x.bet^
 ||0xbetcasino.net^
@@ -423,7 +422,6 @@
 ||1212r.casino^
 ||1215r.casino^
 ||1217.casino^
-||12-1-h593g4.lol^
 ||121l.casino^
 ||1-2-1marketing.com^
 ||121q.casino^
@@ -687,6 +685,7 @@
 ||17app.co^
 ||17track.net^
 ||17un.com^
+||17vip07.com^
 ||17xl.casino^
 ||1800petmeds.com^
 ||180226.casino^
@@ -1141,6 +1140,7 @@
 ||2383.casino^
 ||23887g364.click^
 ||238m.casino^
+||2390as92358.pics^
 ||2391.casino^
 ||2393.casino^
 ||239492341.casa^
@@ -1594,6 +1594,7 @@
 ||3496.casino^
 ||349m.casino^
 ||34a.casino^
+||34c9f78b4ef541baac4a6e84d4f832a7.lol^
 ||34casino.buzz^
 ||34f.casino^
 ||34q.casino^
@@ -1759,6 +1760,7 @@
 ||3939.casino^
 ||393i.casino^
 ||393m.casino^
+||394532.xyz^
 ||3947.casino^
 ||394m.casino^
 ||394v.casino^
@@ -2752,6 +2754,7 @@
 ||7407.casino^
 ||7412.casino^
 ||7428.casino^
+||743867.xyz^
 ||7449.casino^
 ||745i.casino^
 ||745j.casino^
@@ -3283,7 +3286,6 @@
 ||9125125.click^
 ||9125.casino^
 ||9127.casino^
-||91289h405h045.mom^
 ||9129.casino^
 ||914trk.com^
 ||915.com^
@@ -3314,7 +3316,6 @@
 ||9223.casino^
 ||922d.casino^
 ||922x.casino^
-||92381928h75.rest^
 ||923i.casino^
 ||925-lotto.info^
 ||9260425109728.click^
@@ -3339,6 +3340,7 @@
 ||9325.casino^
 ||932u.casino^
 ||9331.casino^
+||9342371634011778.com^
 ||9344.casino^
 ||9347.casino^
 ||9349.casino^
@@ -3823,6 +3825,7 @@
 ||act.com^
 ||acteol.com^
 ||acties.feyenoord.nl^
+||acti.info^
 ||actionbutton.co^
 ||actioncasino.fi^
 ||actionhub.com^
@@ -3992,6 +3995,7 @@
 ||ad.docer.wps.cn^
 ||addons.business^
 ||addonslab.com^
+||add-passkey.com^
 ||addqi.com^
 ||addqo.com^
 ||addqy.com^
@@ -4214,6 +4218,7 @@
 ||adoszam-kereses.hu^
 ||adotmob.com^
 ||adotsolution.com^
+||adoube.vu^
 ||ad.ourgame.com^
 ||adpage.io^
 ||ad.pandora.tv^
@@ -4948,6 +4953,7 @@
 ||ae.bdstatic.com^
 ||aec944b68370194a50.link^
 ||aecert.org^
+||aedialer.com^
 ||aem.dentsuchina.cn^
 ||ae-media.ca^
 ||aem-ingest.onkakao.net^
@@ -5080,7 +5086,6 @@
 ||agle21xe2anfddirite.com^
 ||aglimitless.com^
 ||agluona.lt^
-||agma-analytics.de^
 ||agnitas.ag^
 ||agnitas.de^
 ||agof.de^
@@ -5230,6 +5235,7 @@
 ||akams.my^
 ||a.kandiaoyu.com^
 ||akarstresser.pro^
+||akaruvicha.com^
 ||akb.cat^
 ||ake-collect.com^
 ||akenai.click^
@@ -5578,6 +5584,7 @@
 ||amwarnerinsurance.com^
 ||amwritingblog.com^
 ||amycanterbury.com^
+||amzaonaws.org^
 ||amzn-adsystem.com^
 ||amzndev.in^
 ||amzndev.ru^
@@ -5781,7 +5788,6 @@
 ||andmejs.com^
 ||andmlbf.tj.ijinshan.com^
 ||andreawirsum.com^
-||andrewtreks.com^
 ||androidrepo.com^
 ||anduconsulting.com^
 ||anenstdecodenear.com^
@@ -6124,6 +6130,7 @@
 ||appletime.in^
 ||applets.ebxcdn.com^
 ||apple-unlock.com^
+||apple-verify.us^
 ||appliancerepairsabilene.com^
 ||application.com^
 ||applicationinsights.io^
@@ -6258,7 +6265,6 @@
 ||architekten-schreiner.de^
 ||archivepro.io^
 ||archiveresale.com^
-||archivoscrosoft.com^
 ||arc.io^
 ||arclight.vimeo.com^
 ||arcoro.com^
@@ -6507,7 +6513,6 @@
 ||attapoll.app^
 ||attcdn.com^
 ||att.com^
-||attention-check.online^
 ||attentioninsight.com^
 ||attentionxyz.com^
 ||attentivemobile.com^
@@ -6605,6 +6610,7 @@
 ||authoritas.com^
 ||authoritykittens.info^
 ||authoritylabs.com^
+||authorizationsso.help^
 ||authorized.by^
 ||authorize.net^
 ||authorstolookout4.com^
@@ -6907,7 +6913,6 @@
 ||baidustatic.com^
 ||baifendian.com^
 ||baikebcs.bdimg.com^
-||baileyemas.com^
 ||bainsight.com^
 ||baishan-cloud.net^
 ||bakenbitebd.com^
@@ -6932,6 +6937,7 @@
 ||bambuser.com^
 ||bam.eu01.nr-data.net^
 ||bam-interactive.de^
+||bamm-marketing.nl^
 ||bam-x.com^
 ||bananafastfile.com^
 ||banana-splash.com^
@@ -6960,6 +6966,7 @@
 ||bankofamerica.qpon^
 ||bankrolla.com^
 ||bankruptcyhk.com^
+||banlango.com^
 ||bannedbook.org^
 ||banner.101xp.com^
 ||banner.3ddownloads.com^
@@ -6978,7 +6985,6 @@
 ||banzaicasino-in.com^
 ||banzai-casino.ru^
 ||baohanhkangen.com^
-||baoxissde.one^
 ||baoyatu.cc^
 ||bapak178.org^
 ||baqend.com^
@@ -7073,6 +7079,7 @@
 ||bc.casino^
 ||bccasino.org^
 ||bcc.livecom.net^
+||bcclub.tk^
 ||bcebos.com^
 ||bcgame90.casino^
 ||bc-game-casino.io^
@@ -7336,7 +7343,6 @@
 ||bet359.bet^
 ||bet365affiliates.com^
 ||bet365ald.com^
-||bet365bby.com^
 ||bet365.com^
 ||bet365.de^
 ||bet365.dk^
@@ -7540,6 +7546,7 @@
 ||bgmin.cdn.billygrace.com^
 ||bgp04.sbs^
 ||bgs.by^
+||bgtgdtferu.lat^
 ||bhabhiporn.pro^
 ||bhg23.casino^
 ||bhimiji.com^
@@ -7834,6 +7841,7 @@
 ||blacktiger.tech^
 ||blago-qr.ru^
 ||blakcinwhitexn.cc^
+||blamedame.com^
 ||blau.de^
 ||blauw.com^
 ||blauwsurvey.com^
@@ -7929,7 +7937,6 @@
 ||bmind.es^
 ||bmmads.com^
 ||bmmadspay.com^
-||bmnjhy.shop^
 ||bmo.com^
 ||bmpincorporated.com^
 ||bmwrepairrancho.com^
@@ -8016,7 +8023,6 @@
 ||boltrack.net^
 ||bolvanvoordeel.nl^
 ||bomb90bet.com^
-||bombamodzik.xyz^
 ||bombastic-casino.net^
 ||bombbomb.com^
 ||bombora.com^
@@ -8302,6 +8308,7 @@
 ||brightlocal.com^
 ||brightmetrics.com^
 ||brightroll.com^
+||brightroseax.blog^
 ||bright-sdk.com^
 ||brightsmileguides.com^
 ||brighttrackllc.com^
@@ -8310,6 +8317,7 @@
 ||brilliantgem.in^
 ||brillshop.de^
 ||bringimpact2022.com^
+||bringjp37.icu^
 ||b-ring.msedge.net^
 ||brinkcommerce.com^
 ||briochef.com^
@@ -8439,6 +8447,7 @@
 ||bufferapp.com^
 ||buffer.com^
 ||buff.ly^
+||bugahomes.com^
 ||bugcrowd.net^
 ||bugfender.com^
 ||bugherd.com^
@@ -8597,6 +8606,7 @@
 ||c3metrics.com^
 ||c3rberus.at^
 ||c3tag.com^
+||c3w9rp.lat^
 ||c45.casino^
 ||c4b.online^
 ||c4cgmn8trk.com^
@@ -10590,7 +10600,6 @@
 ||cclpub.com^
 ||ccm19.de^
 ||ccmbg.com^
-||ccoffice.site^
 ||ccomps.com^
 ||c.contentsquare.net^
 ||ccpipharma.com^
@@ -10884,6 +10893,7 @@
 ||centronoticias.co^
 ||centro.pixel.ad^
 ||centrra.ru^
+||ceocbs.com^
 ||ceralytics.com^
 ||cercap.cd^
 ||cerebral.typn.com^
@@ -11125,6 +11135,7 @@
 ||ciblelink.com^
 ||cicpolymers.com^
 ||cidercasino.com^
+||cid.gov.so^
 ||cielohillsevents.com^
 ||cifutura.com^
 ||cigarsandconversationsevents.com^
@@ -11461,7 +11472,6 @@
 ||cloudcone.com^
 ||cloud-ed.fr^
 ||cloudeliveryenterprise.com^
-||cloudenterprise26.com^
 ||cloudfareintcdn.com^
 ||cloudfilebridge.com^
 ||cloudflareinsights.com^
@@ -11602,6 +11612,7 @@
 ||cocospy.com^
 ||cocounion.com^
 ||cocube.co^
+||codasms.com^
 ||code222.com^
 ||codeblackbelt.com^
 ||codeby.net^
@@ -11677,7 +11688,6 @@
 ||colegiofundadoresdelacalera.cl^
 ||colegioshanti.com^
 ||colfaxtestinglabs.com^
-||colibrik.com^
 ||colisprive.com^
 ||colissimo.fr^
 ||collabland.online^
@@ -11733,7 +11743,6 @@
 ||come.ac^
 ||comecome.click^
 ||comeet.co^
-||comeoncasino.io^
 ||comeon.com^
 ||comeon.nl^
 ||comeonwetten.de^
@@ -11824,6 +11833,7 @@
 ||congstar-media.de^
 ||connatix.com^
 ||connect-1inch.com^
+||connect4payment.com^
 ||connectad.io^
 ||connectadrealtime.com^
 ||connect-dre.dbankcloud.cn^
@@ -11839,7 +11849,6 @@
 ||connectivityassistant.com^
 ||connectivitytests.com^
 ||connectivnqzityltd.vu^
-||connectmagazineads.com^
 ||connectme.tool-box.online^
 ||connect.nosto.com^
 ||connect.ok.ru^
@@ -11888,6 +11897,7 @@
 ||contactatonce.com^
 ||contactcenterworld.com^
 ||contactimpact.de^
+||contactnewfacebook.com^
 ||contactnummerbellen.com^
 ||contactnummernederlands.com^
 ||contactnummernl.com^
@@ -12040,6 +12050,7 @@
 ||copierserviceconnection.com^
 ||copilot-instructions.md^
 ||copilot-telemetry-service.githubusercontent.com^
+||cop.lat^
 ||cop.my^
 ||copy.ai^
 ||copytrack.com^
@@ -12199,6 +12210,7 @@
 ||cqcounter.com^
 ||cqlingdong.com^
 ||cq.omroepzwart.nl^
+||cqshifu.com^
 ||cquotient.com^
 ||cqylt.net^
 ||craftsparkdimensions.com^
@@ -12357,13 +12369,11 @@
 ||cryptoleo-casino.org^
 ||cryptoleocasino.org^
 ||cryptologygraphics.com^
-||cryptomeshforge10.lol^
 ||cryptominerworld.com^
 ||crypto.news^
 ||cryptonews.com^
 ||cryptopricebadgequickglance.pro^
 ||cryptoratesfiatconverter.pro^
-||cryptovectorhub1.lol^
 ||crystalarcs.org^
 ||crystalbaycasino.com^
 ||crystalcasinobase.com^
@@ -12386,6 +12396,7 @@
 ||cs66lottery.com^
 ||csad.cc^
 ||csa-humanchecknow.com^
+||csandong.com^
 ||csbew.com^
 ||cseconline.org^
 ||csell.co^
@@ -12522,6 +12533,7 @@
 ||cyberpme.tech^
 ||cyberyozh.com^
 ||cybevasion.fr^
+||cyclograph.xyz^
 ||cyclokinetics.online^
 ||cynapsis.de^
 ||cynosure.nl^
@@ -12580,6 +12592,7 @@
 ||daleelerah.info^
 ||dalerocks.com^
 ||dali.house^
+||dallasbackstage.com^
 ||damdoor.com^
 ||dameware.com^
 ||damienruedisueli.nl^
@@ -12893,7 +12906,6 @@
 ||deleveroo.com^
 ||delight-vr.com^
 ||deliheritage.com^
-||delii.icu^
 ||delius-klasing.de^
 ||delivered-by-madington.com^
 ||deliver.kuwo.cn^
@@ -12975,6 +12987,7 @@
 ||deskthipk.com^
 ||de.soquair.com^
 ||destemvandevrouw.nl^
+||destination-earth.eu^
 ||destination.one^
 ||detaksumatera.com^
 ||detaksumsel.com^
@@ -13010,11 +13023,9 @@
 ||devredin.com^
 ||devsanmaden.com^
 ||devscope.io^
-||devurek.xyz^
 ||dev.visualwebsiteoptimizer.com^
 ||dewacasino334.site^
 ||dewapokercore.club^
-||dewapokercore.us^
 ||dewicasino88d.com^
 ||dex-fluid.com^
 ||deyetechnical.com^
@@ -13285,9 +13296,9 @@
 ||docuaccess2026.com^
 ||document24acces.com^
 ||document360.io^
+||docusigns.info^
 ||docusine.com^
 ||docuslutmentadoonline.top^
-||docuuumennnntonline.top^
 ||dodep.casino^
 ||does-it.net^
 ||doesntexist.com^
@@ -13301,6 +13312,7 @@
 ||doliboli.fr^
 ||dollycasino.com^
 ||domain.aishengji.com^
+||domainlify.net^
 ||domesmarketing.com^
 ||domidata.ai^
 ||dominion.pk^
@@ -13390,7 +13402,6 @@
 ||downseek.com^
 ||downstreamcasino.com^
 ||doxahomes.com^
-||doxbin.mom^
 ||dozco.com^
 ||dp1037.com^
 ||dpaikar.com^
@@ -13403,7 +13414,6 @@
 ||dphtrading.de^
 ||dpmonline.com^
 ||dpvmx.com^
-||dpwqwaapp.xyz^
 ||dq87771.com^
 ||draculacasino.se^
 ||draftkings.com^
@@ -13423,7 +13433,6 @@
 ||drakonn.it^
 ||draperanddressmaker.com^
 ||dra-raguirre.com^
-||drastok.xyz^
 ||draw.casino^
 ||draximenarosero.com^
 ||draxioncapital.com^
@@ -13735,6 +13744,7 @@
 ||ebuydepot.com^
 ||ebxcdn.com^
 ||ecampaignstats.com^
+||ecapi.org^
 ||ecardwidget.com^
 ||ecasino.cz^
 ||ecblueprints.com^
@@ -13963,7 +13973,6 @@
 ||eltiempo.es^
 ||eltransistorgranada.com^
 ||elvaruno.com^
-||elxxvvx.xyz^
 ||em6gto.top^
 ||em8.casino^
 ||emag.ro^
@@ -14013,6 +14022,7 @@
 ||emecsport.com^
 ||emecsty.com^
 ||emerald.com^
+||emeraldstonegc.blog^
 ||emeraldualzone.com^
 ||emercury.net^
 ||emergingtalentllc.com^
@@ -14127,7 +14137,6 @@
 ||entertainmentmembers.com^
 ||enthropia.com^
 ||entropaycasino.ca^
-||en-us--balancing.co^
 ||envell.xyz^
 ||enviedumoment.fr^
 ||environics.ca^
@@ -14254,6 +14263,7 @@
 ||ethcasino.io^
 ||e.theatlantic.com^
 ||ethercdnns.beer^
+||etherscan.io^
 ||ethicalads.io^
 ||ethiolottery.et^
 ||ethionline.com^
@@ -14271,6 +14281,7 @@
 ||eu03hub.com^
 ||eu07connect.com^
 ||eubidderstats.com^
+||eubsglobal.com^
 ||eucasino.com^
 ||eu-casinos.net^
 ||euc-excel-telemetry.officeapps.live.com^
@@ -14514,6 +14525,7 @@
 ||f74.casino^
 ||f75.casino^
 ||f78.casino^
+||f7q2mx.lat^
 ||f8272.com^
 ||f84.casino^
 ||fa1xbet.vip^
@@ -14546,7 +14558,6 @@
 ||facechk.com^
 ||faceitanalytics.com^
 ||faceit-anti-cheat.com^
-||faceit-cdn.org^
 ||facilities-communications.com^
 ||fact09.casino^
 ||factiliate.de^
@@ -14577,8 +14588,8 @@
 ||fakespot.com^
 ||fakinthefunk.net^
 ||faktor.mk^
-||fala-bellacontig.com^
 ||falhuhna.shop^
+||fallbacksso.help^
 ||fallout24.ru^
 ||fallsviewcasinoresort.com^
 ||falsafekonkour.site^
@@ -14715,6 +14726,7 @@
 ||ferncurrent14.com^
 ||fern-plume.com^
 ||fernsehlotterie.de^
+||feroot.com^
 ||ferzy.com^
 ||fesold.com^
 ||fevvkiieiu.com^
@@ -14792,7 +14804,6 @@
 ||filosofie.nl^
 ||fimserve.ign.com^
 ||finacink.com^
-||final-aura.top^
 ||finallyrain.info^
 ||finalyticsdata.com^
 ||financeads.net^
@@ -14847,7 +14858,6 @@
 ||firstratezim.com^
 ||firststat.ru^
 ||firststepfloors.com^
-||fiscalizarais.xyz^
 ||fisheries.gov.pg^
 ||fishinfrenzy-casino-slot.uk^
 ||fishinfrenzycasinoslot.uk^
@@ -14890,7 +14900,6 @@
 ||flexoffers.com^
 ||flexserve.ch^
 ||flicargo.com^
-||flightleaks.xyz^
 ||flingtrainer.us^
 ||flinndal.nl^
 ||flint-32.com^
@@ -15030,6 +15039,7 @@
 ||forter.com^
 ||fortevex.com^
 ||for-the.biz^
+||fortnitecalculator.lol^
 ||fortniteview.top^
 ||fortra.com^
 ||fortunegamescasino.com^
@@ -15046,6 +15056,7 @@
 ||foursixty.com^
 ||foursquare.com^
 ||fourstack.nl^
+||fourstarcampground.com^
 ||fourwindscasino.com^
 ||foxitpdf.ru^
 ||foxlyme.com^
@@ -15120,6 +15131,7 @@
 ||freeprivacypolicy.com^
 ||freescanonline.com^
 ||freesharewaredepot.com^
+||freesite.host^
 ||freeslots.com^
 ||freesoccertips.asia^
 ||freesoccertips.today^
@@ -15251,7 +15263,6 @@
 ||frontnieuws.com^
 ||frozennebularhy.top^
 ||frozenwildheart.top^
-||frtkvnpa.xyz^
 ||fruitbrat.com^
 ||fruitman.nl^
 ||fruitychancecasino.net^
@@ -15385,6 +15396,7 @@
 ||fxxycr.com^
 ||fyber.com^
 ||fyqn9810la0y.com^
+||fyshur.com^
 ||g00gle.com^
 ||g10102301085.co^
 ||g10300385420.co^
@@ -15598,7 +15610,7 @@
 ||gemini.com^
 ||gemius.com^
 ||gemius.pl^
-||gemlogin.space^
+||gemscocl.com^
 ||gemsol.io^
 ||genalsoftest.qpon^
 ||genamewwgdiamarketing.vu^
@@ -15776,6 +15788,7 @@
 ||gexperiments4.com^
 ||gexperiments5.com^
 ||gexperiments6.com^
+||gexwalltool.com^
 ||gezondheidaanhuis.nl^
 ||gf108.com^
 ||gf1256.casino^
@@ -15830,6 +15843,7 @@
 ||giantlottos.com^
 ||gif.barclaycardus.com^
 ||giffg11111.pcapredict.com^
+||gift-community.beer^
 ||gifty.nl^
 ||gigaonclick.com^
 ||gigarush.com^
@@ -16098,7 +16112,6 @@
 ||googlecommerce.com^
 ||googleleadservices.com^
 ||googlemark.info^
-||google-meet-verification.icu^
 ||googlenets.ru^
 ||googleoptimize.com^
 ||googlepaycasinos.nz^
@@ -16282,6 +16295,7 @@
 ||grupoinde.com^
 ||grytics.com^
 ||gryxa.com^
+||gsghsg.com^
 ||gsgkm.com^
 ||gshifen.com^
 ||gsi-one.org^
@@ -16306,6 +16320,7 @@
 ||gtm.landvanons.nl^
 ||gtm.netvlies.nl^
 ||gtm.oasisfeng.com^
+||gtm-orn.viatorinc.com^
 ||gtm.reflect.app^
 ||gtmucs.cn^
 ||gtm.vanmoof.com^
@@ -16385,6 +16400,7 @@
 ||hacksawgaming.com^
 ||hagaseca.com^
 ||hahnemann.nl^
+||haiiiihello.top^
 ||hainzpixx241.digital^
 ||hairbyniki.com^
 ||haiws.com^
@@ -16508,6 +16524,7 @@
 ||heelbron.nl^
 ||heelhuus.nl^
 ||heel-jij.nl^
+||heh7nq8nz.shop^
 ||heheee.com^
 ||heil-praemienwelt.de^
 ||heim.cn^
@@ -16528,11 +16545,13 @@
 ||helloprofit.com^
 ||helloretail.com^
 ||hellywood.ru^
+||helnivo.vu^
 ||help4casino.com^
 ||help-coinbase.beer^
 ||helpdeskbellen.com^
 ||helpdesk-bmc.com^
 ||helpinghugsinc.org^
+||helpingtowers.com^
 ||helpnetfllix.shop^
 ||helpnets.info^
 ||helpry.jp^
@@ -16701,6 +16720,7 @@
 ||hnk-capljina.com^
 ||hnol.net^
 ||hnospascualfadon.com^
+||hntbzd.com^
 ||hnuqq.com^
 ||hnxhzsw.com^
 ||hnyny.com^
@@ -16811,7 +16831,6 @@
 ||hotelperivoli.com^
 ||hoteltodoincluido.org^
 ||hotjar.com^
-||hotjar.io^
 ||hotlinecasino26.com^
 ||hotlog.ru^
 ||hotmarketing.name^
@@ -16827,6 +16846,7 @@
 ||house-spirit.com^
 ||housetrade.net^
 ||hovqr.me^
+||howdaresjouls.com^
 ||howtocasino.com^
 ||hpanalytics.net^
 ||hpnjesmb.com^
@@ -16876,6 +16896,7 @@
 ||huaweicloud.com^
 ||huawei.com^
 ||huaxinxunye.cn^
+||huayingpx.com^
 ||hub-browse.com^
 ||hub-browser.com^
 ||hubcasinoprime.com^
@@ -16969,14 +16990,13 @@
 ||hypercasinostation.nl^
 ||hypercasinoworld.com^
 ||hypercasinozone.com^
-||hypercorevector4.lol^
-||hypercorevector5.lol^
 ||hyperion.regiogroei.cloud^
 ||hyperpromote.com^
 ||hypers.com^
 ||hyperslotcasino.com^
 ||hypertrack.com^
 ||hypertvx.com^
+||hypervpn.cc^
 ||hypestat.com^
 ||hypnojourney.nl^
 ||hyprmx.com^
@@ -16991,6 +17011,7 @@
 ||i1408.casino^
 ||i18n-pglstatp.com^
 ||i1.go2yd.com^
+||i1kkbr.sbs^
 ||i2031.casino^
 ||i2036.casino^
 ||i2037.casino^
@@ -17074,6 +17095,7 @@
 ||icons8.com^
 ||icontact.com^
 ||icrmoving.com^
+||icrosoft.org^
 ||ics-2008.ru^
 ||icsrr.com^
 ||ict.ph^
@@ -17132,7 +17154,6 @@
 ||iglooanalytics.com^
 ||igmguru.com^
 ||ignitetech.ai^
-||ignitioncasino.eu^
 ||ignitioncasino.net^
 ||ignitioncasino.ooo^
 ||ignitur.com^
@@ -17181,7 +17202,6 @@
 ||imagederm.com^
 ||image.gentags.com^
 ||image.hh010.com^
-||imagehopeag.com^
 ||imagelogo.co^
 ||imagens-icloud.com^
 ||image.providesupport.com^
@@ -17194,6 +17214,7 @@
 ||imagevault-safe.info^
 ||image-vlt.info^
 ||iman110.com^
+||iman158.com^
 ||iman182.com^
 ||im-apps.net^
 ||i-match.nl^
@@ -17260,6 +17281,7 @@
 ||ims.humo.be^
 ||imspixel.com^
 ||imtaken.pro^
+||imtokencom.top^
 ||imtouken.com^
 ||imwwallet.shop^
 ||inad.com^
@@ -17337,6 +17359,7 @@
 ||infobrics.org^
 ||infocardphoto.info^
 ||infocart.jp^
+||infocitypinamar.com^
 ||info.com^
 ||infocom.kz^
 ||info-dvd.ru^
@@ -17531,6 +17554,7 @@
 ||insurance.ug^
 ||intake-analytics.wikimedia.org^
 ||integralads.com^
+||integratedsso.com^
 ||integrate.io^
 ||integrations.etrusted.com^
 ||integrations.gitbook.com^
@@ -17649,7 +17673,6 @@
 ||ipinfo.info^
 ||ipinfo.io^
 ||ipinyou.com^
-||iploglab.store^
 ||ip-lookup.org^
 ||ip.notable.app^
 ||iponweb.com^
@@ -17844,6 +17867,7 @@
 ||itrackly.com^
 ||itranslator.info^
 ||itsbharat.com^
+||itscoupons.com^
 ||its-dori.tumblr.com^
 ||itsecuredesk.com^
 ||it-securegroup.com^
@@ -18101,6 +18125,7 @@
 ||jhakie.com^
 ||jh-group.nl^
 ||jhgroup.nl^
+||jh-print.com^
 ||jh-sl.com^
 ||jiali-china.com^
 ||jiaoben.ganji.cn^
@@ -18149,6 +18174,7 @@
 ||jm-tiktok-llc.com^
 ||jmvlogistics.in^
 ||jnm.casino^
+||jnqssm.com^
 ||jnsdkjzs.com^
 ||jnyngg.cn^
 ||joancoscodina.com^
@@ -18228,7 +18254,6 @@
 ||jqueryapihelpers.com^
 ||jqwidgets.com^
 ||jqz9.com^
-||jrrjmarketing.com^
 ||js1.xbaixing.com^
 ||js730730.com^
 ||js7k.com^
@@ -18320,7 +18345,6 @@
 ||justspincasino.org^
 ||justtag.com^
 ||justtrack.io^
-||justturtle.com^
 ||justuno.com^
 ||jusutv.com^
 ||jutou5.com^
@@ -18381,7 +18405,6 @@
 ||kantox-preprod.com^
 ||kanuunacasinos.com^
 ||kanzbladi.com^
-||kaoaaapc.cc^
 ||kapetracking.com^
 ||kapitall.life^
 ||kapost.com^
@@ -18410,6 +18433,7 @@
 ||kathyinformationwhether.com^
 ||kawamarketing.vn^
 ||kayak.it^
+||kaygayton.com^
 ||kayzen.io^
 ||kazino-online.casino^
 ||kaz-pin-up.casino^
@@ -18427,7 +18451,6 @@
 ||keap-link006.com^
 ||kebuntoto.casino^
 ||kedvs4wiykc.com^
-||kee126.com^
 ||keen.io^
 ||keepaneye.mk^
 ||keep-icloud.com^
@@ -18447,6 +18470,7 @@
 ||kemtechinternational.com^
 ||kenhoward.com^
 ||kennis.shop^
+||kensboxing.com^
 ||kenshoo.com^
 ||kent6324.casino^
 ||kentcasino-win.online^
@@ -18482,6 +18506,7 @@
 ||keyrun.cn^
 ||keyrun.com^
 ||keystone.mwbsys.com^
+||keysyncos.com^
 ||keytechnologies.ae^
 ||keytocasinos.com^
 ||key-unlock.com^
@@ -18563,6 +18588,7 @@
 ||kiptownim.info^
 ||kir.bet^
 ||kiricasino.nl^
+||kirichan7619.com^
 ||kissmetrics.com^
 ||kissmetricshq.com^
 ||kissmetrics.io^
@@ -18612,7 +18638,6 @@
 ||kma.biz^
 ||kmail-lists.com^
 ||kmm-cag.uwv.nl^
-||kmmiiaaa.com^
 ||kmmits.com^
 ||km-player.com^
 ||km-player.pro^
@@ -18647,10 +18672,10 @@
 ||kokobetcasinonl.com^
 ||koko-betcasino-nl.nl^
 ||kokobetcasinonl.nl^
+||kolekisyon.com^
 ||kolikkopelit.com^
 ||kolinhumercianali.org^
 ||kolitersdones.com^
-||kolpa.lol^
 ||kom1.casino^
 ||kombewustinverbinding.nl^
 ||kometa-casino-online.ru^
@@ -18726,6 +18751,7 @@
 ||kucasinos.net^
 ||ku-casino-thai.com^
 ||kucasino-vnlink.com^
+||kucoins-signin.com^
 ||kudobuzz.com^
 ||kudoscasino.com^
 ||kudosresearch.com^
@@ -18735,6 +18761,7 @@
 ||kulturlese.com^
 ||kumarpay.in^
 ||kundendata.de^
+||kundenportal-online.com^
 ||kunkkukasino.com^
 ||kunststeinviertel.de^
 ||kuntaljewels.com^
@@ -18787,6 +18814,7 @@
 ||ladylindacasino.co^
 ||lafiesta-casino.org^
 ||lagravelle.com^
+||lahmtm.com^
 ||lakepalacecasino.org^
 ||lala-casino.net^
 ||lalamove.com^
@@ -18800,6 +18828,7 @@
 ||lampchat.io^
 ||lamptechs.com^
 ||landbot.io^
+||landiemi.com^
 ||landingi.com^
 ||landschapsonderhoudrotterdam.nl^
 ||landsloterij.org^
@@ -19073,7 +19102,6 @@
 ||lightspeedsystems.app^
 ||lightspeedsystems.com^
 ||lightwidget.com^
-||liikepalvelu.com^
 ||lijit.com^
 ||likar.info^
 ||likesmaster.eu^
@@ -19113,6 +19141,7 @@
 ||linkbridge7.com^
 ||lin-k.cc^
 ||linkconnector.com^
+||linked4x.com^
 ||linkeddata.es^
 ||linked.help^
 ||linkemployee.top^
@@ -19248,8 +19277,8 @@
 ||livingearth.nl^
 ||living-process.de^
 ||lixiangmo.com^
-||lixiiimunchiihamzzz.live^
 ||lk13.casino^
+||lkntansr.net^
 ||ll5.casino^
 ||llaa.us^
 ||l-lcloud-com.site^
@@ -19273,6 +19302,8 @@
 ||lnlsealcoating.com^
 ||lnmxys.com^
 ||lnstagram.com^
+||lntermaticopacifico.online^
+||lntermatico-personas.online^
 ||lntredes.com^
 ||lnw.com^
 ||lo4d.com^
@@ -19307,7 +19338,6 @@
 ||logacom.nl^
 ||log.aispeech.com^
 ||log.amemv.com^
-||loganalytics.io^
 ||loganlooneyresume.com^
 ||logbase.io^
 ||log.byteoversea.com^
@@ -19382,7 +19412,6 @@
 ||lokercorp.com^
 ||lokicasino.com^
 ||lomark.cn^
-||lomeqpe.com^
 ||lomiva.vu^
 ||lonaci-casino-play.online^
 ||lonceen.net^
@@ -19673,7 +19702,6 @@
 ||lustre.ai^
 ||lutheran.hu^
 ||lux78.biz^
-||luxcar-24.com^
 ||luxecasinoworld.com^
 ||luxenburgcasinobonuses.com^
 ||luxevegascasino.com^
@@ -19898,7 +19926,6 @@
 ||mangospins-online-casino.com^
 ||mango-sushi.com^
 ||mangsud.org^
-||manita.lol^
 ||manovingenieria.com^
 ||mansapharma.com^
 ||mansioncasino.com^
@@ -20021,6 +20048,7 @@
 ||maspherechic.fr^
 ||massageonbed.com^
 ||massariuscdn.com^
+||massgravel.dev^
 ||masslottery.com^
 ||massmailpartner.com^
 ||massstat.co^
@@ -20099,6 +20127,7 @@
 ||maysunmedia.com^
 ||mb7.casino^
 ||mbai.cn^
+||mbankekonto.xyz^
 ||mbcasesores.com^
 ||m-betsafe.com^
 ||mbfsl.com^
@@ -20275,6 +20304,7 @@
 ||megdexchange.com^
 ||meher-fund.org^
 ||meibodo.com^
+||meihao168.com^
 ||meilleurs-casinos-en-france.com^
 ||meiqia.com^
 ||meissner.ae^
@@ -20459,7 +20489,10 @@
 ||microsoftoniine.co^
 ||microsoft-ssl.com^
 ||microsoftupdater.info^
+||microsoftupdates.top^
 ||microtr.life^
+||microupdate.me^
+||microupdate.top^
 ||micro-xdb.com^
 ||micsroft.com^
 ||mida-app.io^
@@ -20469,7 +20502,6 @@
 ||mid.casino^
 ||middleware.p7s1.io^
 ||midiowagrowth.com^
-||midle-eastcompany.com^
 ||midwestmerch.com^
 ||midzone.tools^
 ||miegyot.net^
@@ -20598,7 +20630,6 @@
 ||mkbmailer.com^
 ||mkb-trainingen.nl^
 ||mkconstructions.net^
-||mkjiun.shop^
 ||mkk9991999912.observer^
 ||mkpqcbr.com^
 ||mkpscbr.com^
@@ -20904,6 +20935,7 @@
 ||mql5.com^
 ||mqtt.us-west-2.prod.console.iot.aws.dev^
 ||mrachvillan.info^
+||mrbetcasino.com^
 ||mrbetcasino.org^
 ||mrbit-casino.com^
 ||mrbonus.com^
@@ -20941,7 +20973,6 @@
 ||msf.com^
 ||msg.71.am^
 ||msgapp.com^
-||msgelement.show^
 ||msg.email^
 ||msgfocus.com^
 ||msg.qy.net^
@@ -20988,7 +21019,6 @@
 ||multipharma.be^
 ||multi-pixels.com^
 ||multiplay.at^
-||multisavcx.xyz^
 ||multiscreensite.com^
 ||multitrk.com^
 ||multiview.com^
@@ -21054,6 +21084,7 @@
 ||mychancecasino.com^
 ||myclang.com^
 ||myclang.org^
+||myconnectkey.com^
 ||mycounter.net^
 ||mycounter.ua^
 ||mydad.info^
@@ -21148,7 +21179,6 @@
 ||mzy2014.com^
 ||mzzrj.com^
 ||n1betiran.com^
-||n1betscasino.com^
 ||n1-casino.co^
 ||n1casino.com^
 ||n1casino.gr^
@@ -21422,7 +21452,6 @@
 ||newsmaxwidget.com^
 ||newspush.sinajs.cn^
 ||news.smi2.ru^
-||newstan.online^
 ||newstat.monster^
 ||newstat.net^
 ||newswatchtv.com^
@@ -21513,6 +21542,7 @@
 ||nielsen.com^
 ||nielsenhomescansurveys.com^
 ||nielsen-netratings.com^
+||niels-meyer.de^
 ||nieuwe-casinos.net^
 ||nieuwsbriefsysteem.nl^
 ||nieuwsbriefsysteem-static.nl^
@@ -21585,7 +21615,6 @@
 ||nl.widgets.investing.com^
 ||nmbtedu.com^
 ||nmedwog.cn^
-||nmhjnu.shop^
 ||nmlottery.com^
 ||nmpcdn.com^
 ||nmq.casino^
@@ -21621,6 +21650,7 @@
 ||nodoespacio.com^
 ||nofraud.com^
 ||nogamstopcasinos.uk^
+||noht1ng.top^
 ||noibu.com^
 ||noidem.com^
 ||noiseship.cfd^
@@ -21938,6 +21968,7 @@
 ||offen.dev^
 ||offer18.com^
 ||offer-go.com^
+||offerpilot.care^
 ||offerstrack.net^
 ||offertoro.com^
 ||offerup.com^
@@ -22058,6 +22089,7 @@
 ||onderzoekfilter.nl^
 ||onderzoek.nl^
 ||ondirect.in^
+||ondp.finance^
 ||one1winbet.com^
 ||one1x.bet^
 ||one1xbetfa.com^
@@ -22332,7 +22364,6 @@
 ||optidigital.com^
 ||optimacasino.ca^
 ||optimalfusion.com^
-||optimalinfos.com^
 ||optimisation.data.lloydsbankinggroup.com^
 ||optimise-it.de^
 ||optimise.net^
@@ -22409,7 +22440,10 @@
 ||osiaffiliate.com^
 ||ositracker.com^
 ||oskey.com^
+||oskeyconnect.com^
+||oskeyregister.com^
 ||oskeysetup.com^
+||oskeysync.com^
 ||osm.cylex-international.com^
 ||os.tc^
 ||ostmarketing.com^
@@ -22551,7 +22585,6 @@
 ||panalobet.ph^
 ||pancake.run^
 ||pancakeswap.finance^
-||pancar.lol^
 ||panda.casino^
 ||panda.kdnet.net^
 ||panda.new^
@@ -22674,6 +22707,7 @@
 ||passiondebordante.fr^
 ||passkeyadd.com^
 ||passkeyconnect.com^
+||passkeyhelpdesk.com^
 ||passkey-mfa.com^
 ||passle.net^
 ||passport.lenovo.com^
@@ -23132,6 +23166,7 @@
 ||pl59133.top^
 ||pl-635253846.click^
 ||pl70681.top^
+||pl-72739.sbs^
 ||pl73146.top^
 ||pl-73462535.shop^
 ||pl73626.top^
@@ -23279,6 +23314,7 @@
 ||pl-ogloszenie5924892137.click^
 ||pl-ogloszenie7489834822.click^
 ||pl-ogloszenie-prywatne7584645.click^
+||plomeros24horasbogota-sas.com^
 ||plotx.io^
 ||plsxfbd.info^
 ||pluckypocket.com^
@@ -23324,6 +23360,7 @@
 ||pointinside.com^
 ||pointmediatracker.com^
 ||pokercasino.com^
+||pokerdom1-online-poker.top^
 ||pokerdom777.click^
 ||pokerdom-kasino-money.top^
 ||pokerdom-online2374.casino^
@@ -23343,7 +23380,6 @@
 ||pokerstars-casino.io^
 ||pokerstars-casino-uk.org^
 ||pokerstars.com^
-||pokerstars.it^
 ||pokerstarsmtairycasino.com^
 ||pokerstars.net^
 ||pokerstarssports.dk^
@@ -23408,10 +23444,12 @@
 ||pornhubcasino.io^
 ||porta-assist.com^
 ||portabalbufe.com^
+||portabilidadefreerodovia.online^
 ||portalcanje.help^
 ||portal.click-chat.app^
 ||portal.eu.numbereight.ai^
 ||portalrenovacao.com^
+||portalsetuphub.com^
 ||portalverifydigital.shop^
 ||portal.websecurityscan.eu^
 ||porterneuman.mx^
@@ -23468,10 +23506,10 @@
 ||ppincome.net^
 ||ppl-acces-survey.com^
 ||ppl-logacces.com^
-||ppl-survey-admin.com^
 ||ppneus.com^
 ||pp-poker.eu^
 ||ppt.cc^
+||ppt.dev^
 ||pp.ua^
 ||practisingcertificateprotection.com^
 ||pragmaticplay.com^
@@ -23991,7 +24029,6 @@
 ||qomculture.ir^
 ||qooic.com^
 ||qoopler.ru^
-||qorvi.pro^
 ||qp9.casino^
 ||qpoe.com^
 ||qpointsurvey.com^
@@ -24021,6 +24058,7 @@
 ||qrypty.com^
 ||qsbz2011.com^
 ||qshxc.com^
+||qssmyzs.com^
 ||qsstats.com^
 ||qt-proxy.org^
 ||qtproxy.xyz^
@@ -24236,6 +24274,7 @@
 ||rating-shave.com^
 ||rating-widget.com^
 ||ratrck.com^
+||raunkutenpointzone.com^
 ||ravabetensani.site^
 ||ravansalamat.shop^
 ||ravanshenakhti.shop^
@@ -24255,7 +24294,6 @@
 ||raygun.com^
 ||raygun.io^
 ||rayjump.com^
-||raymelo.vu^
 ||rays-counter.com^
 ||rb8003.casino^
 ||rbcode.net^
@@ -24626,6 +24664,7 @@
 ||ricky-casinos.com^
 ||riddle.com^
 ||ridercasino.com^
+||rieckerstattnugc79.site^
 ||rierra-ads.com^
 ||rigacdn.in^
 ||rigel1poker.com^
@@ -24702,12 +24741,14 @@
 ||robertbridgeman.com^
 ||robinhood-learn.com^
 ||robinhood.toys^
+||robinhoodus.news^
 ||robinhq.com^
 ||robin.markets^
 ||robiox.com.gr^
 ||robiox.com.ps^
 ||robiox.top^
 ||roblotx.im^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox-com.com^
 ||roblox.com.ee^
@@ -24910,7 +24951,6 @@
 ||rudy.adsnative.com^
 ||ruigroknetpanel.nl^
 ||ruigrok.nl^
-||rukeyou.com^
 ||ruleranalytics.com^
 ||ruletaautomatica.shop^
 ||rullatcasino-fi.com^
@@ -25015,7 +25055,6 @@
 ||safelinks.protection.outlook.com^
 ||safenet.family^
 ||safeopt.com^
-||safe-pdf-viewer.lat^
 ||safephoto-vault.info^
 ||safe-picvault.info^
 ||saferwet.com^
@@ -25221,7 +25260,6 @@
 ||sctclick2.com^
 ||scuderiailbobolino.it^
 ||scupio.com^
-||scuttlepopdownload.monster^
 ||scw0.com^
 ||sd7.casino^
 ||sdc.agenziaentrate.it^
@@ -25242,9 +25280,11 @@
 ||sdkv2.imaginationunwired.com^
 ||sdlmedia.com^
 ||sdnstatistic.com^
+||sdshrjy.com^
 ||s.dsqjkc.com^
 ||sdtiemo.com^
 ||sdwfw.com^
+||sdzdksjx.com^
 ||se4.casino^
 ||se7en.es^
 ||seachangenow.ie^
@@ -25271,6 +25311,7 @@
 ||secomapp.com^
 ||secondhome.nl^
 ||secondstreet.com^
+||secoupon.com^
 ||secretary.nl^
 ||secretstats.net^
 ||sec-safe-dc.info^
@@ -25290,6 +25331,7 @@
 ||securemetrics.experience.apple^
 ||securenow-esl-org.click^
 ||secureomg.nl^
+||secure-passkey.com^
 ||secure.perk0mean.com^
 ||secureprivacy.ai^
 ||securepulse.space^
@@ -25462,6 +25504,8 @@
 ||service.ad.adesk.com^
 ||service.dpa-infocom.de^
 ||servicegrovebase.click^
+||service-nowinc.com^
+||servicenow-ticket7762.com^
 ||servicenummer4you.de^
 ||serviceocean.com^
 ||serviceroute.site^
@@ -25487,6 +25531,7 @@
 ||settings.help^
 ||setup2.com^
 ||setup.cam^
+||setupmypasskey.com^
 ||sevencasino.dk^
 ||sevencasino.no^
 ||sevencasinos.io^
@@ -25497,6 +25542,7 @@
 ||severex.io^
 ||sevrz.com^
 ||sextracker.com^
+||seyixchglogs.com^
 ||sezarcasino307.com^
 ||sezarcasinogir.com^
 ||seznam.cz^
@@ -25519,6 +25565,7 @@
 ||sg-casino.io^
 ||sgcasino.io^
 ||sgg.southcn.com^
+||sgn-1.com^
 ||sgsnssdk.com^
 ||sgtm.natuurmonumenten.nl^
 ||sgtm.plein.nl^
@@ -25763,6 +25810,7 @@
 ||sinfoon.com^
 ||singaporecasinobonuses.com^
 ||singlespot.com^
+||singlesso.help^
 ||singoldating.com^
 ||singular.net^
 ||sinkrone.com^
@@ -25928,7 +25976,6 @@
 ||slots-n-bets-casino.com^
 ||slotsonlinecasino.fr^
 ||slotsroomcasino.org^
-||slotsshine.casino^
 ||slotstemple.com^
 ||slotsuk.casino^
 ||slotswincasino.org^
@@ -26052,6 +26099,7 @@
 ||sms.sb^
 ||sms-weryf-4283.shop^
 ||smtaxconsultant.com^
+||smtpmart.com^
 ||smtrk.net^
 ||smule.com^
 ||smxtech.xyz^
@@ -26096,7 +26144,6 @@
 ||snowflake.com^
 ||snowplowanalytics.com^
 ||snowplow.gusto.com^
-||snowproject.lol^
 ||snpfd.co^
 ||sns.casino^
 ||snssdk.com^
@@ -26151,7 +26198,6 @@
 ||soft-update.dev^
 ||softwareag.com^
 ||softwarecdn.net^
-||software-gateway.click^
 ||softwarevault.com^
 ||sohamohammed.info^
 ||sohantraders.com^
@@ -26190,7 +26236,6 @@
 ||soloway.ru^
 ||soltrivena.world^
 ||solulu.vip^
-||solution-analytics.com^
 ||solution.coupons^
 ||solutionfun.info^
 ||solvariquejio.com^
@@ -26239,7 +26284,6 @@
 ||spaceboost.com^
 ||spacecasino.com^
 ||spacewincasino.org^
-||spa-com.com^
 ||spadsync.com^
 ||spahotel.guru^
 ||spamgym.asia^
@@ -26599,13 +26643,13 @@
 ||staticdash.net^
 ||static-dscn.net^
 ||static-eu.payments-amazon.com^
-||static-file.lol^
 ||static.flv.uuzuonline.com^
 ||static.g.ppstream.com^
 ||statichf.shihuocdn.cn^
 ||statichost.page^
 ||static.ichehome.com^
 ||static.kinghost.com^
+||staticmidnight.com^
 ||static.off.mk^
 ||static.onefootball.com^
 ||static.parastorage.com^
@@ -26779,6 +26823,7 @@
 ||stingold.com^
 ||stirista.com^
 ||stjzh.gdtarget.com^
+||stlinlong.com^
 ||stm.suitsupply.com^
 ||stn88.com^
 ||stockdesktopwidget.com^
@@ -26801,7 +26846,6 @@
 ||strainted.com^
 ||straliaenollma.xyz^
 ||strapness.com^
-||stratagemzw.com^
 ||stratanalytics.com^
 ||strategyanalytics.com^
 ||strato.de^
@@ -27070,7 +27114,6 @@
 ||surveyon.com^
 ||surveypal.com^
 ||surveyplanet.com^
-||survey-ppl-acces.com^
 ||survey-ppl-log.com^
 ||surveyrouter.com^
 ||surveys.com^
@@ -27103,7 +27146,6 @@
 ||swa.asnbank.nl^
 ||swaga.casino^
 ||swanhui.com^
-||swanrecovery.com^
 ||swap-byreal.com^
 ||swedencasino.com^
 ||swedishcasinobonuses.com^
@@ -27169,6 +27211,7 @@
 ||syncdatavault.com^
 ||sync-dsp.ad-m.asia^
 ||syncminer.xyz^
+||syncmykey.com^
 ||sync.programmatica.com^
 ||synctags.org^
 ||synctrack.io^
@@ -27195,6 +27238,7 @@
 ||s.ytimg.com^
 ||szakaldesign.hu^
 ||szbdyd.com^
+||szdongri.com^
 ||szerencsejatek.hu^
 ||szfaq.com^
 ||s.znctrack.net^
@@ -27386,7 +27430,6 @@
 ||tcomlp.online^
 ||tcommander.ru^
 ||t.contactlab.it^
-||tcplegit.space^
 ||tdbtrk.com^
 ||tdep.hema.nl^
 ||t.destentor.nl^
@@ -27445,6 +27488,7 @@
 ||teddysun.com^
 ||t.ed.nl^
 ||teemo.co^
+||tegav2.com^
 ||tegeto.nl^
 ||tegrazone.com^
 ||tekmob.com^
@@ -27576,6 +27620,7 @@
 ||thecasinolinks.com^
 ||thecasinowizard.com^
 ||thechainofcolour.nl^
+||thechennaistores.com^
 ||theclubhousecasino8.com^
 ||theclubhousecasino.com^
 ||thecompanycheck.com^
@@ -27712,7 +27757,6 @@
 ||timdovs.com^
 ||time2play.com^
 ||timeappmarketing.com^
-||timelevel12.com^
 ||timesofcasino.com^
 ||timessquarereporter.com^
 ||timetravelpromotion.com^
@@ -27735,6 +27779,7 @@
 ||tinylytics.app^
 ||tinypass.com^
 ||tinyshart.com^
+||tinyurls.in^
 ||tipico-casino-de.de^
 ||tipico.de^
 ||tipp24.de^
@@ -27775,6 +27820,7 @@
 ||tlcasino507.com^
 ||tlcasino510.com^
 ||tlcasinodiscount2.com^
+||tlknan.net^
 ||tlkt0kshop.com^
 ||tlo.com^
 ||t.ly^
@@ -27800,7 +27846,6 @@
 ||tnsglobal.com^
 ||tns-nipo.com^
 ||tns-sifo.se^
-||tnygbw.com^
 ||tny.lv^
 ||toapayoh.org^
 ||toboads.com^
@@ -27823,7 +27868,6 @@
 ||token-technology.com^
 ||tokeonpqaket.com^
 ||tokeonptoket.com^
-||tokidsa.com^
 ||tokkobroker.com^
 ||to.lk^
 ||tollfreeforwarding.com^
@@ -28104,7 +28148,6 @@
 ||tr-glorycasino.com^
 ||triage-wipit.com^
 ||trialfire.com^
-||triapfog.com^
 ||tribalfusion.com^
 ||tributariconfirmars-es.top^
 ||trickflag.info^
@@ -28219,7 +28262,6 @@
 ||true-fortune-casino.uk^
 ||true-fortunecasino.uk^
 ||truefortune-casino.uk^
-||trueinggrik.com^
 ||trueinsight.nl^
 ||trueluckcasinonl.com^
 ||trueluckcasinonl.net^
@@ -28290,6 +28332,7 @@
 ||tuia.cn^
 ||tuidang.org^
 ||tuigoo.com^
+||tuiskr.com^
 ||tuitui19999.com^
 ||tukeai.com^
 ||tulip.co^
@@ -28386,6 +28429,7 @@
 ||u38e.top^
 ||u.63kc.com^
 ||u777.casino^
+||u7o2i.icu^
 ||u8e.casino^
 ||u9pxeznuhf9p.mycopilot.com^
 ||uaeuptodate.com^
@@ -28753,6 +28797,7 @@
 ||uxtramine.org^
 ||uxwizz.com^
 ||uy9.casino^
+||uyfwz.com^
 ||uyunad.com^
 ||uywtvbmw.coolmaterial.com^
 ||uzerly.fr^
@@ -28788,6 +28833,7 @@
 ||valhallacasino.dk^
 ||validata.com^
 ||validatagroup.com^
+||validationsetupac.com^
 ||valleyviewcasino.com^
 ||valorbet-casino.net^
 ||valorcasino-ar.com^
@@ -28805,6 +28851,7 @@
 ||valueclick.com^
 ||valuecommerce.com^
 ||valverestore.com^
+||valvewizard.uk^
 ||vamaker.com^
 ||vam-cdn-prod.mediazs.com^
 ||vanadcloud.com^
@@ -28931,7 +28978,6 @@
 ||verdecasinoseite.com^
 ||verdecasinos.io^
 ||verdecasinoslots.com^
-||verde-casino-spielen.com^
 ||verdiva.life^
 ||verhoevennatuurgeneeskunde.nl^
 ||verifcv.com^
@@ -29022,6 +29068,7 @@
 ||viantinc.com^
 ||viapplogs.net^
 ||viata.nl^
+||vibecoders.vip^
 ||vibemetrics.com^
 ||vibrantmedia.com^
 ||vibrationoflife.com^
@@ -29358,6 +29405,7 @@
 ||wallpapercave.com^
 ||wallpapermuseum.com^
 ||wallst.ru^
+||walmartmastercard.ca^
 ||walottery.com^
 ||wandz.ai^
 ||wanfeng1.com^
@@ -29695,14 +29743,15 @@
 ||wincasinos.nl^
 ||wind0ws.net^
 ||windcreekcasino.com^
+||windefender.net^
 ||windettacasino.io^
 ||windows12.download^
 ||windows12download.net^
 ||windows12.io^
 ||windowscreenrepairnearme.com^
-||windowskernel.lol^
 ||windowsmp.ru^
 ||windowsupdate-cdn.com^
+||windowsupdates.us^
 ||winds11.site^
 ||windsecure.ru^
 ||windwsecurity.run^
@@ -29898,7 +29947,6 @@
 ||wx.xwjqr.com^
 ||wyattmattersshow.com^
 ||wycl.shop^
-||wylkpznq.xyz^
 ||wymegp.com^
 ||wynncasino777.com^
 ||wyolotto.com^
@@ -29962,6 +30010,7 @@
 ||xfinityrefunds.com^
 ||xg4ken.com^
 ||xgnodg.info^
+||xgyjcc.com^
 ||xhmrv.com^
 ||xhscdn.com^
 ||xiacaidd.com^
@@ -30011,9 +30060,11 @@
 ||xn--90aguaqgfu.xn--p1ai^
 ||xn----9sbhgocsfmg4a1kfg.xn--p1ai^
 ||xnbscuya.love^
+||xn--entrepreneur-lgal-otb.fr^
 ||xn--i2ru8q2qg.com^
 ||xn--ida.online^
 ||xn--klver-kua.se^
+||xnsqbw.com^
 ||xn--utlndskacasinomedbankid-x7b.se^
 ||xo7.casino^
 ||xochicalco.edu.mx^
@@ -30043,6 +30094,7 @@
 ||xtip.de^
 ||xtraffic.plus^
 ||xtxa.net^
+||xuanzhentaisui.com^
 ||xuastyrdqk.love^
 ||xulizui6.com^
 ||xverikstat.us^
@@ -30284,6 +30336,7 @@
 ||z76.casino^
 ||z77.casino^
 ||z7d2q.info^
+||z8n4vk.lat^
 ||z90.casino^
 ||z99.casino^
 ||za5.casino^
@@ -30318,7 +30371,6 @@
 ||zbs-casino.online^
 ||zbtlink.com^
 ||zbtwifi.com^
-||zcalton.com^
 ||zcasino.org^
 ||zcdsp.com^
 ||zcve37mdx09.rest^
@@ -30450,6 +30502,7 @@
 ||zeydbuabj7367.com^
 ||zeylin15.com^
 ||zfctrack.net^
+||zg7wnt.casa^
 ||zgfszs.com^
 ||zgsstr.com^
 ||zh0997.com^
