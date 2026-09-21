@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-13 07:00:24 UTC
+! Generated at 2026-09-21 07:00:23 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -170,6 +170,7 @@
 ||adlog.vivo.com.cn^
 ||ad.mi.com^
 ||ad.miui.com^
+||adm-smc-cn.heytapmobi.com^
 ||ad.msn.com^
 ||ad.prod.rpay.int.roku.com^
 ||ad.qa.ap.int.roku.com^
@@ -301,12 +302,14 @@
 ||adx-drru.op.hicloud.com^
 ||ad.xiaomi.com^
 ||adxlog-adnet.vivo.com.cn^
+||adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com^
 ||adx-op-fr.heytapmobile.com^
 ||adx-op-in.heytapmobile.com^
 ||adx-op-ru.heytapmobile.com^
 ||adx-op-sg.heytapmobile.com^
 ||adx.tv.mi.com^
 ||adxu-bigo-sg.heytapmobile.com^
+||adx-u-ru.heytapmobile.com^
 ||adx-u-sg.heytapmobile.com^
 ||ae-ad-lgsmartad-com.aws-prd.net^
 ||ae-rdx2-lgtvsdp-com.aws-prd.net^
@@ -1343,8 +1346,6 @@
 ||iadsdk.apple.com.akadns.net^
 ||iadsdk.apple.com.edgekey.net^
 ||iadworkbench.apple.com^
-||ibs.nextlgsdp.com^
-||ibsstat.nextlgsdp.com^
 ||i-cn01a.ocloud.heytapmobi.com^
 ||icosa-service-eu.allawnos.com^
 ||icosa-service-fr-01.allawnos.com^
@@ -1517,6 +1518,7 @@
 ||kz-ad-lgsmartad-com.aws-prd.net^
 ||kz-album-api.vivoglobal.com^
 ||kz-cname-sin01-bigdata.vivoglobal.com^
+||kz-cota.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
 ||kz-monitor-stsdk.vivoglobal.com^
 ||kz-onrt-stsdk.vivoglobal.com^
@@ -2090,7 +2092,6 @@
 ||mssdk-quic-sg.tiktokv.com^
 ||mssdk-quic-va.tiktokv.com^
 ||mssdk-ru.tiktokv.com^
-||mssdk-ru.tiktokv.com.www.digmawifi.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
 ||mssdk-sg.capcutapi.com^
@@ -2345,6 +2346,7 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^
@@ -2440,7 +2442,6 @@
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
-||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
@@ -2740,6 +2741,7 @@
 ||sponsored-ads.amazon.com.mx^
 ||sponsored-ads.amazon.com.tr^
 ||sponsored-ads.amazon.co.uk^
+||sponsored-ads.amazon.co.za^
 ||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
@@ -2747,6 +2749,7 @@
 ||sponsored-ads.amazon.in.alphionsee.in^
 ||sponsored-ads.amazon.it^
 ||sponsored-ads.amazon.sa^
+||sponsored-ads.amazon.sg^
 ||sponsored-ads-eu.amazon-adsystem.com^
 ||sponsored-ads-eu.amazon.ae^
 ||sponsored-ads-eu.amazon.com.be^
