@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-21 07:00:23 UTC
+! Generated at 2026-09-22 07:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -320,6 +320,7 @@
 ||ag-ad-lgsmartad-com.aws-prd.net^
 ||agps-location-livenet.trafficmanager.net^
 ||a.hl.mi.com^
+||aios-otel-collector.g.apple.com^
 ||akcjasamsung.e-kei.pl^
 ||al-ad-lgsmartad-com.aws-prd.net^
 ||album-cn01a.ocloud.heytapmobi.com^

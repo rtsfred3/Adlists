@@ -1,4 +1,4 @@
-# Generated at 2026-09-21 07:01:05 UTC
+# Generated at 2026-09-22 07:01:06 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5124,6 +5124,7 @@ ainu.intel.in
 ainu.intel.it
 ainu.intel.la
 ainu.intel.pl
+aios-otel-collector.g.apple.com
 aip.actonservice.com
 a.ipoque.com
 aircuity.actonservice.com
@@ -5780,6 +5781,7 @@ analytics.onlinehomeretail.co.uk
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.oyorooms.com
@@ -6289,6 +6291,7 @@ apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
 apm.qwant.com
+apm-rum.inf.miui.com
 apm.tnet.nl
 a.pork.org
 a.pourquoidocteur.fr
@@ -7027,6 +7030,7 @@ apps.daxko-qa.com
 apps.ding.jobs
 app.seasonshare.com
 apps.e-butler.com
+appsecstudio.com
 appsecurezomation.carte-gr.total.fr
 app.segno.org
 app.select.id
@@ -8402,6 +8406,7 @@ boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
 bowl.actonservice.com
+bowlershut.com
 boxandcover.com
 box.bossdata.be
 box.pandora.xiaomi.com
@@ -9488,6 +9493,7 @@ click.glamsquad.com
 clickins.slixa.com
 click.instacartemail.com
 click.kataweb.it
+click.lenovo.com
 click.lmbcustomersupport.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -10832,6 +10838,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 c.uk.msn.com
 culliganwaterco.actonservice.com
 culturedcamera.com
@@ -12535,6 +12542,7 @@ dmndfrcstng.com
 d.m-net.de
 dmpcdn.el-mundo.net
 dmp.citynews.ovh
+dmplog.qq.com
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -20004,6 +20012,8 @@ leftliquid.com
 legacywatson.trafficmanager.net
 legalhold.ediscovery.com
 legolas.monotote.com
+lego-tech.zhuanzhuan.com
+lego.zhuanzhuan.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
 lemonpi.io
@@ -21319,6 +21329,7 @@ logservice-dre.platform.dbankcloud.cn
 logservice-dre.platform.hicloud.com
 logservice.hicloud.com
 logservice.vmall.com
+logs.game.qq.com
 log-sg.capcutapi.com
 logs.hotstar.com
 log.sina.cn
@@ -21840,6 +21851,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 mantual.pandora.xiaomi.com
@@ -26328,6 +26340,7 @@ neoncsr21.net.anwalt.de
 neonsites.com
 neosllc.actonservice.com
 neowiv.brumbrum.it
+nerdworldcon.com
 nerldv.ullapopken.pl
 nervoussummer.com
 nestbuyers.com
@@ -26999,6 +27012,9 @@ omftdc.morijuku.com
 omgcreative.actonservice.com
 om.greatrentals.com
 omgthink.com
+omgup1.xiaojukeji.com
+omgup.didiglobal.com
+omgup.xiaojukeji.com
 om.healthgrades.com
 om.homeaway.ca
 om.homeaway.co.in
@@ -28065,6 +28081,7 @@ pixel.lilystyle.ai
 pixel.locker2.com
 pixel.marqo-ep.ai
 pixel.mintigo.com
+pixelmoonstudio.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
@@ -35782,6 +35799,7 @@ sp.data.funkedigital.de
 sp.dpgmedia.net
 spea.eko.com
 specialevent.informaengage.com
+specialreview.net
 specialscissors.com
 specialtypin.com
 sp.ecosia.org
@@ -37851,6 +37869,7 @@ stormwind.actonservice.com
 stormyflower.com
 s.toronto.com
 s.toyotafinancial.com
+stpc.vivo.com.cn
 st.picshuffle.com
 st.preciousamber.com
 str1kee.com
@@ -37931,6 +37950,7 @@ stscs.ditzo.nl
 stsdk.vivoglobal.com
 sts.eccmp.com
 sts.eliasjarzombek.com
+st-sentinel.vivo.com.cn
 sts.marketingsuite.jp
 sts.papyrs.com
 sts.tour-europe.org
@@ -38053,6 +38073,7 @@ superficialspring.com
 superficialsquare.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
+superstarorganizer.com
 superstats.observepoint.com
 s.upoker.net
 supplyreward.com
@@ -38192,7 +38213,6 @@ swa.personalcreations.com
 swa.postnl.nl
 swa.regiobank.nl
 swasc.homedepot.ca
-swasc.homedepot.com
 swasc.kaufland.bg
 swasc.kaufland.com
 swasc.kaufland.cz
@@ -39482,6 +39502,7 @@ tk.cadeaux.com
 t.kck.st
 tk.conforama.fr
 tk.dietbon.fr
+tk.d.mi.com
 tk.domitys.fr
 tk.dossier.co
 tkelq.genesys.com
@@ -40037,6 +40058,7 @@ tracker.ethicalcorp.com
 tracker.euroweb.net
 tracker.eyeforpharma.com
 trackerfeed.ddxq.mobi
+tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.flightview.com.trafficmanager.net
 tracker.gamedock.io
@@ -40849,6 +40871,7 @@ track.kueez.com
 track.kyoads.com
 trackla.stackla.com
 track.leady.cz
+track.lenovo.com.cn
 track.lesmills.com
 track.list-finder.jp
 track.livasoft.com.tr
@@ -45666,6 +45689,7 @@ xp2023-pix.s3.amazonaws.com
 xp.allianz.de
 xp.apple.com
 xp.apple.com.edgekey.net
+xp.atlassian.com
 xp-cdn.apple.com
 xpcpmr.gsm55.com
 xps.huk24.de
