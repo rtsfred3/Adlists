@@ -31,7 +31,7 @@ echo "[Adblock Plus]
 while IFS= read -r line; do
     echo "! $line" >> $DIR/$DEDUPED_FILE
     
-    curl "$line" --silent | sed '/^!/d' | sed '/^\[/d' | sed '/^#/d' | sort >> $DIR/$FILE
+    curl "$line" --silent | sed '/^!/d' | sed '/^\[/d' | sed '/^#/d' | sed 's/\*\.//' | sort >> $DIR/$FILE
 done <<< "$SOURCE_URL"
 
 for run in {1..1}; do
