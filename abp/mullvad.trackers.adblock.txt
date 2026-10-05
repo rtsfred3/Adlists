@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-10-04 07:02:24 UTC
+! Generated at 2026-10-05 07:01:00 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -14454,7 +14454,6 @@
 ||ex-adreq-in.vivoglobal.com^
 ||exampleshake.com^
 ||exbujk.glamood.com^
-||excelonline.nel.measure.office.net.cardano.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
 ||exchange.carte-gr.total.fr^
@@ -14480,7 +14479,6 @@
 ||exitachieve.myre.io^
 ||exitblocked.com^
 ||exmeqy.smartbuyglasses.de^
-||exo.nel.measure.office.net.cardano.com^
 ||expansioneggnog.com^
 ||experianmatch.info^
 ||experience2013.elliemae.com^
@@ -14731,6 +14729,7 @@
 ||feedback.lifeguardarena.com^
 ||feedback.miui.com^
 ||feedback.nslsc-csnpe.ca^
+||feedback.search.microsoft.com^
 ||feedbackws.fe2.apple-dns.net^
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe.apple-dns.net^
@@ -17233,7 +17232,6 @@
 ||i.degoo.com^
 ||identification.hotmart.com^
 ||identity.browserapps.amazon.de^
-||identity.nel.measure.office.net.cardano.com^
 ||identitypxl.app^
 ||i-dev.villa.ge^
 ||idg1.idgarages.com^
@@ -18821,6 +18819,7 @@
 ||in-protect-dev.sec.intl.miui.com^
 ||in-prt-stsdk.vivoglobal.com^
 ||inputicicle.com^
+||inputsuggestions.msdxcdn.microsoft.com^
 ||inqjal.dickssportinggoods.com^
 ||inqueritos.cp.pt^
 ||inqueritos-qa.cp.pt^
@@ -20083,6 +20082,7 @@
 ||lfuzec.bglen.net^
 ||lfxdqs.mamasandpapas.ae^
 ||lfyqsi.erborian.com^
+||lgads.adsmeasurement.com^
 ||lgads.tv^
 ||l.gamekult.com^
 ||lgbdxo.azazie.com^
@@ -21346,6 +21346,7 @@
 ||logs.adplay.ru^
 ||logs.animaapp.com^
 ||logs-api.shoprunner.com^
+||logs.appsource.microsoft.com^
 ||logs.betterstack.com^
 ||logsbin.dantri.com.vn^
 ||logs.chatboost-cv.algoage.co.jp^
@@ -21749,7 +21750,6 @@
 ||m1.stadiumgoods.com^
 ||m2t.actonservice.com^
 ||m2.washmen.com^
-||m365cdn.nel.measure.office.net.cardano.com^
 ||m3ds.subarumetropolitain.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
 ||m4zoxtrcea1k.controlconceptsusa.com^
@@ -23811,6 +23811,7 @@
 ||measlymiddle.com^
 ||measureadv.com^
 ||measure.ameblo.jp^
+||measure.microsoft.com^
 ||measure.office.com^
 ||measure.office.com.akamaized.net^
 ||measure.office.net^
@@ -26046,6 +26047,7 @@
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
+||mssdk16-normal-us-ttp2.capcutapi.us^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-platform-useast5.us.tiktokv.com^
 ||mssdk19-normal-alisg.tiktokv.com^
@@ -26949,7 +26951,6 @@
 ||offers.storagepipe.com^
 ||offgridcrops.com^
 ||office-events-data.trafficmanager.net^
-||officehub.nel.measure.office.net.cardano.com^
 ||officestylist.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
@@ -28542,7 +28543,6 @@
 ||prd-collector-platform.ex.co^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||prealpha.go.levelbank.com^
 ||prebid.loopmertb.com^
@@ -29800,6 +29800,7 @@
 ||rollbar.actonservice.com^
 ||rollconnection.com^
 ||rolt7it2lhml5rxa.edge41.testandtarget.omniture.com^
+||romeccs.microsoft.com^
 ||romotur.actonservice.com^
 ||r.onmyway.com^
 ||rooms.itsme.cool^
@@ -35897,7 +35898,6 @@
 ||spmaeu.gumtree.com.au^
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
-||spo.nel.measure.office.net.cardano.com^
 ||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
@@ -38986,7 +38986,6 @@
 ||teammate.arclogics.com^
 ||team.moxtra.com^
 ||teams-events-data.trafficmanager.net^
-||teams.nel.measure.office.net.cardano.com^
 ||teamstatus.net^
 ||tearfulglass.com^
 ||te.baur.de^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-10-04 07:01:50 UTC
+! Generated at 2026-10-05 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1121,10 +1121,8 @@
 ||event-tracking.samsung.com^
 ||ex-adreq-asia.vivoglobal.com^
 ||ex-adreq-in.vivoglobal.com^
-||excelonline.nel.measure.office.net.cardano.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
-||exo.nel.measure.office.net.cardano.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -1145,6 +1143,7 @@
 ||featureinfo-service-sg.allawnos.com^
 ||federatedanalytics.amazon.com^
 ||feedback.miui.com^
+||feedback.search.microsoft.com^
 ||feedbackws.fe2.apple-dns.net^
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe.apple-dns.net^
@@ -1374,7 +1373,6 @@
 ||id-ad-lgsmartad-com.aws-prd.net^
 ||id-analyzer-appstore.vivoglobal.com^
 ||identity.browserapps.amazon.de^
-||identity.nel.measure.office.net.cardano.com^
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idiagnostics-mdn1.apple.com^
@@ -1446,6 +1444,7 @@
 ||in-pnrt-stsdk.vivoglobal.com^
 ||in-protect-dev.sec.intl.miui.com^
 ||in-prt-stsdk.vivoglobal.com^
+||inputsuggestions.msdxcdn.microsoft.com^
 ||insights.video.a2z.com^
 ||internalcheck.apple.com^
 ||in-third-appstore.vivoglobal.com^
@@ -1545,6 +1544,7 @@
 ||lb-ad-lgsmartad-com.aws-prd.net^
 ||lbs-samsung.swypeconnect.com^
 ||legacywatson.trafficmanager.net^
+||lgads.adsmeasurement.com^
 ||lgads.tv^
 ||lg-bgp-misc.pandora.xiaomi.com^
 ||lgsmartad.com^
@@ -1678,6 +1678,7 @@
 ||log-phx.tiktokv.com^
 ||log.pt.xiaomi.com^
 ||log-ru.tiktokv.com^
+||logs.appsource.microsoft.com^
 ||logs.dev.sr.roku.com^
 ||logserver.nzxcloud.cn^
 ||logservice1.dbankcloud.com^
@@ -1713,7 +1714,6 @@
 ||lv-ad-lgsmartad-com.aws-prd.net^
 ||lxcdn.dl.files.xiaomi.net^
 ||ly-ad-lgsmartad-com.aws-prd.net^
-||m365cdn.nel.measure.office.net.cardano.com^
 ||ma-ad-lgsmartad-com.aws-prd.net^
 ||mads.amazon-adsystem.com^
 ||mads.amazon.com^
@@ -1891,6 +1891,7 @@
 ||mdp-usertrace-sg.heytapmobile.com^
 ||me-ad-lgsmartad-com.aws-prd.net^
 ||me.apple-dns.net^
+||measure.microsoft.com^
 ||measure.office.com^
 ||measure.office.com.akamaized.net^
 ||measure.office.net^
@@ -2061,6 +2062,7 @@
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
+||mssdk16-normal-us-ttp2.capcutapi.us^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-platform-useast5.us.tiktokv.com^
 ||mssdk19-normal-alisg.tiktokv.com^
@@ -2216,7 +2218,6 @@
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
-||officehub.nel.measure.office.net.cardano.com^
 ||om-ad-lgsmartad-com.aws-prd.net^
 ||omes-sec.heytapmobi.com^
 ||omes-sec.heytapmobile.com^
@@ -2353,7 +2354,6 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^
@@ -2442,6 +2442,7 @@
 ||ro-ad-lgsmartad-com.aws-prd.net^
 ||ro-info-lgsmartad-com.aws-prd.net^
 ||roku.adsmeasurement.com^
+||romeccs.microsoft.com^
 ||ro-up.vivoglobal.com^
 ||rs-ad-lgsmartad-com.aws-prd.net^
 ||r.sg.sec.miui.com^
@@ -2741,7 +2742,6 @@
 ||sms-ads-ru.heytapmobile.com^
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sonar.prime-video.amazon.dev^
-||spo.nel.measure.office.net.cardano.com^
 ||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
@@ -2841,7 +2841,6 @@
 ||target-us.samsung.com^
 ||tbm.snssdk.com^
 ||teams-events-data.trafficmanager.net^
-||teams.nel.measure.office.net.cardano.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telemetrycollector.microsoft.com^
