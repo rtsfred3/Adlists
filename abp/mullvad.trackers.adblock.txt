@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-10-06 07:00:59 UTC
+! Generated at 2026-10-07 07:01:01 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
