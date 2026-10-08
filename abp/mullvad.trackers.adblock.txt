@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-10-07 07:01:01 UTC
+! Generated at 2026-10-08 07:00:57 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8255,6 +8255,7 @@
 ||blackenterprise.black.news^
 ||blackjack.abzorbagames.com^
 ||blackmesh.actonservice.com^
+||blackrednecks.com^
 ||blacktri-a.akamaihd.net^
 ||bladv.actonservice.com^
 ||blaltn.physicianschoice.com^
@@ -9096,6 +9097,7 @@
 ||c.arstechnica.com^
 ||carte.fleet-page.total.fr^
 ||cartelsalsa.com^
+||cartersci.com^
 ||cartjoint.com^
 ||cartlug.com^
 ||cartoon.hardalist.com^
@@ -26176,6 +26178,7 @@
 ||muqtti.motoin.de^
 ||mushroomgods.com^
 ||mushywaste.com^
+||musicenforcer.com^
 ||musicflashcard.com^
 ||muteknife.com^
 ||mutemailbox.com^
@@ -37134,6 +37137,7 @@
 ||stats.fishersci.de^
 ||stats.fishersci.it^
 ||stats.flightsphere.com^
+||stats.flixcloud.cc^
 ||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
@@ -44045,6 +44049,7 @@
 ||visma.e-conomic.dk^
 ||vismaturva.visma.fi^
 ||visor.sberbank.ru^
+||visualcommservices.com^
 ||visualscience.external.bbc.co.uk^
 ||vitalimages.actonservice.com^
 ||vitalmedia.actonservice.com^
