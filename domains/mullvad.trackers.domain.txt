@@ -1,4 +1,4 @@
-# Generated at 2026-10-09 07:00:55 UTC
+# Generated at 2026-10-10 07:00:54 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5990,6 +5990,7 @@ analytics.trafficmanager.net
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics-ttp2.tiktokw.eu
 analytics-ttp2.tiktokw.eu.edgesuite.net
 analytics-ttp2.tiktokw.eu.ttdns3.com
@@ -7287,6 +7288,7 @@ a.replaytheseries.com
 a-reporting.nytimes.com
 argos.citruserve.com
 argyleforum.actonservice.com
+ariaclean.com
 aria.inhaabit.com
 ariane.abtasty.com
 a.ria.ru
@@ -8188,6 +8190,7 @@ bikesboard.com
 bilahh.feuvert.fr
 bilder11.markt.de
 bilingualgeek.com
+billionpet.com
 billowybead.com
 billowybelief.com
 billtable.com
@@ -8400,6 +8403,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 bossadmin.pandora.xiaomi.com
@@ -9393,6 +9397,7 @@ cis.schibsted.com
 ciszhp.finanzfrage.net
 ciszhp.gesundheitsfrage.net
 ciszhp.motorradfrage.net
+citizensactive.com
 citizensclimate.actonservice.com
 citizenship.quantresear.ch
 c.it.msn.com
@@ -9501,6 +9506,7 @@ click.emails.creditonebank.com
 click.email.soundhound.com
 click.em.soothe.com
 click.e.progressive.com
+clickersdigest.com
 click.e.tdbank.com
 click.execrank.com
 click-ext.anxa.com
@@ -9752,6 +9758,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-ad-lgsmartad-com.aws-prd.net
 cmass.massmedian.co.jp
@@ -9873,6 +9880,7 @@ cn-zh-ort-stsdk.vivoglobal.com
 cn-zh-prt-stsdk.vivoglobal.com
 cn-zh-stsdk.vivoglobal.com
 co-ad-lgsmartad-com.aws-prd.net
+co-album-api.vivoglobal.com
 coalkitchen.com
 coastersim.com
 coatfood.com
@@ -13794,7 +13802,6 @@ emptyboats.com
 emptyescort.com
 emq.xmpush.xiaomi.com
 emrdnt.sumaity.com
-emrld.cc
 ems-a8net-tracking.easy-myshop.jp
 emsexam.quantresear.ch
 em.stauffersafety.com
@@ -15762,7 +15769,6 @@ gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gk.sina.cn
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -21787,6 +21793,7 @@ maeketing.net.gafas.es
 m.aetv.com
 mafiahairdresser.actonservice.com
 maformationofficinale.actonservice.com
+ma.gamersnexus.net
 magento-recs-sdk.adobe.net
 maggieeatstheangel.com
 magicaljoin.com
@@ -23519,7 +23526,6 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 m.communications.ihmvcu.org
 mcs16-normal-no1a.tiktokw.eu
-mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 mcs16-normal-useastred.tiktokw.eu
 mcs16-normal-useastred.tiktokw.eu.edgesuite.net
@@ -23529,7 +23535,6 @@ mcs.capcutapi.us
 mcs-i18n.tiktok.com
 mcs-i18n.tiktok.com.edgekey.net
 mcs-ie2.tiktokw.eu
-mcs-ie2.tiktokw.eu.dvaitas.lt
 mcs-ie2.tiktokw.eu.edgesuite.net
 mcs-ie2.tiktokw.eu.ttdns3.com
 mcs-ie.tiktokw.eu
@@ -25837,8 +25842,6 @@ mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-no1a.tiktokv.eu
-mon16-normal-no1a.tiktokv.eu.dvaitas.lt
-mon16-normal-no1a.tiktokv.eu.numericable.fr
 mon16-normal-sg.capcutapi.com
 mon16-normal-sg.capcutapi.com.edgesuite.net
 mon16-normal.tiktokv.com
@@ -25847,7 +25850,6 @@ mon16-normal-useast5.tiktokv.us
 mon16-normal-useast8.tiktokv.us
 mon16-normal-useast8.us.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
-mon16-normal-useastred.tiktokv.eu.dvaitas.lt
 mon16-normal-us-ttp2.capcutapi.us
 mon16-normal-us-ttp2.capcutapi.us.edgesuite.net
 mon16-normal-us-ttp.capcutapi.us
@@ -25889,7 +25891,6 @@ mon.domdog.io
 money.clerkie.io
 mon-hl.snssdk.com
 mon-i18n.tiktokv.com
-mon-i18n.tiktokv.com.dvaitas.lt
 monicaatron.com
 mon.ingservices.nl
 monitor.agenedia.com
@@ -27780,6 +27781,7 @@ partiality.itunes.apple.com.edgekey.net
 partnerapp.kravein.com.au
 partnerapp.urbanclap.com
 partnerdev.extasy.com
+partnerfraudevents.trafficmanager.net
 partner.haru-shop.jp
 partner.hubinternational.com
 partnerhut.com
@@ -28093,6 +28095,7 @@ pittaking.openapp.link
 pivotpointsecurity.actonservice.com
 pix.airbusgroup.com
 pix.eads.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
@@ -28551,6 +28554,7 @@ prd-collector-anon.ex.co
 prd-collector-platform.ex.co
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
+prd-qlik-telemetry.servicebus.windows.net
 prd-usw2-requestattribution-iad.apple.com
 prealpha.go.levelbank.com
 prebid.loopmertb.com
@@ -37307,6 +37311,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -37750,6 +37755,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stat.taxlive.nl
 statt-collect.herokuapp.com
 stat.testme.cloud
@@ -39914,6 +39920,7 @@ tp.baur.de
 t.pbr.com
 tp.convertiser.com
 tp.creation-l.de
+tp-em.cc
 t.pennathletics.com
 t.perigold.com
 t.perjeta.com

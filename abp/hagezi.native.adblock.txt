@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-10-09 07:00:22 UTC
+! Generated at 2026-10-10 07:00:20 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -858,6 +858,7 @@
 ||cn-zh-prt-stsdk.vivoglobal.com^
 ||cn-zh-stsdk.vivoglobal.com^
 ||co-ad-lgsmartad-com.aws-prd.net^
+||co-album-api.vivoglobal.com^
 ||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
 ||collection-location-livenet.trafficmanager.net^
@@ -1742,7 +1743,6 @@
 ||m.beehive.in.intl.miui.com^
 ||mcc.miui.com^
 ||mcs16-normal-no1a.tiktokw.eu^
-||mcs16-normal-no1a.tiktokw.eu.dvaitas.lt^
 ||mcs16-normal-no1a.tiktokw.eu.edgesuite.net^
 ||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-useastred.tiktokw.eu.edgesuite.net^
@@ -1752,7 +1752,6 @@
 ||mcs-i18n.tiktok.com^
 ||mcs-i18n.tiktok.com.edgekey.net^
 ||mcs-ie2.tiktokw.eu^
-||mcs-ie2.tiktokw.eu.dvaitas.lt^
 ||mcs-ie2.tiktokw.eu.edgesuite.net^
 ||mcs-ie2.tiktokw.eu.ttdns3.com^
 ||mcs-ie.tiktokw.eu^
@@ -1976,8 +1975,6 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
-||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
-||mon16-normal-no1a.tiktokv.eu.numericable.fr^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal-sg.capcutapi.com.edgesuite.net^
 ||mon16-normal.tiktokv.com^
@@ -1986,7 +1983,6 @@
 ||mon16-normal-useast8.tiktokv.us^
 ||mon16-normal-useast8.us.tiktokv.com^
 ||mon16-normal-useastred.tiktokv.eu^
-||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^
 ||mon16-normal-us-ttp2.capcutapi.us^
 ||mon16-normal-us-ttp2.capcutapi.us.edgesuite.net^
 ||mon16-normal-us-ttp.capcutapi.us^
@@ -2025,7 +2021,6 @@
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon-hl.snssdk.com^
 ||mon-i18n.tiktokv.com^
-||mon-i18n.tiktokv.com.dvaitas.lt^
 ||monitor.scf.pt.xiaomi.com^
 ||monitor-stsdk.vivoglobal.com^
 ||mon.n.xiaomi.com^
@@ -2260,6 +2255,7 @@
 ||partiality.itunes.apple.com^
 ||partiality.itunes-apple.com.akadns.net^
 ||partiality.itunes.apple.com.edgekey.net^
+||partnerfraudevents.trafficmanager.net^
 ||pb.bi.gitv.tv^
 ||pc-mon16-normal-us-ttp2.capcutapi.us^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
@@ -2354,6 +2350,7 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^

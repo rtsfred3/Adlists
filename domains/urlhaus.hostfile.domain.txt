@@ -1,23 +1,21 @@
-# Generated at 2026-10-09 07:00:13 UTC
+# Generated at 2026-10-10 07:00:11 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
+1rvrental.com
 22qq-client.com
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
-3brosstore.com
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
 4eclient.com
-6ak-tehnik.si
 acc.jiangsujiaxue.com
 acms.saleseos.com
 adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
-aetherius.live
 aftelecom.com.br
 aidlifempowerment.com
 aksiyononline.best
@@ -25,7 +23,6 @@ alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
-andbake.cam
 api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
@@ -34,7 +31,6 @@ ascomsecurity.com.au
 athuselevadores.com.br
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-b.clu-e.eu
 beak.in
 beoauto.alexion.rs
 bergmann-automobile.de
@@ -46,10 +42,12 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+briannacorporation.com
 bridgeroad.maverickpreviews.com
 bserail.com
 bumcoinc.site
 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
+c2.teamzeroday.net
 cambodiatouristservice.com
 casasmediterraneas.com
 catbaparadisehotel.com.vn
@@ -58,6 +56,7 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 cdaonline.com.ar
 celebratingseniors.net
+cepde.org
 chat-server.maverickpreviews.com
 checkfivem.com
 chiroartist.com
@@ -79,8 +78,8 @@ data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
+deathboundcraft.com
 debugify.net
-deffnelreports.bramblequarz.ru
 delp-heizungsbau.de
 delta-canvas.com
 dezcom.com
@@ -90,7 +89,6 @@ disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
-docs.cs-supplements.de
 donkeytourscroatia.com
 donutclientsmods.xyz
 donutclients.st
@@ -103,6 +101,7 @@ download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
+downloads.go-xlr.com
 down.pcclear.com
 down.qqfarmer.com.cn
 dreamwatchevent.com
@@ -118,7 +117,7 @@ evergabe-bund.de
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
-fibernetperu.pe
+ficus.in
 file.blackint3.com
 filerit.com
 file.uhsea.com
@@ -135,7 +134,6 @@ galerisenimutiara.com
 gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
-gitrm.cfd
 globalbank.us
 gloryhaven.org
 grantexx.com
@@ -149,22 +147,17 @@ hasalltalent.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
+horno-rafelet.es
 hotelhungry.com
-hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 ikovrsps.com
 impectorinternational.com
 indonesias.me
-intelli-sys.co.zw
 invmove.com
 ircftp.net
 isiore.com.co
-ita-airwaysva.com
-itco.pe
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
@@ -194,6 +187,7 @@ meteorclients.com
 meteorrejects.net
 metrics.gocloudmaps.com
 mibd.org
+micstndasap.world
 miriamgualda.com.br
 mitreart.com
 m.jkoa.co.kr
@@ -201,13 +195,12 @@ mkconstructions.net
 m.meta-dm.com
 mnurlogistics.az
 mogimall.com
-moneylord.org
 mrsweaterltd.com
 muaklekcoop.com
-muledo.com
 multiplay.at
 munihuacho.gob.pe
 mysura.it
+natashamohan.com
 ncxps.com
 nd.tdpqnf.com
 noithaticon.vn
@@ -218,19 +211,16 @@ odinclient.st
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
-omskin.org
 onfiltre.com.tr
 opsecmod.st
+osbot.net
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
-planetariumobil.ro
-plf7x.valci.store
 polarclient.net
 polinexclient.org
 porterneuman.mx
@@ -242,6 +232,7 @@ project0.cc
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
+qq.kipsharijan.cfd
 quillchant14.com
 qv.co.ke
 qwfwhg4.lol
@@ -265,7 +256,6 @@ sablayan.seasonshotelmindoro.com
 safeifm.com
 sales.ifree.page
 samiksha.com.sg
-sandybeachesandsunsets.com
 sayosay.cc
 scanbot.me
 scoala1gherla.ro
@@ -278,7 +268,6 @@ sec.xiaoshabi.nl
 seismophonic.com
 semencepourlavie.org
 seputartuban.com
-severidades.cfd
 sg123.net
 shqdown.ggzuhao.com
 sk-comtel.com
@@ -307,11 +296,13 @@ tanscarattorneys.co.tz
 tapestryoftruth.com
 tartaklegnica.pl
 taunahi.st
+techbud.ro
 tecunonline.com
 tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
+thehaider.com
 theholidayroads.com
 themaintechnician.us
 thementordirectory.com
@@ -323,6 +314,7 @@ toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
+tronzadorasnng.com
 trtmyanmar.com
 tr.zhzy999.net
 twitch.tj
@@ -331,15 +323,14 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 uu.v2raynapps.com.cn
+vedantawisdom.org
 veryboys.com
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
 w5q.eu
-webcstore.pw
 website.mypetapp.co.za
-wicresetconnect.com
 widexenmexico.com.mx
 wielixclient.com
 wielixclient.net
@@ -371,13 +362,13 @@ www.intelligradeeducation.vicentecisnerospub.com
 www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
-www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
 www.okhan.net
+www.osmb.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
@@ -388,6 +379,7 @@ www.starcountry.net
 www.tdejb.com
 www.tecunonline.com
 www.test.peperoncinochepassione.it
+www.tmcksa.com
 www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
@@ -397,7 +389,6 @@ w.zhzy999.net
 xenonclient.com
 xenon.studio
 xiazailianjie.com
-xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
 youtransfer.net
