@@ -1,4 +1,4 @@
-# Generated at 2026-10-13 07:01:01 UTC
+# Generated at 2026-10-14 07:00:57 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4609,6 +4609,7 @@ adlog.vivo.com
 adlog.vivo.com.cn
 adm.adminstrumentengineering.com.au
 ad.magokoro-care-shoku.com
+ad-manager.matsukiyococokara-online.com
 admaxium.com
 admeasure.hh-online.jp
 admediasales.com
@@ -9128,6 +9129,7 @@ catracking.cubiq.com
 catracking.finning.com
 catschickens.com
 cats.d20.rs
+catsthumb.com
 cattell.loanzify.app
 cattlecommittee.com
 cauldronfest.com
@@ -9348,6 +9350,7 @@ chipperisle.com
 chivalrouscord.com
 c.hk.msn.com
 chloro.trip.com
+choicebump.com
 c.holmesmind.com
 chong.sec.miui.com
 choose.adelaide.edu.au
@@ -9886,6 +9889,7 @@ coastersim.com
 coatfood.com
 cobaltoverture.com
 cobweb.actonservice.com
+cockatielcafe.com
 cockpitdcbaima.carte-gr.total.fr
 cocoacafes.com
 co-cota.vivoglobal.com
@@ -10005,6 +10009,7 @@ collegeauthority.actonservice.com
 college.business.oregonstate.edu
 colliers.actonservice.com
 coloradoserves.com
+colorandnoise.com
 colorfulneon.com
 colorfulpet.com
 coloroptimizer.com
@@ -10393,7 +10398,6 @@ contadores.miarroba.es
 content22.bmo.com
 content22.citibank.com.au
 content22.citibankonline.com
-content22.online.citi.com
 content.4teamwork.ch
 content.accelalpha.com
 content.actionbenefits.com
@@ -10447,6 +10451,8 @@ content.qumulo.com
 content.rackspace.co.uk
 content.recordpoint.com
 content.rightsourcemarketing.com
+contents1.00110.citi.com
+contents2.00110.citi.com
 content.sffirecu.org
 contents.pwc.com
 content.stage.mini.pix.style
@@ -10523,6 +10529,7 @@ copytweaks.com
 copyvibes.com
 coralcranes.com
 coralreverie.com
+coralwatches.com
 core-apps.b-cdn.net
 corgibeachday.com
 co-romsp-unifyconfig.vivoglobal.com
@@ -10724,6 +10731,7 @@ crochetdivas.com
 crookedcreature.com
 crossees.com
 crossengage.io
+crossseasent.com
 crowdedmass.com
 cr-relay.com
 crrm.onjoyri.de
@@ -11208,6 +11216,7 @@ da.hornbach.ro
 da.hornbach.se
 da.hornbach.sk
 daifez.thebay.com
+dailydesigned.com
 dailydivision.com
 dailydomino.com
 dajdnm.splits59.com
@@ -11229,6 +11238,7 @@ dapperdiscussion.com
 d-app.progressive.com
 da.rabobank.nl
 darkartsyoga.com
+darngavel.com
 dart.onjoyri.de
 dashboardbntest.branchcustom.xyz
 dash.getsitecontrol.com
@@ -11780,6 +11790,7 @@ dbbest.actonservice.com
 dbex-tracker-v2.driveback.ru
 dbhbgz.suitableshop.nl
 dbj.quebecregion.com
+dblarson.com
 dbl.cadriamarketing.com
 dbmbfe.pegipegi.com
 dbmyvl.apartmentfinder.com
@@ -31804,6 +31815,7 @@ servicing.business.hsbc.com
 servicing.unitedautocredit.net
 serv.letudiant.fr
 se-se.siemensplmevents.com
+session.bugsnag.kindle.amazon.dev
 sessions.bugsnag.com
 sessions.embeddables.com
 session.timecommerce.net
@@ -44689,6 +44701,7 @@ weoccn.bonito.pl
 wepany.tripbeat.com
 wernerelectric.actonservice.com
 wesbgz.travel.co.jp
+we-stats.com.cdn.cloudflare.net
 westeurope-5.in.applicationinsights.azure.com.fiege.de
 westevents.presidio.com
 westsideglobe.com
