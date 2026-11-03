@@ -1,4 +1,4 @@
-# Generated at 2026-11-02 08:00:16 UTC
+# Generated at 2026-11-03 08:00:13 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
