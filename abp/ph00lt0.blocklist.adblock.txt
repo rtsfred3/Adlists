@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-11-13 08:00:20 UTC
+! Generated at 2026-11-14 08:00:25 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -8424,6 +8424,7 @@
 ||bhabhiporn.pro^
 ||bhg23.casino^
 ||bhimiji.com^
+||bhldxx.com^
 ||bhnrewards.com^
 ||bhop.casino^
 ||biabet90.com^
@@ -8733,6 +8734,7 @@
 ||blackjackcasino.site^
 ||blackjack.com^
 ||blackjack-royale.com^
+||blacklemon.dk^
 ||blacklotuscasino.com^
 ||blackmagic.so^
 ||blackoakcasino.com^
@@ -14467,6 +14469,7 @@
 ||design2factorymastery.ng^
 ||designdevelopment.in^
 ||designdrivendaily.com^
+||designerly.com^
 ||designersbrass.com^
 ||design.md^
 ||designr.click^
@@ -14539,6 +14542,7 @@
 ||dfnvjdfnvdjnfvdjfvdndfjvn.com^
 ||dfwioeiofwr.info^
 ||dgads.cc^
+||dgdeepai.com^
 ||dgfcourier.de^
 ||dgi-futureskillseekerspro.info^
 ||dgpzx.com^
@@ -14626,6 +14630,7 @@
 ||digitaleast.mobi^
 ||digitalengine.icu^
 ||digitalfirstretail.com^
+||digitalgenius.com^
 ||digitalgrounds.info^
 ||digitallinkup.com^
 ||digitallity.net^
@@ -16455,6 +16460,7 @@
 ||fastloto-casino.com^
 ||fastly-insights.com^
 ||fast-mob.com^
+||fastmon.eu^
 ||fastone3.casino^
 ||fastory.io^
 ||fastpages.io^
@@ -16838,6 +16844,7 @@
 ||flyn.co^
 ||flyresearch.com^
 ||flyresearch.net^
+||fm.armedangels.com^
 ||fms.ipinyou.com^
 ||fnbox.top^
 ||fn-checker.top^
@@ -19003,6 +19010,7 @@
 ||homerun.co^
 ||home-security-services.com^
 ||homespyvideo.com^
+||hometownstation.com^
 ||homeunix.com^
 ||homeunix.net^
 ||homeunix.org^
@@ -19412,6 +19420,7 @@
 ||identified.cn^
 ||identityprovider.red-gate.com^
 ||identity.tescobank.com^
+||identixweb.com^
 ||ident.me^
 ||idevaffiliate.com^
 ||idevdirect.com^
@@ -22718,6 +22727,7 @@
 ||make-data-safe-again.com^
 ||make-data-safe-again.de^
 ||makemewin.club^
+||makemoneywithoutajob.com^
 ||makeprosimp.com^
 ||makingreview.com^
 ||malakproduction.com^
@@ -24332,6 +24342,7 @@
 ||naqigs.com^
 ||naregruop.com^
 ||narrativ.com^
+||narvar.com^
 ||nasma.be^
 ||nassaucountymls.net^
 ||natashamohan.com^
@@ -28952,6 +28963,7 @@
 ||saadhya.in^
 ||saad.ms.zhangyue.net^
 ||saartoto.de^
+||saasin.io^
 ||saasquatch.com^
 ||saavncdn.com^
 ||sabad724.bio^
@@ -29217,6 +29229,7 @@
 ||scrippsnetworks.com^
 ||script-bd.baixing.net^
 ||scriptcc.cc^
+||scriptengine.net^
 ||scripts.simpleanalyticscdn.com^
 ||scripts.tv2a.dk^
 ||scripts.webcontentassessor.com^
@@ -30462,6 +30475,7 @@
 ||soulapp.cn^
 ||soulfeed.in^
 ||soundestlink.com^
+||soup.io^
 ||sourcepoint.com^
 ||sourcepoint.jezebel.com^
 ||sournatche-jp.com^
@@ -32116,6 +32130,7 @@
 ||theguesstimate.com^
 ||theholyoliveoil.com^
 ||thehuddle.nl^
+||theithubstudios.com^
 ||thejavaconsultants.com^
 ||thejourneyaustralia.com^
 ||thejourney.com^
@@ -32747,6 +32762,7 @@
 ||traviyo.in^
 ||tr-binancelogin.com^
 ||trbna.com^
+||trck222.com^
 ||trckacbm.com^
 ||trck.at^
 ||trckmaniac.com^
@@ -34016,6 +34032,8 @@
 ||visto.li^
 ||visualdna.com^
 ||visualgrocery.com^
+||visually.io^
+||visually-io.com^
 ||visualmes.com^
 ||visualwebsiteoptimizer.com^
 ||visx.net^
@@ -34404,6 +34422,7 @@
 ||webgains.com^
 ||webgenie.io^
 ||webgeoservices.com^
+||webgis1.com^
 ||webherv.com^
 ||webhop.me^
 ||webhostingkorea.com^
