@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-11-14 08:00:31 UTC
+! Generated at 2026-11-15 08:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1563,7 +1563,13 @@
 ||hr-ad-lgsmartad-com.aws-prd.net^
 ||hr-info-lgsmartad-com.aws-prd.net^
 ||hr.tv.global.mi.com^
+||htms.heytapmobile.com^
 ||ht-rdx2-lgtvsdp-com.aws-prd.net^
+||httpdns-euex-push.heytapmobile.com^
+||httpdns.ocloud.heytapmobi.com^
+||httpdns-ocloud.heytapmobile.com^
+||httpdns.push.heytapmobi.com^
+||httpdns-push.heytapmobile.com^
 ||hu-ad-lgsmartad-com.aws-prd.net^
 ||huangye.miui.com^
 ||hu-info-lgsmartad-com.aws-prd.net^
@@ -2728,6 +2734,7 @@
 ||om-rdx2-lgtvsdp-com.aws-prd.net^
 ||oms-analytics.trafficmanager.net^
 ||onrt-stsdk.vivoglobal.com^
+||oop-installer-gl.heytapmobile.com^
 ||opay.heytapmobile.com^
 ||openapi.vip.ptqy.gitv.tv^
 ||openlocation-drcn.platform.dbankcloud.com^
@@ -3820,6 +3827,7 @@
 ||video.market.xiaomi.com^
 ||vip-api.xmpush.global.xiaomi.com^
 ||vip-api.xmpush.xiaomi.com^
+||virusinfo-cloudscan-in.heytapmobile.com^
 ||visio-telemetry.officeapps.live.com^
 ||vn-ad-lgsmartad-com.aws-prd.net^
 ||vn-info-lgsmartad-com.aws-prd.net^

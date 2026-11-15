@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-11-14 08:00:25 UTC
+! Generated at 2026-11-15 08:00:18 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -3886,6 +3886,7 @@
 ||aaranonigeria.com^
 ||aarki.com^
 ||aaroads.com^
+||aaroncoin.fun^
 ||a-artisan.ru^
 ||aashrayaoldagehome.com^
 ||aasmul.net^
@@ -22661,6 +22662,7 @@
 ||mail25.info^
 ||mail2jake.com^
 ||mail4.pl^
+||mailalo.com^
 ||mailapplication.click^
 ||mailba.uk^
 ||mailblaze.com^

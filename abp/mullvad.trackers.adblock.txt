@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-11-14 08:00:56 UTC
+! Generated at 2026-11-15 08:00:49 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -17361,10 +17361,16 @@
 ||htewng.plesio.bg^
 ||hthzoa.notino.hu^
 ||htmgrl.jollyroom.no^
+||htms.heytapmobile.com^
 ||htplayground.com^
 ||htqfxh.vuch.cz^
 ||htrace.wetvinfo.com^
 ||ht-rdx2-lgtvsdp-com.aws-prd.net^
+||httpdns-euex-push.heytapmobile.com^
+||httpdns.ocloud.heytapmobi.com^
+||httpdns-ocloud.heytapmobile.com^
+||httpdns.push.heytapmobi.com^
+||httpdns-push.heytapmobile.com^
 ||httr.redskins.com^
 ||hu-ad-lgsmartad-com.aws-prd.net^
 ||huangye.miui.com^
@@ -27901,6 +27907,7 @@
 ||oo.ooshop.com^
 ||o.opentable.com^
 ||o.opentable.co.uk^
+||oop-installer-gl.heytapmobile.com^
 ||oopt.norauto.es^
 ||ooqbml.tac-school.co.jp^
 ||oossod.potterybarn.ae^
@@ -44827,6 +44834,7 @@
 ||vipyou.bulkpowders.es^
 ||viralfoodie.net^
 ||virtualvincent.com^
+||virusinfo-cloudscan-in.heytapmobile.com^
 ||vision.cbre.com.au^
 ||vision.cbresi.com.au^
 ||visio-telemetry.officeapps.live.com^
