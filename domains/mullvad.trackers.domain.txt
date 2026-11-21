@@ -1,4 +1,4 @@
-# Generated at 2026-11-20 08:00:59 UTC
+# Generated at 2026-11-21 08:00:53 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4839,7 +4839,6 @@ ads-us-west-2.delivery.roku.com
 ads-va.business-tiktok.com
 ads-va.tiktok.com
 adsyndication.msn.com
-adsyndication.msn.com.nsatc.net
 ads.z.data.roku.com
 ad.takasu.co.jp
 adtarget.barcainnovationhub.com
@@ -5716,7 +5715,6 @@ analytics.ikyu.com
 analytic.simplyhealth.co.uk
 analytics.infraloods.nl
 analytics.inquisitr.com
-analyticsiot-prod-mobileapps-ehn.servicebus.windows.net
 analytics-ipv6.tiktokw.us
 analytics-ipv6.tiktokw.us.edgesuite.net
 analytics.iraiser.eu
@@ -8766,6 +8764,7 @@ brotherslocket.com
 brownboxgroup.com
 browndogmanor.com
 brownmouse.net
+browser-api-au.heytapmobile.com
 browser-api-br.heytapmobile.com
 browser-api-fr.heytapmobile.com
 browser-api-gl-01.heytapmobile.com
@@ -12140,7 +12139,6 @@ defensevest.com
 defygravity.convio.com
 defyingbelief.com
 de-gdpr-err-up.vivoglobal.com
-de-gdpr-vcode-api.vivoglobal.com
 de-go.experian.com
 degreechariot.com
 degree.insead.edu
@@ -14326,6 +14324,7 @@ etx.indiatimes.com
 etznkn.ec-store.net
 eu-1-id5-sync.com
 eu7-info-lgsmartad-com.aws-prd.net
+eu7-rdx2-lgtvsdp-com.aws-prd.net
 eu-album-api.vivoglobal.com
 eu-api-stsdk.vivoglobal.com
 euapp.levi.com
@@ -14387,7 +14386,6 @@ eum.instana.rewe-group.com
 eu-mobile.events.data.microsoft.com
 eu-monitor-stsdk.vivoglobal.com
 e.unchealthcare.org
-eu-nrt-stsdk.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
@@ -14591,6 +14589,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events-sandbox.data.microsoft.com
+events-sandbox.data.msn.cn
 events-sandbox.data.msn.com
 events.santander.co.uk
 events.searchtap.net
@@ -15135,7 +15134,6 @@ flpwto.lohaco.jp
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
-fls-eu.amazon-adsystem.com
 fls-eu.amazon.ae
 fls-eu.amazon.com
 fls-eu.amazon.com.be
@@ -15151,13 +15149,11 @@ fls-eu.amazon.nl
 fls-eu.amazon.pl
 fls-eu.amazon.sa
 fls-eu.amazon.se
-fls-fe.amazon-adsystem.com
 fls-fe.amazon.co.jp
 fls-fe.amazon.com
 fls-fe.amazon.com.au
 fls-fe.amazon.sg
 fls-fe-opf.amazon.com
-fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
 fls-na.amazon.com.br
@@ -17517,7 +17513,6 @@ icg-in.info
 icharts.actonservice.com
 ichnaea-web.netflix.com
 icmakp.united-arrows.tw
-icmskillevents.trafficmanager.net
 i-cn01a.ocloud.heytapmobi.com
 icoktb.onygo.com
 i.compendium.com
@@ -17553,6 +17548,7 @@ i.degoo.com
 id.ekatox.com
 identification.hotmart.com
 identity.browserapps.amazon.de
+identity.nel.measure.office.net.intern.schreinereistumpf.de
 identitypxl.app
 i-dev.villa.ge
 idg1.idgarages.com
@@ -19164,6 +19160,7 @@ inqueritos.cp.pt
 inqueritos-qa.cp.pt
 inquisitiveinvention.com
 in-rdx2-lgtvsdp-com.aws-prd.net
+in-rt-stsdk.vivoglobal.com
 ins.connatix.com
 insectmacros.com
 insideinspire.com
@@ -21609,7 +21606,6 @@ log15-normal-useast2a.tiktokv.com
 log16-applog-useast5.us.tiktokv.com
 log16.byteoversea.com
 log16-normal-alisg.tiktokv.com
-log16-normal-alisg.tiktokv.com.kp45.ru
 log16-normal.capcutapi.com
 log16-normal.capcutapi.com.edgesuite.net
 log16-normal-c-useast1a.tiktokv.com
@@ -21654,7 +21650,6 @@ log19-normal-zr-useast1a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
-log22-normal-alisg.tiktokv.com.kp45.ru
 log22-normal.capcutapi.com
 log22-normal-sg.capcutapi.com
 log22-normal.tiktokv.com
@@ -26134,6 +26129,7 @@ mistat.rus.xiaomi.com.edgesuite.net
 mistat.rus.xiaomi.com.ksyna.net
 mistat.xiaomi.com
 mistat.xiaomi.com.download.ks-cdn.com
+mistat.xiaomi.com.mgslb.com
 mistertees.net
 mistervillas.com
 mistyhorizon.com
@@ -26345,7 +26341,6 @@ mon15-normal.tiktokv.com
 mon15-normal-useast1a-checkout.tiktokv.com
 mon15-normal-useast1a.tiktokv.com
 mon16-normal-alisg.tiktokv.com
-mon16-normal-alisg.tiktokv.com.kp45.ru
 mon16-normal.capcutapi.com
 mon16-normal.capcutapi.com.edgesuite.net
 mon16-normal-c-useast1a.tiktokv.com
@@ -28003,6 +27998,7 @@ open.uzitapp.com
 open.wynk.in
 operationchicken.com
 operationnail.com
+opex-service-eu-allawna-e3dde.fr-w01.cngw.allawnos.com
 opex-service-eu.allawnos.com
 opex-service-in.allawnos.com
 opex-service-sg.allawnos.com
@@ -28624,6 +28620,7 @@ pgs.farmprogress.com
 pgt1.voyage-prive.es
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr2-excel-telemetry-vip.officeapps.live.com
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -28637,8 +28634,8 @@ pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
-pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
+pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -29328,6 +29325,7 @@ prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
+prod-event-relay-web-api.v.aaplimg.com
 prod-events.nykaa.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
@@ -30623,7 +30621,6 @@ rtlog16-applog-useast1a.tiktokv.com
 rtlog16-applog-useast2a.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog16-normal-alisg.tiktokv.com
-rtlog16-normal-alisg.tiktokv.com.kp45.ru
 rtlog16-normal-ie.tiktokv.eu
 rtlog16-normal-ind.tiktokv.com
 rtlog16-normal-no1a.tiktokv.eu
@@ -30660,7 +30657,6 @@ rtlog19-platform-useast5.us.tiktokv.com
 rtlog22-applog-useast1a.tiktokv.com
 rtlog22-applog-useast2a.tiktokv.com
 rtlog22-normal-alisg.tiktokv.com
-rtlog22-normal-alisg.tiktokv.com.kp45.ru
 rtlog22-normal.tiktokv.com
 rtlog22-normal-useast1a.tiktokv.com
 rtlog22-normal-useast2a.tiktokv.com
@@ -36719,6 +36715,7 @@ sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
+sponsored-ads-euc-1.amazon-adsystem.com
 sponsored-ads-eu-south-2.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
@@ -42546,7 +42543,6 @@ tr.info.vip-mag.co.uk
 tr.info.webikeo.fr
 t-ring-fallback.msedge.net
 t-ring-fallbacks1.msedge.net
-t-ring-fallback-s2.msedge.net
 t-ring.msedge.net
 t-ring-s2.msedge.net
 t-ring-trafficshield.msedge.net
@@ -43564,7 +43560,6 @@ try.tableau.com
 try.tableausoftware.com
 tryzens-analytics.com
 tr.zojh.espmp-aluk.net
-t-s2-ring.msedge.net
 t-s.actemra.com
 t-s.activase.com
 tsa-f.webex.com
@@ -44201,7 +44196,6 @@ usingyourcard.americanexpress.co.uk
 us.lucanet.com
 us-marketing.roxtec.com
 us.mattamyhomes.com
-us-mesh-events-data-leafs.trafficmanager.net
 usmetric.rediff.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
 us.noteapi.micloud.xiaomi.net.iberostar.com
