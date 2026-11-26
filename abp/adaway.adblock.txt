@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-11-25 08:00:20 UTC
+! Generated at 2026-11-26 08:00:23 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 ! 
