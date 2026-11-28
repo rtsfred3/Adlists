@@ -1,4 +1,4 @@
-# Generated at 2026-11-27 08:00:44 UTC
+# Generated at 2026-11-28 08:00:58 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4734,7 +4734,6 @@ adpia.client.adpinfo.com
 ad-platform.jmty.jp
 adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
-ad.qa.ap.int.roku.com
 ad.quickapp.hybrid.xiaomi.com
 ad.rejichoice.jp
 adrsbl.io
@@ -4839,6 +4838,7 @@ ads-us-west-2.delivery.roku.com
 ads-va.business-tiktok.com
 ads-va.tiktok.com
 adsyndication.msn.com
+adsyndication.msn.com.nsatc.net
 ads.z.data.roku.com
 ad.takasu.co.jp
 adtarget.barcainnovationhub.com
@@ -4894,7 +4894,6 @@ adtrack.loracle.jp
 adtrack.maisonlexia.com
 adts.lgtvcommon.com
 adultium.com
-ad.usw2.qa.ap.int.roku.com
 adv-analytics-collector.videograph.ai
 advancedsolutions.actonservice.com
 advancing.acams.org
@@ -4954,6 +4953,7 @@ adv.sec.miui.com
 adv-sv-stat.focus.cn
 advtek.actonservice.com
 adwmab.card-db.com
+adx-ads-fr-heytapmobila-c7870.fr-w01.cngw.heytapmobile.com
 adx-ads-fr.heytapmobile.com
 adx-ads.realmemobile.com
 adx-ads-ru.heytapmobile.com
@@ -4973,6 +4973,7 @@ adx-drru.op.dbankcloud.com
 adx-drru.op.hicloud.com
 adxh3-op-sg.heytapmobile.com
 ad.xiaomi.com
+ad.xiaomi.com.mgslb.com
 adx-in-ads.realmemobile.com
 adxlog-adnet.vivo.com.cn
 adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
@@ -4982,6 +4983,7 @@ adx-op-ru.heytapmobile.com
 adx-op-sg.heytapmobile.com
 adx.tv.mi.com
 adxu-bigo-sg.heytapmobile.com
+adx-u-fr.heytapmobile.com
 adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com
 adx-u-in.heytapmobile.com
 adx-union-sg.heytapmobile.com
@@ -8480,7 +8482,6 @@ bookbeef.com
 booking.getwaitnot.com
 book.londonsoundacademy.com
 books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 boomboomcloud.com
 boomerang.dell.com
 boostbehavior.com
@@ -8772,6 +8773,7 @@ browser-api-gl.heytapmobile.com
 browser-api-id.heytapmobile.com
 browser-api-in.heytapmobile.com
 browser-api-my.heytapmobile.com
+browser-api-nz.heytapmobile.com
 browser-api-ph.heytapmobile.com
 browser-api-ru.heytapmobile.com
 browser-api-th.heytapmobile.com
@@ -9015,6 +9017,7 @@ c319tpiw462o.segops.madisonspecs.com
 c3-bgp.pandora.xiaomi.com
 c3metrics.medifast1.com
 c3mini.pandora.xiaomi.com
+c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net
 c4c9.pandasuite.io
 c4cm.actonservice.com
 c4contexture.actonservice.com
@@ -10295,6 +10298,7 @@ confiant.msn.com
 confidencetalks.com
 configchain.com
 configcontrol.com
+config.fp.measure.office.com.homeonair.net
 configure.adlermode.com
 conf-in-dc.heytapdl.com
 conf-in-dc.heytapmobile.com
@@ -13296,6 +13300,9 @@ economicadvantage.midamerican.com
 economies.adp.ca
 economysoil.com
 ec-rdx2-lgtvsdp-com.aws-prd.net
+ecs.nel.measure.office.net.edf.fr
+ecs.nel.measure.office.net.grt.edf.fr
+ecs.nel.measure.office.net.homeonair.net
 ec.thredup.com
 ecu.hagerty.com
 ecvmbusiness.mtn.co.za
@@ -14386,6 +14393,7 @@ eum.instana.rewe-group.com
 eu-mobile.events.data.microsoft.com
 eu-monitor-stsdk.vivoglobal.com
 e.unchealthcare.org
+eu-nrt-stsdk.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
@@ -14589,7 +14597,6 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events-sandbox.data.microsoft.com
-events-sandbox.data.msn.cn
 events-sandbox.data.msn.com
 events.santander.co.uk
 events.searchtap.net
@@ -14656,6 +14663,7 @@ ex-adreq-asia.vivoglobal.com
 ex-adreq-in.vivoglobal.com
 exampleshake.com
 exbujk.glamood.com
+excelonline.nel.measure.office.net.homeonair.net
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
 exchange.carte-gr.total.fr
@@ -14682,6 +14690,7 @@ eximius.epoise.com
 exitachieve.myre.io
 exitblocked.com
 exmeqy.smartbuyglasses.de
+exo.nel.measure.office.net.homeonair.net
 expansioneggnog.com
 experianmatch.info
 experience2013.elliemae.com
@@ -14942,7 +14951,6 @@ feedback.nslsc-csnpe.ca
 feedback.search.microsoft.com
 feedbackws.fe2.apple-dns.net
 feedbackws.fe.apple-dns.cn
-feedbackws.fe.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
 feedme.use-beez.com
@@ -17245,6 +17253,7 @@ hlygsp.modivo.ro
 hmakpa.saksoff5th.com
 hmcncq.pierreetvacances.com
 hmeagu.e87.com
+hme-live-loganalytics-namespace.servicebus.windows.net
 hmeoda.restplatzboerse.ch
 hmeqvp.essencemakeup.com
 hme-uat-loganalytics-namespace.servicebus.windows.net
@@ -19834,6 +19843,7 @@ jscoinminer.com
 jshkyh.29cm.co.kr
 jslog.post.cz
 js.monitor.azure.com
+js.monitor.azure.com.homeonair.net
 jsomtq.telescope.com
 jspqms.bellevue-ferienhaus.de
 js.verisoul.ai
@@ -19978,7 +19988,6 @@ keyade.alltricks.fr
 keyade.ooreka.fr
 keyade.uniqlo.com
 keyes.myre.io
-keyniusprod-events.trafficmanager.net
 keynotegroup.actonservice.com
 k.flynas.com
 kftfhp.furusato-tax.jp
@@ -21561,6 +21570,7 @@ local-shares.ri.la
 locateskill.com
 location16-normal-useastred.tiktokw.eu
 location.capcutapi.us
+location-i18n.tiktok.com
 location-i18n.tiktokv.com
 location-ie.tiktokv.eu
 location.imsmetals.com
@@ -21833,7 +21843,6 @@ logs.dev.sr.roku.com
 logsdk.kwai-pro.com
 logs.dynamicauth.com
 log.seekda.com
-logserver.nzxcloud.cn
 logservice1.dbankcloud.com
 logservice1.hicloud.com
 logservice-dra.platform.hicloud.com
@@ -21859,7 +21868,6 @@ logs.n.xiaomi.com
 logs.openbank.com
 logs-partners.coupang.com
 logs.prod.ap.int.roku.com
-logs.qa.ap.int.roku.com
 logs.roku.com
 logs.spilgames.com
 logs.sr.roku.com
@@ -22248,6 +22256,7 @@ m.1gr.cz
 m1.stadiumgoods.com
 m2t.actonservice.com
 m2.washmen.com
+m365cdn.nel.measure.office.net.homeonair.net
 m3ds.subarumetropolitain.com
 m3uef4b38brmbntdzx.franchiseplus.nl
 m4zoxtrcea1k.controlconceptsusa.com
@@ -26341,6 +26350,7 @@ mon15-normal.tiktokv.com
 mon15-normal-useast1a-checkout.tiktokv.com
 mon15-normal-useast1a.tiktokv.com
 mon16-normal-alisg.tiktokv.com
+mon16-normal-alisg.tiktokv.com.www.sterenwifi.com
 mon16-normal.capcutapi.com
 mon16-normal.capcutapi.com.edgesuite.net
 mon16-normal-c-useast1a.tiktokv.com
@@ -27219,7 +27229,6 @@ nostalgicknot.com
 nostalgicneed.com
 notcardboard.com
 notes-analytics-events.apple.com
-notes-analytics-events.news.apple-dns.net
 notice.game.xiaomi.com
 notice.hoopladigital.com
 notices.regis.edu
@@ -27907,6 +27916,7 @@ onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
 onemorebump.com
 onenet.gakujutsu.com
+onenoteonline.nel.measure.office.net.homeonair.net
 onesimpleweek.com
 onesourcebackground.actonservice.com
 one-source.tax.thomsonreuters.com
@@ -28620,7 +28630,8 @@ pgs.farmprogress.com
 pgt1.voyage-prive.es
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr2-excel-telemetry-vip.officeapps.live.com
-pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr2-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -28634,8 +28645,9 @@ pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
+pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
-pgtmx1-excel-telemetry-vip.officeapps.live.com
+pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -29317,7 +29329,6 @@ procroanalytics.com
 procurement.cipscomms.org
 prod-app-analytics-event-gateway.v.aaplimg.com
 prod.editor.ads.trafficmanager.net
-prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
@@ -29325,7 +29336,6 @@ prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
-prod-event-relay-web-api.v.aaplimg.com
 prod-events.nykaa.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
@@ -30631,6 +30641,7 @@ rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
 rtlog16-normal-useast8.us.tiktokv.com
 rtlog16-normal-useastred.tiktokv.eu
+rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de
 rtlog16-normal-zr-alisg.tiktokv.com
 rtlog16-normal-zr.tiktokv.com
 rtlog16-normal-zr-useast1a.tiktokv.com
@@ -30787,6 +30798,7 @@ ruralrobin.com
 ru-rdx2-lgtvsdp-com.aws-prd.net
 ru-register.xmpush.global.xiaomi.com
 ru-romsp-unifyconfig.vivoglobal.com
+ru-rt-stsdk.vivoglobal.com
 ru-ru.siemensplmevents.com
 rus.foreign.coloros.com
 rus.miui.com
@@ -31211,7 +31223,6 @@ samples.voice.cti.roku.com
 sams.11freunde.de
 sams.spiegel.de
 samsungacr.com
-samsungadhub.com
 samsungads.adsmeasurement.com
 samsungads.com
 samsungafrica.demdex.net
@@ -36687,6 +36698,7 @@ splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
 sp.naver.com
+spo.nel.measure.office.net.homeonair.net
 sponsored-ads.amazon.ae
 sponsored-ads.amazon.ca
 sponsored-ads.amazon.co.jp
@@ -36716,6 +36728,7 @@ sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
 sponsored-ads-euc-1.amazon-adsystem.com
+sponsored-ads-eu.jobs.amazon.co.za
 sponsored-ads-eu-south-2.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
@@ -38701,7 +38714,6 @@ stockerator.com
 stockingsleet.com
 stockingsneeze.com
 stocks-analytics-events.apple.com
-stocks-analytics-events.news.apple-dns.net
 stocktheme.com
 stomachscience.com
 st.onemazdausa.com
@@ -39790,6 +39802,7 @@ teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
 team.moxtra.com
 teams-events-data.trafficmanager.net
+teams.nel.measure.office.net.homeonair.net
 teamstatus.net
 tearfulglass.com
 te.baur.de
@@ -44090,7 +44103,9 @@ upeayz.eksisozluk.com
 upfmqr.carmensteffens.com.br
 upgrade.pandora.xiaomi.com
 upgradeyoga.com
+upload2.fp.measure.office.com.homeonair.net
 upload.euleriancdn.net
+upload.fp.measure.office.com.homeonair.net
 uppbrl.thomassabo.com
 uppitytime.com
 upqmpu.leasingtime.de
@@ -44196,6 +44211,7 @@ usingyourcard.americanexpress.co.uk
 us.lucanet.com
 us-marketing.roxtec.com
 us.mattamyhomes.com
+us-mesh-events-data-leafs.trafficmanager.net
 usmetric.rediff.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
 us.noteapi.micloud.xiaomi.net.iberostar.com
@@ -45245,7 +45261,6 @@ wealthcarecapital.actonservice.com
 wealth.informabi.com
 weare.ballymoregroup.com
 weather-analytics-events.apple.com
-weather-analytics-events.news.apple-dns.net
 weatherbytes.net
 weatherpush.net
 web1.51.la
